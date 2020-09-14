@@ -19,3 +19,9 @@ When i try to reset my password, they sent me a password reset link. So far ever
 After i set a new password, they sent my new password as mail.
 
 ![image-3](kitapyurducom/kitapyurducom-1.png)
+
+## Yeninesilhobi.com
+
+When you register to website, they send your password in "welcome" mail. 
+
+![image-4](yeninesilhobicom/yeninesilhobicom-1.png)
