@@ -11,3 +11,11 @@ After i registered to website, i tried uppercase version of my password and i co
 When i tried to "forgot password" option, they really remind your password. They send your password cleartext as mail.
 
 ![image-2](pandoracomtr/pandoracomtr-2.png)
+
+## Kitapyurdu.com
+
+When i try to reset my password, they sent me a password reset link. So far everything is okay. I thought they don't keep password cleartext.
+
+After i set a new password, they sent my new password as mail.
+
+![image-3](kitapyurducom/kitapyurducom-1.png)
