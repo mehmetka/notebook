@@ -21,7 +21,8 @@
 - Test Account Provisioning Process (OTG-IDENT-003)
 - Testing for Account Enumeration and Guessable User Account (OTG-IDENT-004)
 - Testing for Weak or unenforced username policy (OTG-IDENT-005)
-- Testing for Credentials Transported over an Encrypted Channel (OTG-AUTHN-001) Testing for default credentials (OTG-AUTHN-002)
+- Testing for Credentials Transported over an Encrypted Channel (OTG-AUTHN-001)
+- Testing for default credentials (OTG-AUTHN-002)
 - Testing for Weak lock out mechanism (OTG-AUTHN-003)
 - Testing for bypassing authentication schema (OTG-AUTHN-004)
 - Test remember password functionality (OTG-AUTHN-005)
@@ -29,7 +30,7 @@
 - Testing for Weak password policy (OTG-AUTHN-007)
 - Testing for Weak security question/answer (OTG-AUTHN-008)
 - Testing for weak password change or reset functionalities (OTG-AUTHN-009)
-- Testing for Weaker authentication in alternative channel (OTG-AUTHN-010) Authorization Testing
+- Testing for Weaker authentication in alternative channel (OTG-AUTHN-010)
 - Testing Directory traversal/file include (OTG-AUTHZ-001)
 - Testing for bypassing authorization schema (OTG-AUTHZ-002)
 - Testing for Privilege Escalation (OTG-AUTHZ-003)
@@ -62,19 +63,20 @@
 - Testing for Code Injection (OTG-INPVAL-012)
     - Testing for Local File Inclusion
     - Testing for Remote File Inclusion
-    - Testing for Command Injection (OTG-INPVAL-013) 
-    - Testing for Buffer overflow (OTG-INPVAL-014)
+- Testing for Command Injection (OTG-INPVAL-013) 
+- Testing for Buffer overflow (OTG-INPVAL-014)
     - Testing for Heap overflow
     - Testing for Stack overflow
     - Testing for Format string
-    - Testing for incubated vulnerabilities (OTG-INPVAL-015) 
-    - Testing for HTTP Splitting/Smuggling (OTG-INPVAL-016)
+- Testing for incubated vulnerabilities (OTG-INPVAL-015) 
+- Testing for HTTP Splitting/Smuggling (OTG-INPVAL-016)
 - Analysis of Error Codes (OTG-ERR-001)
 - Analysis of Stack Traces (OTG-ERR-002)
 - Testing for Weak SSL/TLS Ciphers, Insufficient Transport Layer Protection (OTG-CRYPST-001) 
 - Testing for Padding Oracle (OTG-CRYPST-002)
 - Testing for Sensitive information sent via unencrypted channels (OTG-CRYPST-003)
-- Test Business Logic Data Validation (OTG-BUSLOGIC-001) Test Ability to Forge Requests (OTG-BUSLOGIC-002)
+- Test Business Logic Data Validation (OTG-BUSLOGIC-001) 
+- Test Ability to Forge Requests (OTG-BUSLOGIC-002)
 - Test Integrity Checks (OTG-BUSLOGIC-003)
 - Test for Process Timing (OTG-BUSLOGIC-004)
 - Test Number of Times a Function Can be Used Limits (OTG-BUSLOGIC-005) 
