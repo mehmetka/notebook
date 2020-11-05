@@ -1,3 +1,5 @@
+# [OWASP Testing Guide v4.0](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
+
 - Conduct Search Engine Discovery and Reconnaissance for Information Leakage (OTG-INFO-001) 
 - Fingerprint Web Server (OTG-INFO-002)
 - Review Webserver Metafiles for Information Leakage (OTG-INFO-003)
