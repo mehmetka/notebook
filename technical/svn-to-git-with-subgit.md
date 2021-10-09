@@ -22,8 +22,9 @@
 	```$ git config --unset core.bare```
 
 ### Seng to remote
-- $ git remote add origin ${remote-address}
-- $ git push origin master
+```$ git remote add origin ${remote-address}```
+
+```$ git push origin master```
 
 ## References
 - https://support.tmatesoft.com/t/cannot-commit-timeout-waiting-for-pid-file/2410
