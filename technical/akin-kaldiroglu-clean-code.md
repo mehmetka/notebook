@@ -1,0 +1,30 @@
+En iyi kod yazilmayan kod
+Written by someone who cares
+Tekrarsiz
+Gelistirmek degil, degistirmek zordur.
+Clean code bir ahlaki problem.
+A philosophy of software design
+Obscurity - muglaklik # obscurity occurs when important information is not obvious
+Clean code kitabinin analitiklik, sistematiklik eksikligi var
+Basit, Simple
+Odakli, Focused
+Dogru, Correct
+Tam, Complete
+Basit, hicbir sekilde basit degil. Basitlik meziyettir. Basitlik surec sonunda kazanilacak bir seydir.
+Basitlik nihai karmasikliktir. Simplicity is the ultimate sophistication ~ Da Vinci
+Iyilestirme temelde, cikarmak ve bolup parcalamaktir.
+Mukemmellik, eklenecek bir sey olmadiginda degil, cikarilacak bir sey olmadiginda basarilir.
+Illusion of simplicity
+Tekduzelik, takip edilebilirlik
+Her satirda tek bir is yapmak.
+Ne kadar az if, o kadar iyi
+Problem aslinda abstraction layerda.
+Isimlendirme dusuncemizi sekillendirir. Iyi isim iyi dusunce.
+Isim dusunceyi onceler.
+Isimlendiremediginiz sey yoktur.
+Kisaltmayin
+Bir sey soylesin bana: int hour -> int timeToCook, calculateKm -> calculateDistanceBetween
+Yazilim kuculerek buyur.
+Atomik is yapan fonksiyonlar
+Metod copy paste ile alinamayacak kadar kucuk olmalidir.
+~ 17092020
