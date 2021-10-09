@@ -14,11 +14,14 @@
 - Arrange .git/subgit/authors.txt file by your users
 
 ### Start to convert
-- $ subgit install .git
+```$ subgit install .git```
+
+### After converting done
 - If you get this error: "fatal: this operation must be run in a work tree" then run
 
 	```$ git config --unset core.bare```
 
+### Seng to remote
 - $ git remote add origin ${remote-address}
 - $ git push origin master
 
