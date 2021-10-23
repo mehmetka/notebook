@@ -10,7 +10,7 @@
 
 ### Subgit configurations
 - Add SVN "username password" to .git/subgit/passwd file
-- Add "launchTimeout = 60" to end of .git/subgit/config file *Ref1
+- Add "launchTimeout = 60" to end of .git/subgit/config file
 - Arrange .git/subgit/authors.txt file by your users
 
 ### Start to convert
@@ -21,7 +21,7 @@
 
 	```$ git config --unset core.bare```
 
-### Seng to remote
+### Send to remote
 ```$ git remote add origin ${remote-address}```
 
 ```$ git push origin master```
