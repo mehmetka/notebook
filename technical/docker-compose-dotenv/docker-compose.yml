@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  db:
+    container_name: mysql
+    image: mysql:5.6.28
+    restart: always
+    environment:
+      MYSQL_DATABASE: ${DB_NAME}
+      MYSQL_USER: ${DB_USER}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
