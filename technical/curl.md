@@ -1,1 +1,4 @@
-- Practical basic auth usage: $ curl user:pass@host
+- Practical basic auth usage: 
+```bash
+curl user:pass@host
+```
