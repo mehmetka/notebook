@@ -1,0 +1,1 @@
+- Practical basic auth usage: $ curl user:pass@host
