@@ -1,5 +1,5 @@
 # Github Flow - Feature Branch Workflow
-The Feature Branch Workflow assumes a central repository and master represents the official project history. Instead of committing directly on the master branch, developers can create a new branch every time they start work on a new feature. Feature branches should have descriptive names. *
+The Feature Branch Workflow assumes a central repository and master represents the official project history. Instead of committing directly on the master branch, developers can create a new branch every time they start work on a new feature. Feature branches should have descriptive names.
 
 The suggested way to utilize this type of workflow would follow a hierarchal method that distinguishes between various levels of staff. 
 Before a branch is merged to master, it needs to be verified and checked for errors:
@@ -14,14 +14,16 @@ Junior developers can create a merge request and assign it to one of the senior 
 1. Once it is merged and pushed to master, Your feature is ready for deployment.  
 
 ## Advantages
-it is friendly for the Continuous Delivery and Continuous Integration  
-A simpler alternative to Git Flow  
-It is ideal when it needs to maintain a single version in production  
+- it is friendly for the Continuous Delivery and Continuous Integration  
+- A simpler alternative to Git Flow  
+- It is ideal when it needs to maintain a single version in production  
 
 ## Disadvantages
-The production code can become unstable most easily  
-Are not adequate when it needs the release plans  
-It doesn’t resolve anything about deploy, environments, releases, and issues  
-It isn’t recommended when multiple versions in production are needed.  
+- The production code can become unstable most easily  
+- Are not adequate when it needs the release plans  
+- It doesn’t resolve anything about deploy, environments, releases, and issues  
+- It isn’t recommended when multiple versions in production are needed.  
 
-[*] https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+## Sources
+- https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+- https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
