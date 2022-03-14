@@ -1,11 +1,6 @@
 # Linux, Shell Commands Notes
 - To not keep track command history, write commands start with whitespace
-
-- Find duplicate lines in a file
-```
-cat data.txt | sort | uniq -d 
-```
-
+- Find duplicate lines in a file```cat data.txt | sort | uniq -d ```
 - Write command(s) into "rc.local" to execute on boot
 - Delete history: ```history -c```
 - Find anything: ```find / -iname "*.err”```
