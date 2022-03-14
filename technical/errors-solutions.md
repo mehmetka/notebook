@@ -24,3 +24,14 @@ Add --platform flag to pull right images
 ```
 docker build -t imagename --platform linux/amd64 .
 ```
+
+## 003
+Error Message:
+```
+... es no alive nodes found in your cluster elasticsearch ...
+```
+
+Solution:
+```
+$ setsebool httpd_can_network_connect 1
+```
