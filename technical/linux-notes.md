@@ -8,3 +8,4 @@
 - ```netstat -ant``` -> Active Internet connections (including servers)
 - Delete files inside of a directory: ```rm -f dirName/*```
 - Search a keyword and show 2 lines before/after ```grep -B 2 -A 2 keyword README.txt``` 
+- ```watch -n 5 date``` run any command at regular intervals
