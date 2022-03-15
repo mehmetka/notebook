@@ -5,7 +5,7 @@
 ```
 
 ## Fulltext Search with "WHERE MATCH ... AGAINST ..."
-- Add fulltext search index that you want to search columns:
+Add fulltext search index that you want to search columns:
 ```sql
 FULLTEXT KEY `fti_product` (`product`)
 ```
