@@ -1,7 +1,7 @@
 - This command will ng whitespace. To not delete lines containialso delete lines containing only whitespace, you can use \W*, which means "zero or more whitespace characters.": :g/^\W*$/d
 - This command deletes any line containing only zero or more whitespace characters. Lines that contain any other type of character are not deleted.
 - ^, $, *, and \W are special metacharacters used in regular expressions.
-- Add every beginning of lines "//" : :%s!^!//!
+- Add every beginning of lines "//" ```:%s!^!//!```
 - V select current line
 - d cut
 - y copy
