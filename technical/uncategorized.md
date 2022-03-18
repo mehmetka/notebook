@@ -1,5 +1,7 @@
 ## 000
 - iCloud path: /Users/username/Library/Mobile Documents/com~apple~CloudDocs 
+- Browser does not allow to use autocomplete on values which access by AJAX request
+- ```<noscript>``` is for browsers which block javascript
 
 ## 001
 - DevOps bir yazılım geliştirme ve dağıtım sürecidir. Ürün yönetimi, yazılım geliştirme ve operasyon uzmanları arasındaki işbirliği ve iletişimi vurgulayıp süreçlerin koordinasyon içinde en iyi şekilde sonuçlanmasını sağlar.  
@@ -36,6 +38,3 @@ GOOS=linux GOARCH=amd64 go build -o notification
 - Bu parametreyi kullanicidan almama gercekten gerek var mi?  
 #securecoding  
 Source: Bedirhan Urgun @ Linkedin
-
-## 006 
-Browser does not allow to use autocomplete on values which access by AJAX request
