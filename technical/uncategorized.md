@@ -2,6 +2,7 @@
 - iCloud path: /Users/username/Library/Mobile Documents/com~apple~CloudDocs 
 - Browser does not allow to use autocomplete on values which access by AJAX request
 - ```<noscript>``` is for browsers which block javascript
+- Practical basic auth usage: ```curl user:pass@host```
 
 ## 001
 - DevOps bir yazılım geliştirme ve dağıtım sürecidir. Ürün yönetimi, yazılım geliştirme ve operasyon uzmanları arasındaki işbirliği ve iletişimi vurgulayıp süreçlerin koordinasyon içinde en iyi şekilde sonuçlanmasını sağlar.  
