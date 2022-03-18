@@ -35,3 +35,10 @@ Solution:
 ```
 $ setsebool httpd_can_network_connect 1
 ```
+
+## 004 
+Keyword: ERR_OSSL_EVP_UNSUPPORTED  
+Solution:
+```shell
+NODE_OPTIONS=--openssl-legacy-provider next build && next export
+```
