@@ -39,3 +39,10 @@ GOOS=linux GOARCH=amd64 go build -o notification
 - Bu parametreyi kullanicidan almama gercekten gerek var mi?  
 #securecoding  
 Source: Bedirhan Urgun @ Linkedin
+
+## 006
+You can create access key and use it while doing git operations:
+```
+git clone https://oauth2:access_key@gitlab.yourdomain.com/username/reponame.git
+```
+But instead of this, use deploy keys.
