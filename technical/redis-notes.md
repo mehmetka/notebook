@@ -1,0 +1,12 @@
+## pamir-erdem-redis-ha-troubleshooting
+- redis university univesity.redis.com
+- Redis single thread calisiyor. O yuzden yatayda buyutmek gerekli, dikey buyutme fark yaratmaz.
+- redis.conf'ta max memory'yi belirle - aksi halde butun os'in kaynaklarini kullanmaya calisir.
+- O(n) complexity ise o command'i kullanmamaya calisiyorum.
+- Bunu soylemesindeki neden redis'in single thread olmasi ve o isi yaparken diger her seyin bloke olacak olmasi.
+- redis/commands'de complexity'de belirtiliyor. mumkun oldugunca O(1) kullan. O(n) varsa, uygulama katmanina vermeye calisiyorum (redis'e yaptirmiyor)
+- O(n)lerden kurtul.
+- slow log command (yavas calismis komutlarin ciktisini verir)
+- load %40-50 olmasi tercih sebebi.
+- redis cluster kurulacaksa sunucu sayisi tek sayi olmali (3,5,7...)
+- https://techcommunity.microsoft.com/t5/azure-paas-blog/azure-redis-timeouts-client-side-issues/ba-p/2022203
