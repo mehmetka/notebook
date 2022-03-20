@@ -1,0 +1,5 @@
+## [DevSecOps Kavramları](https://medium.com/kocsistem/devsecops-kavramlar%C4%B1-b4a87e55b19f)
+
+- Ürün geliştirirken başımıza bir şey gelmeden güvenlik konusuna maliyet ya da zaman ayırmamız gerektiğini ne yazık ki anlayamayabiliyoruz. Bu yüzden bunu yaşamadan önce gerekli yatırımları yapmak, ürünümüzü kontrol altında ve güvende tutacak süreçleri işletmemiz sonradan yaşayacağımız sorunların önüne geçecektir.
+- Döngünün başında yani planlama bölümünde güvenlik sorunları neler olabilir, nerelerden sorunlar gelebilir, bunlar için neler yapılabilir, ne gibi önlemler alabiliriz (Threat Model Policy) gibi soruların cevaplarını düşünüp, bunları planlama bölümünde belirlememiz gerekiyor.
+- Kodlama bölümünde yazılan kodların sonunda bir static data, artifact üretiyoruz. Bu static datayı sürekli olarak analiz (Static Analysis)etmemiz gerekiyor. Çünkü yazdığımız yeni kodların güvenliğini mutlaka test etmemiz gerekiyor. Ne kadar açık var, bug var mı? Bunları static kod analizi yaparak tespit etmemiz gerekiyor. (SAST)
