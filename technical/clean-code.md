@@ -1,4 +1,4 @@
-## 17092020
+## akin-kaldiroglu-clean-code 17092020
 - En iyi kod yazilmayan kod
 - Written by someone who cares
 - Tekrarsiz
