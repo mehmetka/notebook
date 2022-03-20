@@ -64,3 +64,12 @@
 
 ### SDL Timeline - Microsoft    
 ![alt text](https://image.3001.net/images/20200401/1585732474_5e845b7aee9f6.jpeg!small)
+
+## Bedirhan Urgun @ Linkedin
+- Dis dunyaya actigim bu API'yi kimler cagirabiliyor?
+- Kullanici bu parametreyi kullanarak baskasina ait varliklara erisebilir mi?
+- Bu parametreye beyaz liste denetimi uyguladim mi?
+- Burada kod ve veriyi guvensiz bir sekilde birbiriyle karistiriyor muyum?
+- Kullandigim kutuphjaneler yeni mi ve guvenlik sayfalarini okudum mu
+- Kullandigim bu API metodunun argumanlarinin guvenli versiyonlari var mi
+- Bu parametreyi kullanicidan almama gercekten gerek var mi?  
