@@ -5,14 +5,9 @@
 - Practical basic auth usage: ```curl user:pass@host```
 
 ## 001
-- DevOps bir yazılım geliştirme ve dağıtım sürecidir. Ürün yönetimi, yazılım geliştirme ve operasyon uzmanları arasındaki işbirliği ve iletişimi vurgulayıp süreçlerin koordinasyon içinde en iyi şekilde sonuçlanmasını sağlar.  
-#devops  
-Source: https://medium.com/devopsturkiye/teknolojileri-ile-hayat-kurtaran-32-devops-arac%C4%B1-4eb35b234c88  
-
-## 002
 - Using getenv() and putenv() is strongly discouraged due to the fact that these functions are not thread safe, however it is still possible to instruct PHP dotenv to use these functions.
 
-## 003
+## 002
 - Block anything except zip files in .htaccess file:
 ```conf
 Deny from all
@@ -23,13 +18,13 @@ Order Deny,Allow
 </FilesMatch>
 ```
 
-## 004
+## 003
 - Build for linux on macos  
 ```
 GOOS=linux GOARCH=amd64 go build -o notification
 ```
 
-## 005
+## 004
 (Gitlab) You can create access key and use it while doing git operations:
 ```
 git clone https://oauth2:access_key@gitlab.yourdomain.com/username/reponame.git
