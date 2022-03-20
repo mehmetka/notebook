@@ -51,7 +51,7 @@ Edit: *2080Ti
 - Leakedsource.com
 - Hacked-emails.com
 
-Türkiye'de risk altında: (.com.tr, .org.tr,.edu.tr,.gov.tr)
+Veri Sizintilarinda Türkiye'de risk altında: (.com.tr, .org.tr,.edu.tr,.gov.tr)
 - 446 bin kayıt: “com.tr” alan adına sahip e-posta adresi sayısı 336 bin.
 - Üniversitelerin kullandığı 'edu.tr' uzantısına sahip adres sayısı 24 bin.
 - Devlet kurumlarına ait 'gov.tr' uzantılı e-posta adreslerinin sayısının ise 4 bin olduğu gözlemlenmiştir.
@@ -64,11 +64,11 @@ Sensörlerdeki Tehlike
     
 - Apparently, hacker reused an old password to access Coinhive's CloudFlare account that was leaked in the Kickstarter data breach in 2014. https://thehackernews.com/2017/10/coinhive-cryptocurrency-miner.html
 
-- Maillerinizi sadece siz mi okuyorsunuz? https://variety.com/2017/digital/news/google-gmail-ads-emails-1202477321/ (Burada bir yerden bir yere ucak bileti alimi sonrasi gidilecek yer icin otel reklamlarinin cikmasindan bahsetmisti. - Yandex mail)
+Maillerinizi sadece siz mi okuyorsunuz? 
+- https://variety.com/2017/digital/news/google-gmail-ads-emails-1202477321/ (Burada bir yerden bir yere ucak bileti alimi sonrasi gidilecek yer icin otel reklamlarinin cikmasindan bahsetmisti. - Yandex mail)
 - PGP Kullanmak
 - Protonmail, TutaNotaMail, Riseup.net vb.
 - https://emailselfdefense.fsf.org/en/
-
 - E-Posta adresimi nereden biliyorlar? https://freedom-to-tinker.com/2017/09/28/i-never-signed-up-for-this-privacy-implications-of-email-tracking/
 
 - IP address, geo-location, telelefon numarası, Android ID, IMEI, MAC addresin gönderildiği tespit edildi.
