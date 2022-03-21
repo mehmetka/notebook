@@ -1,5 +1,7 @@
 ## omer-citak-secure-coding
 
+- "XSS tespit ettikten sonra yapacaginiz en vizyonsuz sey cookie’leri calmaktir"
+
 ### Authentication and Password Management
 - Passwords should be store as a hash
 - Use “Invalid credentials” message instead of detailed messages
