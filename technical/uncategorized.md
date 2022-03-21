@@ -30,3 +30,18 @@ GOOS=linux GOARCH=amd64 go build -o notification
 git clone https://oauth2:access_key@gitlab.yourdomain.com/username/reponame.git
 ```
 But instead of this, use deploy keys.
+
+## 005
+Using more than one ssh key, add below lines to this file: ~/.ssh/config
+```
+IdentityFile ~/Desktop/.ssh/id_rsa
+IdentityFile ~/.ssh/id_rsa
+```
+
+## 006
+Change SSH port:
+- Find "# Listen 22" line and remove sharp in this file: /etc/ssh/sshd_config
+- Then change port number
+- Restart sshd service, logout, login
+### Source
+- https://www.howtoforge.com/how-to-install-gitlab-server-with-docker-on-ubuntu-1804/
