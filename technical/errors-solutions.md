@@ -1,5 +1,8 @@
 # Errors and Solutions:
 
+## 000
+- When you get "sh: Operation not permitted" error while trying to run shell script on cron https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/
+
 ## 001
 Error Message:
 ```
