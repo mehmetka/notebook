@@ -3,6 +3,7 @@
 - Browser does not allow to use autocomplete on values which access by AJAX request
 - ```<noscript>``` is for browsers which block javascript
 - Practical basic auth usage: ```curl user:pass@host```
+- Remove EXIF Metada with exiftool: ```exiftool -all= FileName```
 
 ## 001
 - Using getenv() and putenv() is strongly discouraged due to the fact that these functions are not thread safe, however it is still possible to instruct PHP dotenv to use these functions.
