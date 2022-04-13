@@ -2,6 +2,8 @@
 
 ## 000
 - When you get "sh: Operation not permitted" error while trying to run shell script on cron https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/
+- sonarqube elasticsearch max memory error: https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-inc
+sysctl -w vm.max_map_count=262144
 
 ## 001
 Error Message:
