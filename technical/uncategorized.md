@@ -64,6 +64,5 @@ https://www.udemy.com/api-2.0/users/me/subscribed-courses/?page_size=132
 
 ## 009 Difference of AWS Public-Private Subnet
 - https://serverfault.com/questions/556363/what-is-the-difference-between-a-public-and-private-subnet-in-a-amazon-vpc
-- private subnet nat araciligiyla internete cikiyormus, public subnet internet gateway araciligiyla.
 - PUBLIC SUBNET: If a subnet's traffic is routed to an internet gateway, the subnet is known as a public subnet. 
 - PRIVATE SUBNET: If a subnet doesn't have a route to the internet gateway, the subnet is known as a private subnet.
