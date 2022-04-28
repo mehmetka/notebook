@@ -24,7 +24,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/mehmetka/notebook',
+          editUrl: 'https://github.com/mehmetka/notebook/blob/master',
         },
         blog: false,
         theme: {
