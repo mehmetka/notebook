@@ -1,11 +1,5 @@
 # notes
 
-- instance'in SG'sine yalnizca CF ip'lerini tanimlarsak, "Proxy" acik olmasa bile yalnizca CF uzerinden erisilebilir.
-- Sonarqube makinesi bu ayari yapmadan calismiyor: sudo sysctl -w vm.max_map_count=262144
-- gitlab'in 2fa'i sapitti. surekli invalid code hatasi veriyordu. Makinenin saati kaymis. Duzeltince duzeldi.
-- gitlab branch commitlerinde test joblari calisiyor.
-- bucket name best practices: images.aposto.com -> s3 bucket ismi images.shopier.com
-
 ## 000
 
 - iCloud path: /Users/username/Library/Mobile Documents/com~apple~CloudDocs
