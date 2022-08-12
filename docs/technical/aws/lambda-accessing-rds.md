@@ -1,4 +1,4 @@
-## Accessing RDS from Lambda
+# Accessing RDS from Lambda
 
 1. Assume that you have an RDS
 2. Create a role that has 'AWSLambdaVPCAccessExecutionRole' and take Role's ARN info

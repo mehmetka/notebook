@@ -1,4 +1,4 @@
-# notes
+# Notes
 
 - aws api gateway uses token bucket algorithm for rate limiting
 

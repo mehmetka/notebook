@@ -1,11 +1,13 @@
+# Elasticbeanstalk PHP Environment
+
 ```yaml
 container_commands:
   01_execute_example_command:
     command: "mkdir /var/tmp && chown -R webapp:webapp /var/tmp"
 
-packages: 
+packages:
   yum:
-    ImageMagick: []
+    ImageMagick: [ ]
 
 option_settings:
   namespace: aws:autoscaling:launchconfiguration
