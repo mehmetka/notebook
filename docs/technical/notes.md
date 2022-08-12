@@ -164,4 +164,4 @@ theme: readthedocs
   text at start" input'ina ssh yapilacak komutu yaz. or: "ssh -i private-key username@ip" (key file'in
   full path'i verilmeli) > done
 - Bu islemler yapildiktan sonra en yukaridaki "Profiles" butonuna tiklandiginda olusturdugumuz profili gorecegiz ve
-  tikladigimizda direkt ilgili makineye restart yapabilecek.
+  tikladigimizda direkt ilgili makineye ssh yapabilecek.
