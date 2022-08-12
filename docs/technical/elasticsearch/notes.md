@@ -44,6 +44,9 @@ $client = ClientBuilder::create()
 ```
 
 ## Add Plugin
+```shell
 docker exec elasticsearch bin/elasticsearch-plugin install analysis-icu
 docker restart elasticsearch
-https://elk-docker.readthedocs.io/#installing-elasticsearch-plugins
+```
+
+Source: https://elk-docker.readthedocs.io/#installing-elasticsearch-plugins
