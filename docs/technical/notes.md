@@ -1,4 +1,10 @@
-# Uncategorized
+# notes
+
+- instance'in SG'sine yalnizca CF ip'lerini tanimlarsak, "Proxy" acik olmasa bile yalnizca CF uzerinden erisilebilir.
+- Sonarqube makinesi bu ayari yapmadan calismiyor: sudo sysctl -w vm.max_map_count=262144
+- gitlab'in 2fa'i sapitti. surekli invalid code hatasi veriyordu. Makinenin saati kaymis. Duzeltince duzeldi.
+- gitlab branch commitlerinde test joblari calisiyor.
+- bucket name best practices: images.aposto.com -> s3 bucket ismi images.shopier.com
 
 ## 000
 
@@ -114,26 +120,6 @@ configure: error: Unable to detect ICU prefix or no failed. Please verify ICU in
 Solution:  
 Install ```libicu-dev``` package for "php:5.6.40-apache-jessie" image.
 
-## 012 - Encountered this error on m1 mbp
-
-Error Message:
-
-```
-Error:
- => ERROR [internal] load metadata for docker.io/library/php:5.6.40-apache-jessie                                                                                                                                                  0.9s
-------
- > [internal] load metadata for docker.io/library/php:5.6.40-apache-jessie:
-------
-failed to solve with frontend dockerfile.v0: failed to create LLB definition: no match for platform in manifest sha256:5a43f...ba648: not found
-```
-
-Solution:  
-Add --platform flag to pull right images
-
-```
-docker build -t imagename --platform linux/amd64 .
-```
-
 ## 013
 
 Error Message:
@@ -157,16 +143,6 @@ Solution:
 NODE_OPTIONS=--openssl-legacy-provider next build && next export
 ```
 
-## 015
-
-> if you cannot delete Elasticbeanstalk environment
-
-You need to go to your CloudFormation console and retry deletion of the CloudFormation stack which the Beanstalk
-environment used. The deletion may fail, but after retrying it will prompt you if you want to skip the "
-AWSEBRDSDatabase" resource that failed to delete. You can just confirm that you want to skip deletion (since you have
-actually already deleted it). This should remove the CloudFormation stack. Then you can retry deletion of the Beanstalk
-environment from the Beanstalk console.
-
 ## 016 - Using mkdocs
 
 ```shell
@@ -186,3 +162,11 @@ nav:
   - Home: 'index.md'
 theme: readthedocs
 ```
+
+## 017 - Create Profile on iTerm2 to automate ops
+iterm'de profil olusturmak
+https://iterm2.com/
+
+Profiles > Open Profiles > Edit profiles > +'ya basip yeni profil ekle > Name'i yaz or: "Testshopier SSH" > "Applications in terminal may change the title" kutucugu deselect > Title dropdown list'inde "Profile Name" sec > "send text at start" input'ina ssh yapilacak komutu yaz. or: "ssh -i shopiertestOpenssh ubuntu@18.195.102.98" (key file'in full path'i verilmeli) > done
+
+Bu islemler yapildiktan sonra en yukaridaki "Profiles" butonuna tiklandiginda olusturdugumuz profili gorecegiz ve tikladigimizda direkt ilgili makineye restart yapabilecek.\n---\nOOP muhabbeti sonrasi boyle bir diyalog gecti:

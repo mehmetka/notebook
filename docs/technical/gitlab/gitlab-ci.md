@@ -1,5 +1,27 @@
 # Deploy with Gitlab Runner
 
+- https://mehmetka.com/gitlab/gitlab-ci burada public key olmaz, private key olmali. --- bunu pem file ile de degistirebiliriz, daha pratik gibi.
+- Asiri uzun bir is yoksa asagidaki gibi halledilebilir
+```yaml
+before_script:
+  - echo "$PRIVATE_KEY_SERVER_API" > ~/generic.pem
+  - chmod 600 ~/generic.pem
+  - 'echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+
+stages:
+  - deploy
+
+deploy:
+  only:
+    - master
+  stage: deploy
+  script:
+    - ssh -i ~/generic.pem ec2-user@$SERVER_API_IP "cd /var/shopier/api && git pull && pm2 restart server --update-env"
+    - rm ~/generic.pem
+  tags:
+    - cd
+```
+
 ## Define these variables on Gitlab as CI/CD variables
 - PUBLIC_KEY
 - DEPLOY_TO

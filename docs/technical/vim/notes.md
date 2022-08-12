@@ -1,4 +1,4 @@
-# Vim
+# notes
 
 - This command will ng whitespace. To not delete lines containialso delete lines containing only whitespace, you can use \W*, which means "zero or more whitespace characters.": :g/^\W*$/d
 - This command deletes any line containing only zero or more whitespace characters. Lines that contain any other type of character are not deleted.

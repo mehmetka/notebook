@@ -1,4 +1,4 @@
-# MySQL
+# notes
 
 ## To copy with indexes and triggers
 ```sql

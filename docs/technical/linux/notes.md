@@ -1,4 +1,4 @@
-# Linux & Shell Commands
+# notes
 
 - To not keep track command history, write commands start with whitespace
 - Find duplicate lines in a file```cat data.txt | sort | uniq -d ```

@@ -1,4 +1,4 @@
-# Install Terraform on Mac:
+# Install Terraform on Mac
 
 ```shell
 brew tap hashicorp/cap
