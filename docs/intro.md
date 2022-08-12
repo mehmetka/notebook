@@ -16,6 +16,8 @@ Hi! 🤘
 - ⚡ Fun fact:
     - I love whales (especially the flying ones, 52-hertz and who carry containers)
 
+- 🐋 Currently, I'm working as DevOps Engineer at [Shopier](https://www.shopier.com)
+
 ```
 In the misty morning, on the edge of time
 We've lost the rising sun
