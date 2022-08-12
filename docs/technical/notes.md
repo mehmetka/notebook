@@ -158,9 +158,10 @@ theme: readthedocs
 ```
 
 ## 017 - Create Profile on iTerm2 to automate ops
-iterm'de profil olusturmak
-https://iterm2.com/
 
-Profiles > Open Profiles > Edit profiles > +'ya basip yeni profil ekle > Name'i yaz or: "Testshopier SSH" > "Applications in terminal may change the title" kutucugu deselect > Title dropdown list'inde "Profile Name" sec > "send text at start" input'ina ssh yapilacak komutu yaz. or: "ssh -i shopiertestOpenssh ubuntu@18.195.102.98" (key file'in full path'i verilmeli) > done
-
-Bu islemler yapildiktan sonra en yukaridaki "Profiles" butonuna tiklandiginda olusturdugumuz profili gorecegiz ve tikladigimizda direkt ilgili makineye restart yapabilecek.\n---\nOOP muhabbeti sonrasi boyle bir diyalog gecti:
+- Profiles > Open Profiles > Edit profiles > +'ya basip yeni profil ekle > Name'i yaz or: "Server A SSH" > "
+  Applications in terminal may change the title" kutucugu deselect > Title dropdown list'inde "Profile Name" sec > "send
+  text at start" input'ina ssh yapilacak komutu yaz. or: "ssh -i private-key username@ip" (key file'in
+  full path'i verilmeli) > done
+- Bu islemler yapildiktan sonra en yukaridaki "Profiles" butonuna tiklandiginda olusturdugumuz profili gorecegiz ve
+  tikladigimizda direkt ilgili makineye restart yapabilecek.
