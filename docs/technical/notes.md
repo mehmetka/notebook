@@ -1,19 +1,17 @@
 # notes
 
-## 000
-
 - iCloud path: /Users/username/Library/Mobile Documents/com~apple~CloudDocs
 - Browser does not allow to use autocomplete on values which access by AJAX request
 - ```<noscript>``` is for browsers which block javascript
 - Practical basic auth usage: ```curl user:pass@host```
 - Remove EXIF Metadata with exiftool: ```exiftool -all= FileName```
 
-## 001
+---
 
 - Using getenv() and putenv() is strongly discouraged due to the fact that these functions are not thread safe, however
   it is still possible to instruct PHP dotenv to use these functions.
 
-## 002
+---
 
 - Block anything except zip files in .htaccess file:
 
@@ -26,7 +24,7 @@ Order Deny,Allow
 </FilesMatch>
 ```
 
-## 003
+---
 
 - Build for linux on macos
 
@@ -34,7 +32,7 @@ Order Deny,Allow
 GOOS=linux GOARCH=amd64 go build -o notification
 ```
 
-## 004
+---
 
 (Gitlab) You can create access key and use it while doing git operations:
 
@@ -44,7 +42,7 @@ git clone https://oauth2:access_key@gitlab.yourdomain.com/username/reponame.git
 
 But instead of this, use deploy keys.
 
-## 005
+---
 
 Using more than one ssh key, add below lines to this file: ~/.ssh/config
 
@@ -53,7 +51,7 @@ IdentityFile ~/Desktop/.ssh/id_rsa
 IdentityFile ~/.ssh/id_rsa
 ```
 
-## 006
+---
 
 Change SSH port:
 
@@ -65,7 +63,7 @@ Change SSH port:
 
 - https://www.howtoforge.com/how-to-install-gitlab-server-with-docker-on-ubuntu-1804/
 
-## 007
+---
 
 Udemy API:
 
@@ -75,26 +73,7 @@ Udemy API:
 - All
   https://www.udemy.com/api-2.0/users/me/subscribed-courses/?page_size=132
 
-## 008 - Extend EC2 Instance Volume
-
-- Extending OS file system. After you finish modifying volume, you need to extend OS file system in order to see your
-  increased volume size. The example below is the command I used for Ubuntu OS.
-- SSH into your instance.
-- Type "lsblk" -> Your increased volume will be shown just above your current volume, e.g. xvda1 is your current volume
-  with 30GB size and xvda with 40GB size.
-- Extend the partition by typing "sudo growpart /dev/xvda1" (Note that dev/xvda is the partition name and 1 is the
-  partition number.)
-- Extend the volume by typing -> sudo resize2fs /dev/xvda1
-
-Source: https://medium.com/@m.yunan.helmy/increase-the-size-of-ebs-volume-in-your-ec2-instance-3859e4be6cb7
-
-## 009 Difference of AWS Public-Private Subnet
-
-- https://serverfault.com/questions/556363/what-is-the-difference-between-a-public-and-private-subnet-in-a-amazon-vpc
-- PUBLIC SUBNET: If a subnet's traffic is routed to an internet gateway, the subnet is known as a public subnet.
-- PRIVATE SUBNET: If a subnet doesn't have a route to the internet gateway, the subnet is known as a private subnet.
-
-## 010
+---
 
 - When you get "sh: Operation not permitted" error while trying to run shell script on
   cron https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/
@@ -103,7 +82,7 @@ Source: https://medium.com/@m.yunan.helmy/increase-the-size-of-ebs-volume-in-you
   error: https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-inc
   ```sysctl -w vm.max_map_count=262144```
 
-## 011
+---
 
 Error Message:
 
@@ -114,7 +93,7 @@ configure: error: Unable to detect ICU prefix or no failed. Please verify ICU in
 Solution:  
 Install ```libicu-dev``` package for "php:5.6.40-apache-jessie" image.
 
-## 013
+---
 
 Error Message:
 
@@ -128,7 +107,7 @@ Solution:
 $ setsebool httpd_can_network_connect 1
 ```
 
-## 014
+---
 
 Keyword: ERR_OSSL_EVP_UNSUPPORTED  
 Solution:
@@ -137,7 +116,9 @@ Solution:
 NODE_OPTIONS=--openssl-legacy-provider next build && next export
 ```
 
-## 016 - Using mkdocs
+---
+
+## Using mkdocs
 
 ```shell
 pip3 install mkdocs
@@ -157,7 +138,9 @@ nav:
 theme: readthedocs
 ```
 
-## 017 - Create Profile on iTerm2 to automate ops
+---
+
+## Create Profile on iTerm2 to automate ops
 
 - Profiles > Open Profiles > Edit profiles > +'ya basip yeni profil ekle > Name'i yaz or: "Server A SSH" > "
   Applications in terminal may change the title" kutucugu deselect > Title dropdown list'inde "Profile Name" sec > "send

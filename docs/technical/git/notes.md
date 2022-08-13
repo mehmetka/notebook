@@ -1,4 +1,4 @@
-# Notes
+# notes
 
 - Commit count: ```git log --oneline --all | wc -l```
 - Change committer name: vim ~./gitconfig
@@ -8,6 +8,8 @@
 - Undo last commit: $ git reset HEAD~
 - If you don't specify your global email address, Github does not show your commits on your activity graph (git config --global user.email)
 - git clone --recurse-submodules {scm-host}
+
+---
 
 ## Huseyin Babal - Using Git Like a Hero
 - Dagitik: lokalinizde olan bir git vardir, bir de "remote" vardir. dagitik bir yapi vardir.

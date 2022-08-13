@@ -2,23 +2,13 @@
 
 1. Assume that you have an RDS
 2. Create a role that has 'AWSLambdaVPCAccessExecutionRole' and take Role's ARN info
-3. Run:  
-   $ pip3 install --target . pymysql
-4. Change rds_config.py by RDS credentials
-5. Bundle the code as app.zip
-6. Find Subnet IDs and Security Group ID (Will be using in next step)
-7. Create Lambda:  
-   $ aws lambda create-function --function-name func-name --runtime python3.8 \
-   --zip-file fileb://app.zip \
-   --role arn:aws:iam::123456789012:role/lambda-vpc-role \
-   --vpc-config SubnetIds=${SubnetIDs},SecurityGroupIds=${SecurityGroupIDs}
-8. Give RDS/Aurora access rule to RDS Security Group (Whatever it is -> ${SecurityGroupIDs})
+3. Run:
 
-9. Trig function:  
-   $ aws lambda invoke --function-name func-name output.txt
+```shell
+pip3 install --target . pymysql
+```
 
-### Source:
-https://docs.aws.amazon.com/lambda/latest/dg/services-rds-tutorial.html
+4. Change app.py by RDS credentials
 
 ```
 import sys
@@ -63,3 +53,25 @@ def lambda_handler(event, context):
 
     return "Added %d items from RDS MySQL table" %(item_count)
 ```
+
+5. Bundle the code as app.zip
+6. Find Subnet IDs and Security Group ID (Will be using in next step)
+7. Create Lambda:
+
+```shell
+aws lambda create-function --function-name func-name --runtime python3.8 \
+   --zip-file fileb://app.zip --role arn:aws:iam::123456789012:role/lambda-vpc-role \
+   --vpc-config SubnetIds=${SubnetIDs},SecurityGroupIds=${SecurityGroupIDs}
+```
+
+8. Give RDS/Aurora access rule to RDS Security Group (Whatever it is -> ${SecurityGroupIDs})
+
+9. Trig function:
+
+```shell
+aws lambda invoke --function-name func-name output.txt
+```
+
+### Source:
+
+https://docs.aws.amazon.com/lambda/latest/dg/services-rds-tutorial.html

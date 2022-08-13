@@ -1,4 +1,4 @@
-# Notes
+# Run with Docker
 
 ```dockerfile
 version: '3'
@@ -34,8 +34,14 @@ $client = ClientBuilder::create()
 
 ## Run Elasticsearch Without Authentication:
 
-If you add this line to elasticsearch service environment variables ```xpack.security.enabled: false```
+If you add this line to elasticsearch service environment variables ```xpack.security.enabled: false``` like below
 then you don't need to use password and certificate
+
+```dockerfile
+    environment:
+      discovery.type: single-node
+      xpack.security.enabled: false
+```
 
 ```php
 $client = ClientBuilder::create()

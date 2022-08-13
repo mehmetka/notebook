@@ -1,4 +1,4 @@
-# Notes
+# notes
 
 ## Run composer commands on disposable Docker container
 

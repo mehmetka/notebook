@@ -6,6 +6,8 @@ CREATE TABLE newtable LIKE oldtable;
 INSERT INTO newtable SELECT * FROM oldtable;
 ```
 
+---
+
 ## Fulltext Search with "WHERE MATCH ... AGAINST ..."
 Add fulltext search index that you want to search columns:
 ```sql
