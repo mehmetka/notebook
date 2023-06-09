@@ -54,4 +54,4 @@ Message: commit msg
     - since git takes a snapshot of your project with changeset when you commit to repo, can we say total size of git storage = # of commit X av(commit size)?
     - Answer: No, git uses compression algorithm to compress nearly similar files, it is smarter than you think.
 
-![hbabal-using-git-like-a-hero](../img/hbabal-using-git-like-a-hero.png)
+![hbabal-using-git-like-a-hero](/img/hbabal-using-git-like-a-hero.png)
