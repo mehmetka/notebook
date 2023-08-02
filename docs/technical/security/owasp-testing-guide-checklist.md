@@ -1,3 +1,7 @@
+---
+tags: [technical, security]
+---
+
 # OWASP Testing Guide v4.0
 ## Information Gathering
 - Conduct Search Engine Discovery and Reconnaissance for Information Leakage (OTG-INFO-001) 
@@ -60,12 +64,12 @@
 - Testing for Stored Cross Site Scripting (OTG-INPVAL-002)
 - Testing for HTTP Verb Tampering (OTG-INPVAL-003)
 - Testing for HTTP Parameter pollution (OTG-INPVAL-004)
-- Testing for SQL Injection (OTG-INPVAL-005)
-    - Oracle Testing
-    - MySQL Testing
-    - SQL Server Testing
-    - Testing PostgreSQL (from OWASP BSP) 
-    - MS Access Testing
+- Testing for SQL Injection (OTG-INPVAL-005)  
+    - Oracle Testing  
+    - MySQL Testing  
+    - SQL Server Testing  
+    - Testing PostgreSQL (from OWASP BSP)   
+    - MS Access Testing  
     - Testing for NoSQL injection
 - Testing for LDAP Injection (OTG-INPVAL-006) 
 - Testing for ORM Injection (OTG-INPVAL-007) 
@@ -73,13 +77,13 @@
 - Testing for SSI Injection (OTG-INPVAL-009) 
 - Testing for XPath Injection (OTG-INPVAL-010) 
 - IMAP/SMTP Injection (OTG-INPVAL-011) 
-- Testing for Code Injection (OTG-INPVAL-012)
-    - Testing for Local File Inclusion
+- Testing for Code Injection (OTG-INPVAL-012)  
+    - Testing for Local File Inclusion  
     - Testing for Remote File Inclusion
 - Testing for Command Injection (OTG-INPVAL-013) 
-- Testing for Buffer overflow (OTG-INPVAL-014)
-    - Testing for Heap overflow
-    - Testing for Stack overflow
+- Testing for Buffer overflow (OTG-INPVAL-014)  
+    - Testing for Heap overflow  
+    - Testing for Stack overflow  
     - Testing for Format string
 - Testing for incubated vulnerabilities (OTG-INPVAL-015) 
 - Testing for HTTP Splitting/Smuggling (OTG-INPVAL-016)
@@ -118,5 +122,10 @@
 - Test Web Messaging (OTG-CLIENT-011) 
 - Test Local Storage (OTG-CLIENT-012)
 
-## Source
+## Source  
 https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf
+
+*>_ Unknown* (2022-08-13 21:05:59)
+
+tags: technical, security
+
