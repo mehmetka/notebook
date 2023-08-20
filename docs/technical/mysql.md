@@ -2,22 +2,8 @@
 tags: [mysql, technical]
 ---
 
-# uncategorized
+### Fulltext Search with "WHERE MATCH ... AGAINST ..."
 
-# Copy with indexes and triggers
-
-```sql  
-CREATE TABLE newtable LIKE oldtable;  
-INSERT INTO newtable SELECT * FROM oldtable;  
-```
-
-*>_ Unknown* (2022-08-13 21:04:50)
-
-tags: mysql, technical
-
----
-
-# Fulltext Search with "WHERE MATCH ... AGAINST ..."  
 Add fulltext search index that you want to search columns:  
 ```sql  
 FULLTEXT KEY `fti_product` (`product`)  
@@ -31,6 +17,19 @@ WHERE MATCH(cc.product) AGAINST(:libraryName)
 ```
 
 *>_ Unknown* (2022-08-13 21:05:01)
+
+tags: mysql, technical
+
+---
+
+### Copy with indexes and triggers
+
+```sql  
+CREATE TABLE newtable LIKE oldtable;  
+INSERT INTO newtable SELECT * FROM oldtable;  
+```
+
+*>_ Unknown* (2022-08-13 21:04:50)
 
 tags: mysql, technical
 

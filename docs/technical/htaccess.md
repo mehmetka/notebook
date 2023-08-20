@@ -2,8 +2,6 @@
 tags: [htaccess, technical]
 ---
 
-# uncategorized
-
 Block anything except zip files in .htaccess file:
 
 ```  

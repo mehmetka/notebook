@@ -1,8 +1,22 @@
 ---
-tags: [funny, http, technical]
+tags: [funny, golang, http, mkdocs, nextjs, technical]
 ---
 
 # uncategorized
+
+#ERR_OSSL_EVP_UNSUPPORTED  
+
+Solution:
+
+```shell  
+NODE_OPTIONS=--openssl-legacy-provider next build && next export  
+```
+
+*>_ Unknown* (2022-08-13 21:11:34)
+
+tags: nextjs, technical
+
+---
 
 DRY needs to stop.
 
@@ -80,6 +94,44 @@ tags: technical
 *>_ Unknown* (2022-08-13 21:08:23)
 
 tags: technical
+
+---
+
+- Build for linux on macos
+
+```  
+GOOS=linux GOARCH=amd64 go build -o notification  
+```
+
+*>_ Unknown* (2022-08-13 21:08:51)
+
+tags: golang, technical
+
+---
+
+## Using mkdocs
+
+```shell  
+pip3 install mkdocs  
+mkdocs build  
+mkdocs serve  
+```
+
+mkdocs.yml
+
+```yaml  
+docs_dir: mdfiles # documents  
+site_dir: docs # build output  
+site_name: sitename  
+site_url: https://example.com  
+nav:  
+  - Home: 'index.md'  
+theme: readthedocs  
+```
+
+*>_ Unknown* (2022-08-13 21:11:52)
+
+tags: mkdocs, technical
 
 ---
 

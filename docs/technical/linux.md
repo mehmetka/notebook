@@ -2,8 +2,6 @@
 tags: [linux, technical]
 ---
 
-# uncategorized
-
 User's UID:
 
 ```  
