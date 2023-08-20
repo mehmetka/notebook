@@ -1,5 +1,5 @@
 ---
-tags: [technical, aws]
+tags: [aws, technical]
 ---
 
 # Managing PHP Sessions with DynamoDB
@@ -69,5 +69,5 @@ your sessions and avoid the need to garbage collect them yourself.](https://docs
 
 *>_ Unknown* (2022-08-13 20:52:54)
 
-tags: technical, aws
+tags: aws, technical
 

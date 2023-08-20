@@ -1,5 +1,5 @@
 ---
-tags: [technical, elasticsearch]
+tags: [elasticsearch, technical]
 ---
 
 # Single Node Elasticsearch with Docker
@@ -63,5 +63,5 @@ Source: https://elk-docker.readthedocs.io/#installing-elasticsearch-plugins
 
 *>_ Unknown* (2022-08-13 20:59:25)
 
-tags: technical, elasticsearch
+tags: elasticsearch, technical
 

@@ -1,5 +1,5 @@
 ---
-tags: [technical, docker]
+tags: [docker, technical]
 ---
 
 # Read Secrets from Dotenv
@@ -54,5 +54,5 @@ default:
 
 *>_ Unknown* (2022-08-13 20:56:59)
 
-tags: technical, docker
+tags: docker, technical
 

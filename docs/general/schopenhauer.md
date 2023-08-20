@@ -2,6 +2,31 @@
 tags: [general, marriage, schopenhauer]
 ---
 
+Schopenhauer;  
+Tüm gerçekler 3 aşamadan geçer. Önce alaya alınırlar; sonra kendilerine şiddetle karşı çıkılır; ve son olarak doğruluklarının çok açık olduğu ilan edilir.
+
+*>_ Unknown* (2020-08-05 11:22:07)
+
+tags: general, schopenhauer
+
+---
+
+Schopenhauer, Main Nehri'ni seyrinde, huzur içinde öldü. Fakat onu okuyanlar, sözgelimi Weininger, sözgelimi Woolf, huzur içinde değil, kaygı içinde öldüler. Huzursuz edebilmenin huzuruydu Schopenhauer'unki. Geceye bir şey bırakabilmiş olmanın, her çağda, rehavetiydi.
+
+*>_ hamzacelalettin - Twitter* (2020-08-05 11:22:06)
+
+tags: general, schopenhauer
+
+---
+
+Bir insan, istemeyi aklından bile geçirmediği malların yokluğunu kesinlikle duymaz, onlar olmadan da bütünüyle hoşnuttur; öte yandan, ondan yüz katı daha çok şeye sahip olan bir başkası, istediği bir şeyden yoksun kaldığında, kendini mutsuz hisseder.
+
+*>_ Arthur Schopenhauer* (2020-08-05 11:22:06)
+
+tags: general
+
+---
+
 72 yasindaki Schopenhauer, Frankfurt'taki huzurlu evinde, yalniz basina ve Main Nehri'ni izleyerek oldu.
 
 *>_ Henidik Dergi* (2020-08-05 11:22:06)

@@ -1,5 +1,5 @@
 ---
-tags: [technical, cloudflare]
+tags: [cloudflare, technical]
 ---
 
 # Cloudflare Maintenance Mode
@@ -48,5 +48,5 @@ addEventListener('fetch', event => {
 
 *>_ Unknown* (2022-08-23 22:49:12)
 
-tags: technical, cloudflare
+tags: cloudflare, technical
 

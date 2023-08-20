@@ -1,5 +1,5 @@
 ---
-tags: [technical, aws]
+tags: [aws, technical]
 ---
 
 # Customizing Lambda with Docker Image (+Trigger)
@@ -182,5 +182,5 @@ push:
 
 *>_ Unknown* (2022-08-13 20:55:21)
 
-tags: technical, aws
+tags: aws, technical
 

@@ -1,5 +1,210 @@
 ---
-tags: [general, brutalwill, procrastination]
+tags: [brutalwill, flow, general, procrastination]
+---
+
+“Sahne ışığı efekti” denilen bir şey var.  
+Zannediyorsun ki herkes senin hayatınla ilgileniyor. Sanki tüm davranışların, sözlerin, hataların mercek altında.  
+İşin aslı şu: Kimsenin o kadar da umrunda değilsin. Herkes kendi hayatını yaşamakla, kendi adına kaygılanmakla meşgul.  
+O yüzden başka insanların seninle ilgili düşüncelerinden dolayı kaygılanman çok saçma çünkü zaten neredeyse hiç seninle ilgili düşünmüyorlar
+
+*>_ erayerdogn - Twitter* (2023-08-12 13:16:01)
+
+tags: brutalwill
+
+---
+
+going for a walk is the biggest life hack
+
+*>_ Unknown* (2023-08-08 22:18:07)
+
+tags: brutalwill, general
+
+---
+
+A hobby that keeps you fit, let you be creative, helps you network
+
+*>_ Unknown* (2020-08-05 11:22:07)
+
+tags: brutalwill
+
+---
+
+işini iyi yapmak != mükemmelliyetçilik  
+işini iyi yapmak: bilgisi dahilinde yapabileceği en iyi işi ortaya koyması ve öğrendikçe mevcut işi sürekli iyileştirmesi.  
+mükemmelliyetçilik: henüz bitmeyen işi sürekli iyileştirme çabasına girerek çoğu zaman bu döngüden çıkamamak.
+
+*>_ ademilter - Twitter* (2020-08-05 11:22:07)
+
+tags: brutalwill, general
+
+---
+
+meditasyon  
+kendinizi baskalariyla kiyaslamayin  
+pozitif insanlarla vakit gecirin  
+internette az vakit gecirin  
+imkaniniz varsa sosyal medya hesaplarinizi kapatin  
+beklentilerinizi sifirlayin. insanlardan aldiklarinizi hediye olarak gorun.  
+gunluk yazin. kendinizi kotu hissettiginizde pozitif bir seyler karalamaya calisin.  
+bu tur aktiviteleri kayip olarak dusunmeyin. onlari isteyerek yapacaksiniz ve bu da kontrolun sizde oldugu anlamina geliyor.  
+paraya onem vermeyin  
+kucuk seylerden mutlu olmaya bakin  
+ne isle ugrasiyorsaniz ugrasin kendinizi degersiz hissetmeyin. sorumluluklarinizi yerine getiriyorsaniz bu yeterlidir.  
+duygularinizi ifade edin. diger insanlarin ne hissettigine verdiginiz onem kadar kendi duygu ve ihtiyaclarinizi da gozetin.  
+her seyin bir gun biteceginin farkinda olun. ne yaparsaniz yapin bunu degistiremeyeceksiniz. bunu kabullenmek sizi ozgurlestirir ve endiselerinizi azaltir.  
+sonuc odakli dusunmeden calisin. her ne yapiyorsaniz, sadece yapin. sonuc odakli calismak endisenizi artiracak ve performansinizi azaltacaktir. yaptiginiz seye odaklanmak disinda bir kayginiz olmasin.
+
+*>_ Unknown* (2020-08-05 11:22:07)
+
+tags: brutalwill, general
+
+---
+
+I believe in progress, not perfection.
+
+*>_ Unknown* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+* Maddi durumlardaki uyulesme insanlarin ne kadar mutlu olduklarini etkiler gorunmemektedir.
+* Temel kaynaklarin, maddi kaynaklarin yetersizliginin mutsuzluga etkisi oldugunu bulabilirsiniz ama maddi kaynaklardaki artis mutlulugu artirmaz.
+* Hayatin hangi noktasinda, normal deneyimlerimizde, gercekten mutlu hissederiz?
+
+*>_ Mihaly Csikszentmihalyi - Akis Uzerine* (2020-08-05 11:22:06)
+
+tags: brutalwill, flow, general
+
+---
+
+Güçlü olmak için çaresizliği kabullenebilmek, üzülebilmek, ağlamak, yas tutabilmek, en azından bunları öğrenmeye, bu duygularla yaşamaya çalışmak gerekir. hayatta kimse sizi kırıp bükemezmiş gibi hissederken güçlü olamazsınız.
+
+*>_ Unknown* (2020-08-05 11:22:06)
+
+tags: brutalwill, general
+
+---
+
+hedef: bir süreçte, doğru gidip gitmediğini anlaman için kendine koyduğun kontrol noktalarıdır.  
+amaç: bir sürecin sonunda ulaşmak istediğin nokta değildir. sürecin kendisidir. sürekli devam eder. ulaştığınız değil, yaptığınız şeydir.  
+amaçsız bir hedef, hiç bir işe yaramazken; herhangi bir hedef, her amacı anlamlı kılar.  
+bunu iyice okuyup arasındaki farkı anladıktan sonra amaçlarınızı, hedeflerinizi neden gerçekleştiremediğinizi anlayacaksınız. uygularsanız da gerçekleştireceksiniz.
+
+*>_ EkşiSözlük* (2020-08-05 11:22:06)
+
+tags: brutalwill, general
+
+---
+
+Buradaki anahtar nokta taviz vermemek ve programı sert şekilde uygulamak.  
+Yani "Aman bugün de şu makaleyi okumayayım”, "bugün 2 saat gitar çalsam yeter ya”  
+filan demeye başladığınız anda bilin ki o iş yalan olma yolunda emin adımlar ile ilerliyor.  
+Kendinizi kandırmayın. Eğer çok iş yapmak istiyorsanız çok çalışmak zorundasınız, başka yolu yok.
+
+*>_ Nazım Kemal Üre* (2020-08-05 11:22:06)
+
+tags: brutalwill
+
+---
+
+Daily, almost constant effort.
+
+*>_ Angela Yu* (2020-08-05 11:22:06)
+
+tags: brutalwill
+
+---
+
+Nereye bakarsan oraya gidersin.
+
+*>_ Unknown* (2020-08-05 11:22:06)
+
+tags: brutalwill
+
+---
+
+But I’m getting closer to my destination with each day
+
+*>_ Unknown* (2020-08-05 11:22:06)
+
+tags: brutalwill, general
+
+---
+
+i want to be confident.  
+pretend you're confident.  
+when do i stop?  
+never
+
+*>_ Unknown* (2020-08-05 11:22:06)
+
+tags: brutalwill, general
+
+---
+
+Blame nobody.  
+Expect nothing.  
+Do something.
+
+*>_ Unknown* (2020-08-05 11:22:06)
+
+tags: brutalwill, general
+
+---
+
+her şey geçici  
+hayat adil değil  
+başkaları size sizin kendinize davrandığınız gibi davranıyor  
+mutlu olmak bir tercih ve ciddi bir çalışma gerektiriyor  
+öfkenin arkasında her zaman korku var  
+hiçbir şey sandığın kadar önemli değil  
+ömür oldukça kısa  
+çok garantici yaşadın, daha fazla risk almalıydın  
+fırsatın varken tadını çıkarmaya bak  
+aradığın şey baktığın ekranın içinde değil
+
+*>_ Etilen* (2020-08-05 11:22:06)
+
+tags: brutalwill, general
+
+---
+
+Signs you need a break:
+
+* loosing interesting in things you’re usually passionate about and bring you joy
+* short temper and easy to provoke
+* taking everything personally
+* constant overthinking
+* emotionally overwhelmed
+* always exhausted/tired
+
+Take care friends. Take a break.
+
+*>_ Unknown* (2020-08-05 11:22:06)
+
+tags: brutalwill, general
+
+---
+
+Biz düzenli olarak yaptığımız şeyleriz. Bu yüzden mükemmellik; bir eylem değil alışkanlıktır.
+
+*>_ Unknown* (2020-08-05 11:22:06)
+
+tags: general
+
+---
+
+Fall in love with some activity, and do it! Nobody ever figures out what life is all about,  
+and it doesn’t matter. Explore the world. Nearly everything is really interesting if you go into it  
+deeply enough. Work as hard and as much as you want to on the things you like to do the best.  
+Don’t think about what you want to be, but what you want to do. Keep up some kind of a  
+minimum with other things so that society doesn’t stop you from doing anything at all.”
+
+*>_ Richard Feynman* (2020-08-05 11:22:06)
+
+tags: brutalwill, general
+
 ---
 
 2-if you work hard at something, for a long period of time, and persist when things get though, it ll pay off in the long run.  
@@ -11,7 +216,7 @@ tags: [general, brutalwill, procrastination]
 
 *>_ Scottbasslessons* (2020-08-05 11:22:06)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -36,7 +241,7 @@ tags: brutalwill
 
 *>_ Unknown* (2020-08-05 11:22:06)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -44,7 +249,7 @@ Insan yasaminda bir kez de olsa kendine su soruyu sorup yanitlamalidir: "**Sahip
 
 *>_ ihsanfazlioglu - Twitter* (2020-08-05 11:22:06)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -628,7 +833,7 @@ Hemen su anda mutlu olmak istiyoruz.
 
 *>_ Prokrastineysin* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -636,7 +841,7 @@ COK IS YAPMAK ISTIYORSANIZ COK CALISMALISINIZ! KENDINIZI KANDIRMAYIN
 
 *>_ Nazım Kemal Üre* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -644,7 +849,7 @@ Cok degil verimli calismaniz gerekiyor. A tipi davranis rahatsizligini terketmen
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -652,7 +857,7 @@ Butun omru boyunca hayali bir mutluluk pesinde kosup durur, onu nadiren ele geci
 
 *>_ Arthur Schopenhauer* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -660,7 +865,7 @@ bugun cok kotu gorunen yarin baska bir sey getirebilir.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -668,7 +873,7 @@ Bu dunyadaki en mutsuz insanlar baskalarinin ne dusundugunu dusunen insanlardir.
 
 *>_ C. Joybell* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -676,7 +881,7 @@ Bitti diye üzülmeyin, yaşandı diye sevinin
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -685,7 +890,7 @@ cunku kum havuzunu uzaktan izleyerek hayallerindeki satoyu insa edemezsin.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -693,7 +898,7 @@ belki de dusunce seklimiz yanlis ve farkli bir sey denemeliyiz.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -715,7 +920,7 @@ dont compare your life to others and dont judge them. you have no idea what thei
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -723,7 +928,7 @@ Sırrım konusunda sessizliğimi korursam benim esirim olur; eğer ağzımdan
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -731,7 +936,7 @@ Hayatın dışında kalmak, hiçbir şey istememek ve hiçbir şey beklememek
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -739,7 +944,7 @@ Tarafsız yargılarının, öznel olanlar tarafından gizlemesine engel ol.
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -747,7 +952,7 @@ Kendi zihnimi araştırmayı tercih ediyorum. Başkasının bakışlarına ka
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -755,7 +960,7 @@ Başkasının benimle ilgili görüşü benim kendimle ilgili görüşümü d
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -763,7 +968,7 @@ Aşk, tutku, baştan çıkarmalar, güçlü duygular, türlerimizi sürdürmek
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -771,7 +976,7 @@ Dün ve yarın yok. Yalnizca bulundugumuz bu an AN var! Geçmiş hatıralar, ge
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -779,7 +984,7 @@ Gill'in desteği hoşuma gitti, ama aynı zamanda bundan hoşlanmamaya da dik
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -787,7 +992,7 @@ Her zaman hayatın en lezzetli kısmını daha bulmadığına inanmış, hep g
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -795,7 +1000,7 @@ Yeterince yapmadığım şey, içinde bulunduğum anı takdir etmekti
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -803,7 +1008,7 @@ Beni uzecek gucu sana verdigim icin kendimden ozur dilerim. (Franz Kafka -> Max 
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -811,7 +1016,7 @@ Kendinizi bir kere adadiktan sonra ihtiyaciniz olan tek sey irade ve calisma
 
 *>_ Haile Gebrselassie* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -819,7 +1024,7 @@ cok azini basaracak olan az fedakarlik etmelidir. cok sey elde edecek olan cok f
 
 *>_ James Allen* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -827,7 +1032,7 @@ Spesifik bir alanda yapılabilecek tüm hataları yapmış kişiye "uzman" denir
 
 *>_ Niels Bohr* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -835,7 +1040,7 @@ tags: general, brutalwill
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -843,7 +1048,7 @@ tags: general, brutalwill
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -851,7 +1056,7 @@ ne kadar okudugun degil, ne kadar anladigin.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -859,7 +1064,7 @@ tags: general, brutalwill
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -867,7 +1072,7 @@ tags: general, brutalwill
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -875,7 +1080,7 @@ tags: general, brutalwill
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -883,7 +1088,7 @@ tags: general, brutalwill
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -891,7 +1096,7 @@ Kontrol edebileceginiz tek sey bir seye karsi olan tutumunuz
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -899,7 +1104,7 @@ Bugünkü durumum geçmişte yaptığım seçimlerin sonucudur ve gelecekteki du
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -907,7 +1112,7 @@ Anda olmak, anı iyi değerlendirmek, andaki ilginç ve iyiyi bulmak: zamanı iy
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -915,7 +1120,7 @@ Okuman lazim evlat; evirip cevirmeyi, goze girmeyi filan birakip okuman lazim.
 
 *>_ Nazım Hikmet* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -923,7 +1128,7 @@ Sevdiğiniz bir şarkının zor bir bölümünü buradan loop’a alın ve yav
 
 *>_ Nazım Kemal Üre* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -931,7 +1136,7 @@ My goal is not to be better than anyone else, but to be better than I used to be
 
 *>_ Unknown* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -939,7 +1144,7 @@ Stoacilarla epikuroscularin uzlastigi aci ilkesi :  levis est, si ferre possum; 
 
 *>_ jimithekewl - Twitter* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -947,7 +1152,7 @@ If you don’t find a way to make money while you sleep, you’ll work until you
 
 *>_ Warren Buffett* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -955,7 +1160,7 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 
 *>_ Abraham Lincoln* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -963,7 +1168,7 @@ i walk slowly, but i never walk backward.
 
 *>_ Abraham Lincoln* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -971,7 +1176,7 @@ you will never be happy if you continue to search for what happiness consists of
 
 *>_ Albert Camus* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -979,7 +1184,7 @@ Ne sebeple olursa olsun hatanizin uzerinde kara kara dusunmeyin. Temizlenmenin y
 
 *>_ Aldous Huxley* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -987,7 +1192,7 @@ Surekli yaptigimiz sey ne ise biz, o'yuz. O halde, mukemmellik eylem degil, bir 
 
 *>_ Unknown* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -996,7 +1201,7 @@ tags: general, brutalwill
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1006,7 +1211,7 @@ tags: general, brutalwill
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1015,7 +1220,7 @@ tags: general, brutalwill
 
 *>_ Dusunbil* (2020-08-05 11:22:05)
 
-tags: general, brutalwill, procrastination
+tags: brutalwill, general, procrastination
 
 ---
 
@@ -1023,7 +1228,7 @@ the future depends on what you do today.
 
 *>_ Gandhi* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1031,7 +1236,7 @@ tags: general, brutalwill
 
 *>_ Halil İnalcık* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1039,7 +1244,7 @@ Rahatsızlık verici gündelik olayların sonsuzluk yönünden bakıldığında
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1055,7 +1260,7 @@ Küçük gözler bize odaklanmamızı ve dikkatimizi yoğunlaştırmamızı, k
 
 *>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1063,7 +1268,7 @@ Gunluk yaptiginiz bir seyi degistirmeden hayatinizi degistiremezsiniz, basariniz
 
 *>_ John C. Maxwell* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1076,7 +1281,7 @@ review the flash cards when you have time
 
 *>_ jwasham* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1084,7 +1289,7 @@ Bir esyamizi biri alip goturmek istese onu hemen durdururuz. Ama saatlerimizi, g
 
 *>_ Kemal Sayar* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1092,7 +1297,7 @@ Iyi seyler inandiginda, daha iyi seyler sabrettiginde ve en iyi seyler hic vazge
 
 *>_ La Edri* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1100,7 +1305,7 @@ if you fail to prepare, you re prepared to fail
 
 *>_ Mark Spitz* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1108,7 +1313,7 @@ ONEMLI OLAN CALMAKTAN ZEVK ALMANIZ VE KENDINIZI SUREKLI GELISTIRMENIZ.
 
 *>_ Nazım Kemal Üre* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1116,7 +1321,7 @@ Benim için yazarlığın sırrı, nereden geleceği hiç belli olmayan ilhamda 
 
 *>_ Orhan Pamuk* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1124,7 +1329,7 @@ Bir kisir dongu icinde surekli bir seyler istiyor, onlari elde ediyor, daha sonr
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1137,7 +1342,7 @@ Seneca, Epistulae Morales 76.5
 
 *>_ jimithekewl - Twitter* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1145,7 +1350,7 @@ Her gün beş yüz sayfa kitap okumaya çalışın. Bilgi bu şekilde gelişmeye
 
 *>_ Warren Buffett* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1153,7 +1358,7 @@ tags: general, brutalwill
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1164,7 +1369,7 @@ tags: general, brutalwill
 
 *>_ The Kata Code* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1172,7 +1377,7 @@ Eger kotu bir davranista bulunduysaniz, pismanlik duyun, elinizden geldigi kadar
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1180,7 +1385,7 @@ Geçmiş temizlenecek değil, kabul edilecek birşeydir.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1188,7 +1393,7 @@ Geçmiş yok edilemez, ama geçmişin bugünümüze olan etkisi azaltılabilir.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1196,7 +1401,7 @@ Geçmişin bugüne etkisini azaltmada ilk adım geçmişi kabullenmek, ikinci ad
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1206,7 +1411,7 @@ Sanskritçeden bir sözcük; "Sukha". Dış dünyadadan veya ortamdan etkilenmed
 
 *>_ yenidenbaslasin - Twitter* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1214,7 +1419,7 @@ sihirli hikayelere inanmaktan vazgecin. bir gecede basari bir efsanedir.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1222,7 +1427,7 @@ sorun su; zamanin oldugunu dusunuyorsun.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1230,7 +1435,7 @@ Stoacılığa göre, eğer hayatınızın merkezine hevesler ve istekler yerine 
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1238,7 +1443,7 @@ Sürekli istemek, huzurun bulunmasında en büyük engellerden biri.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1246,7 +1451,7 @@ Butunu elde edilemeyenin tamami terkedilmez.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1254,7 +1459,7 @@ A head of full of fears has no space for dreams
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1262,7 +1467,7 @@ As long as you're learning you re not failing.
 
 *>_ Unknown* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1270,7 +1475,7 @@ Baktin olmuyor, bir tik asagisini yap, kucukten basla.
 
 *>_ Nazım Kemal Üre* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 
@@ -1278,7 +1483,7 @@ You don't have to be great to start, but you have to start to be great
 
 *>_ Zig Zaglar* (2020-08-05 11:22:05)
 
-tags: general, brutalwill
+tags: brutalwill, general
 
 ---
 

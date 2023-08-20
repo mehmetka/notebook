@@ -1,5 +1,218 @@
 ---
-tags: [general, leylailemecnun]
+tags: [bigmouth, brutalwill, fisforfamily, general, leylailemecnun, love, lucifer, netflix, series, thepunisher]
+---
+
+# uncategorized
+
+Ben deliyim ya  
+Ben de deliyim abi gel arkadaşlık ederiz işte
+
+*>_ Yedi Güzel Adam* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+Kendi hikayenin kahramanıyla bile dalga geçiyorsun
+
+*>_ Yedi Güzel Adam* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+Yeter diye bağırmıştı bir yazısında.
+
+*>_ Yedi Güzel Adam* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+Kendimle başbaşa kalayım dedim duyan geldi, duyan geldi.
+
+*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
+
+tags: general, leylailemecnun
+
+---
+
+Kızı hem seviyorum diyorsun hem de gidip günlüğünü çalıyorsun
+
+*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
+
+tags: general, leylailemecnun
+
+---
+
+How the little pigs will grunt when they hear how the old boar suffered
+
+*>_ Vikings* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+Max, Maxine'in kısa hali mi?  
+M'in uzun hali
+
+*>_ 2 Broke Girls* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+Zaman, hiç bir şeyi düzeltmez sadece üzerini örter. Sakladığın acılar bir gün mutlaka ortaya çıkar. Herkes zamanı geri alabilmek ister.Kimi eski güzel günleri tekrar yaşıyabilmek için, kimi, yaptığı yanlışları düzeltebilmek için. Kimi ise sadece yaşadığını hissedebilmek için ister bunu. Gelecekten korkanlarsa zamanı durdurmak ister. Her şey o kadar iyidir ki bunun bozulmaması için çaba gösterirler ama kimse şu anın değerini bilenler kadar mutlu değildir. Geçmiş de gelecekde, onlardadır. Bazılarıysa zamanın ta kendisi gibidir ve her insan zamanın dünya üzerinde bıraktığı birer yara izidir.
+
+*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
+
+tags: general, leylailemecnun
+
+---
+
+İç çekişlerim bile senle ilgili olmak zorunda mı?
+
+*>_ 2 Broke Girls* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+Başka bir yerde zombi gibi yürüyebilir misin?
+
+*>_ The Last Man on Earth* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+uzerinde durdugu ayaklari ne kadar guclu olursa olsun…
+
+*>_ Leyla ile Mecnun - S03E19* (2020-08-05 11:22:05)
+
+tags: brutalwill, leylailemecnun
+
+---
+
+Kalkmama yardim et ki, seni terk edebileyim.
+
+*>_ F is for Family* (2020-08-05 11:22:07)
+
+tags: fisforfamily, general, series
+
+---
+
+Ben ne tur bir hayalkirikligiyim?
+
+*>_ F is for Family* (2020-08-05 11:22:07)
+
+tags: fisforfamily, general, series
+
+---
+
+Bu nasil bir komunist iskencesi boyle?
+
+*>_ F is for Family* (2020-08-05 11:22:07)
+
+tags: fisforfamily, general, series
+
+---
+
+Beklemek en korkunc halidir yasamanin.
+
+*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
+
+tags: general, leylailemecnun, series
+
+---
+
+Istedigin neyse bulacagin da odur.
+
+*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
+
+tags: general, leylailemecnun, series
+
+---
+
+Devrim de burada basladi zaten.
+
+*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
+
+tags: general, leylailemecnun, series
+
+---
+
+Maybe everybody wants to make somebody feel worse than they do
+
+*>_ The Punisher* (2020-08-05 11:22:06)
+
+tags: general, series, thepunisher
+
+---
+
+Keci sutu edebiyati. Sonra kecileri kacirdim, bitti benim kariyer.
+
+*>_ Mutlu Ol Yeter - S01E06* (2020-08-05 11:22:06)
+
+tags: general
+
+---
+
+therapist- well if you change your mind, my door is always open  
+lucifer- well, feel free to shut it.
+
+*>_ Lucifer* (2020-08-05 11:22:06)
+
+tags: general, lucifer, netflix, series
+
+---
+
+Pismanlik cok gereksiz bir duygudur.
+
+*>_ Lucifer* (2020-08-05 11:22:06)
+
+tags: general, lucifer, netflix, series
+
+---
+
+Baby steps. It took eons to perfect this.
+
+*>_ Lucifer* (2020-08-05 11:22:06)
+
+tags: general, lucifer, netflix, series
+
+---
+
+What is it you truly desired?
+
+*>_ Lucifer* (2020-08-05 11:22:06)
+
+tags: general, lucifer, netflix, series
+
+---
+
+it's the perfect level bloodiness
+
+*>_ Love* (2020-08-05 11:22:06)
+
+tags: general, love, netflix, series
+
+---
+
+Aklim yok benim, hicbirimizin yok. ~Erdal Bakkal
+
+*>_ Leyla ile Mecnun* (2020-08-05 11:22:06)
+
+tags: general
+
+---
+
+gerceklik sadece bir kurgu.
+
+*>_ BigMouth* (2020-08-05 11:22:06)
+
+tags: bigmouth, general, series
+
 ---
 
 O zaman bile ki onlar en kötü zamanlardı, tek yapabildiğim tanrıya şükretmekti. Var olan, var olmuş ya da var olacak her tanrıya … ve tüm evrene ve teşekkür edebileceğim herkese…

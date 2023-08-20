@@ -1,5 +1,5 @@
 ---
-tags: [technical, aws]
+tags: [aws, technical]
 ---
 
 # Elasticbeanstalk PHP Environment
@@ -203,5 +203,5 @@ CustomLog logs/access_log "%{X-Forwarded-For}i %l %u %t \"%r\" %>s %b \"%{Refere
 
 *>_ Unknown* (2022-08-13 20:54:16)
 
-tags: technical, aws
+tags: aws, technical
 

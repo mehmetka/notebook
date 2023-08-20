@@ -1,5 +1,5 @@
 ---
-tags: [technical, how-to]
+tags: [how-to, technical]
 ---
 
 # SSH Tunnel on Windows 10 w/PuTTY and Burp Suite
@@ -29,5 +29,5 @@ tags: [technical, how-to]
 
 *>_ Unknown* (2022-08-13 21:03:58)
 
-tags: technical, how-to
+tags: how-to, technical
 

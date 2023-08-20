@@ -1,5 +1,5 @@
 ---
-tags: [technical, docker]
+tags: [docker, technical]
 ---
 
 # Renaming Docker Volume
@@ -23,5 +23,5 @@ Source: https://stackoverflow.com/a/67568671
 
 *>_ Unknown* (2022-08-13 20:57:49)
 
-tags: technical, docker
+tags: docker, technical
 

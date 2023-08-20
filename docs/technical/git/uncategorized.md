@@ -1,8 +1,20 @@
 ---
-tags: [technical, git]
+tags: [git, technical]
 ---
 
-# notes
+# uncategorized
+
+Rollback a file:
+
+```  
+git checkout HEAD -- filename  
+```
+
+*>_ Unknown* (2023-08-08 22:07:48)
+
+tags: git, technical
+
+---
 
 ## Huseyin Babal - Using Git Like a Hero
 - Dagitik: lokalinizde olan bir git vardir, bir de "remote" vardir. dagitik bir yapi vardir.
@@ -51,7 +63,7 @@ Message: commit msg
 
 *>_ Unknown* (2022-08-13 21:00:55)
 
-tags: technical, git
+tags: git, technical
 
 ---
 
@@ -66,5 +78,5 @@ tags: technical, git
 
 *>_ Unknown* (2022-08-13 21:00:30)
 
-tags: technical, git
+tags: git, technical
 

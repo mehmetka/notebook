@@ -1,5 +1,5 @@
 ---
-tags: [technical, aws]
+tags: [aws, technical]
 ---
 
 # Send Docker Images to AWS ECR
@@ -44,5 +44,5 @@ docker pull account_id.dkr.ecr.eu-central-1.amazonaws.com/hello-world:latest
 
 *>_ Unknown* (2022-08-13 20:53:53)
 
-tags: technical, aws
+tags: aws, technical
 

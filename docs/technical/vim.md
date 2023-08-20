@@ -2,7 +2,54 @@
 tags: [technical, vim]
 ---
 
-# notes
+set number! -> unset line numbers  
+   
+move cursor to  
+next word: w   
+previous word: b 
+
+delete a word: daw  
+delete a letter: dw
+
+undo the last change: u
+
+print file name -> :pwd  
+save as -> :w filename  
+insert mode with new line: o
+
+*>_ Unknown* (2023-08-10 22:52:23)
+
+tags: technical, vim
+
+---
+
+Vim Encryption
+
+For new file:
+
+```  
+vim -x mynewfile  
+opens a prompt and enter the encryption key twice. and done.  
+```
+
+For existing file
+
+```  
+:X  
+opens a prompt and enter the encryption key twice. and done.  
+```
+
+Disable encryption
+
+```  
+:set key=  
+```
+
+*>_ Unknown* (2023-08-10 23:15:59)
+
+tags: technical, vim
+
+---
 
 - This command will ng whitespace. To not delete lines containialso delete lines containing only whitespace, you can use \W*, which means "zero or more whitespace characters.": :g/^\W*$/d
 - This command deletes any line containing only zero or more whitespace characters. Lines that contain any other type of character are not deleted.

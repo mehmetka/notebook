@@ -1,5 +1,5 @@
 ---
-tags: [technical, how-to]
+tags: [how-to, technical]
 ---
 
 # Install Terraform on Mac
@@ -19,5 +19,5 @@ terraform init
 
 *>_ Unknown* (2022-08-13 21:07:34)
 
-tags: technical, how-to
+tags: how-to, technical
 

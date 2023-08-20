@@ -2,6 +2,24 @@
 tags: [general, oguzatay]
 ---
 
+Sen duydun mu sustuklarımı?
+
+*>_ Oğuz Atay* (2020-08-05 11:22:07)
+
+tags: general, oguzatay
+
+---
+
+Iyi seyler birdenbire olur; bu kadar bekletmez insani.  
+Suruncemede kalan heyecanlardan ancak kotu seyler cikar.  
+Ya da hicbir sey cikmaz.
+
+*>_ Oguz Atay* (2020-08-05 11:22:07)
+
+tags: general, oguzatay
+
+---
+
 "Akilli ve namuslu bir aydindi ve cok yalnizdi.” Halit Refig, Oguz Atay hakkindaki yazisinin basligi.
 
 *>_ Halit Refig* (2020-08-05 11:22:06)

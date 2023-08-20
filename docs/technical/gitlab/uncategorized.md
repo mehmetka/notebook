@@ -1,8 +1,8 @@
 ---
-tags: [technical, gitlab]
+tags: [gitlab, technical]
 ---
 
-# notes
+# uncategorized
 
 (Gitlab) You can create access key and use it while doing git operations:
 
@@ -14,5 +14,5 @@ NOT RECOMMENDED, USE DEPLOY KEYS
 
 *>_ Unknown* (2022-08-13 21:09:02)
 
-tags: technical, gitlab
+tags: gitlab, technical
 

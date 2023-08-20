@@ -1,5 +1,5 @@
 ---
-tags: [technical, php]
+tags: [php, technical]
 ---
 
 # Log Fatal Errors to Different Log File
@@ -15,5 +15,5 @@ Source: https://mediatemple.net/community/products/dv/360020711631/how-to-enable
 
 *>_ Unknown* (2022-08-13 21:05:22)
 
-tags: technical, php
+tags: php, technical
 

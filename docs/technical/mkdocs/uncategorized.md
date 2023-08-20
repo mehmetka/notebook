@@ -1,8 +1,8 @@
 ---
-tags: [technical, mkdocs]
+tags: [mkdocs, technical]
 ---
 
-# notes
+# uncategorized
 
 ## Using mkdocs
 
@@ -26,5 +26,5 @@ theme: readthedocs
 
 *>_ Unknown* (2022-08-13 21:11:52)
 
-tags: technical, mkdocs
+tags: mkdocs, technical
 

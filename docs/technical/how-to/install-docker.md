@@ -1,5 +1,5 @@
 ---
-tags: [technical, how-to]
+tags: [how-to, technical]
 ---
 
 # Install Docker
@@ -26,5 +26,5 @@ Source: https://docs.aws.amazon.com/AmazonECS/latest/userguide/create-container-
 
 *>_ Unknown* (2022-08-13 21:03:18)
 
-tags: technical, how-to
+tags: how-to, technical
 

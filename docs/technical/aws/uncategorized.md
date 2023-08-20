@@ -1,8 +1,64 @@
 ---
-tags: [technical, aws]
+tags: [aws, elasticbeanstalk, httpd, technical]
 ---
 
-# notes
+# uncategorized
+
+Add new SSH public key to AWS EC2 Instance:
+
+- Create new Key-Pair on AWS Console (private key will be downloaded automatically.)
+- Change permissions of private key: ```chmod 600 private-key.pem```
+- Generate public key from private key: ```ssh-keygen -y -f private-key.pem```
+- SSH into destination server
+- Add public key to "~/.ssh/authorized_keys" file  
+Done \m/
+
+You can use more than one public key to ssh if you want or delete old ones
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/replacing-key-pair.html
+
+*>_ Unknown* (2023-08-17 17:31:35)
+
+tags: aws, technical
+
+---
+
+Get EC2 Instance Type inside of instance
+
+```  
+curl http://169.254.169.254/latest/meta-data/instance-type  
+```
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html
+
+*>_ Unknown* (2023-08-17 17:03:50)
+
+tags: aws, technical
+
+---
+
+AWS ElasticBeanstalk PHP 7.4 Environment httpd.conf:
+
+```  
+...  
+<IfModule worker.c>  
+StartServers        10  
+MinSpareThreads     240  
+MaxSpareThreads     240  
+ServerLimit         10  
+MaxRequestWorkers          250  
+MaxConnectionsPerChild 1000000  
+</IfModule>  
+...  
+```
+
+Same for t4g.micro and t4g.xlarge.
+
+*>_ Unknown* (2023-08-04 23:22:46)
+
+tags: aws, elasticbeanstalk, httpd, technical
+
+---
 
 # Extending EC2 Volume Size
 
@@ -40,7 +96,7 @@ Source: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-v
 
 *>_ Unknown* (2023-07-31 21:52:51)
 
-tags: technical, aws
+tags: aws, technical
 
 ---
 
@@ -52,7 +108,7 @@ tags: technical, aws
 
 *>_ Unknown* (2022-08-13 21:10:25)
 
-tags: technical, aws
+tags: aws, technical
 
 ---
 
@@ -71,7 +127,7 @@ Source: https://medium.com/@m.yunan.helmy/increase-the-size-of-ebs-volume-in-you
 
 *>_ Unknown* (2022-08-13 21:10:06)
 
-tags: technical, aws
+tags: aws, technical
 
 ---
 
@@ -85,7 +141,7 @@ environment from the Beanstalk console.
 
 *>_ Unknown* (2022-08-13 20:56:36)
 
-tags: technical, aws
+tags: aws, technical
 
 ---
 
@@ -94,5 +150,5 @@ tags: technical, aws
 
 *>_ Unknown* (2022-08-13 20:56:20)
 
-tags: technical, aws
+tags: aws, technical
 

@@ -1,5 +1,5 @@
 ---
-tags: [technical, how-to]
+tags: [how-to, technical]
 ---
 
 # FoxyProxy SOCKS Proxy Configurations
@@ -8,5 +8,5 @@ tags: [technical, how-to]
 
 *>_ Unknown* (2022-08-13 21:02:59)
 
-tags: technical, how-to
+tags: how-to, technical
 

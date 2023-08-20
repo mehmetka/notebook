@@ -1,5 +1,5 @@
 ---
-tags: [technical, git]
+tags: [git, technical]
 ---
 
 # Git Flow
@@ -89,5 +89,5 @@ tags: [technical, git]
 
 *>_ Unknown* (2022-08-13 20:59:45)
 
-tags: technical, git
+tags: git, technical
 

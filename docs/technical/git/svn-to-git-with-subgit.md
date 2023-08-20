@@ -1,5 +1,5 @@
 ---
-tags: [technical, git]
+tags: [git, technical]
 ---
 
 # SVN to Git with Subgit for macOS
@@ -48,5 +48,5 @@ $ git push origin master
 
 *>_ Unknown* (2022-08-13 21:01:32)
 
-tags: technical, git
+tags: git, technical
 

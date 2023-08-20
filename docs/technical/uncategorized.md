@@ -1,8 +1,77 @@
 ---
-tags: [technical]
+tags: [funny, http, technical]
 ---
 
-# notes
+# uncategorized
+
+DRY needs to stop.
+
+It's one of the worst programming advice out there.
+
+It's true. You shouldn't repeat extremely core parts of business logic.
+
+BUT--you shouldn't extract every single line of code that looks similar into a reusable function either. Unfortunately, this is the way it's usually taught.
+
+That's just going to lead to poor abstractions.
+
+Check out:  
+• Sandi Metz - The wrong abstraction  
+• Kent C Dodds - AHA (Avoid hasty abstractions)  
+• Dan Abramov - The WET codebase (Write everything twice)
+
+Before extracting logic, remember: No abstraction > the wrong abstraction
+
+*>_ Jordan Cutler - Linkedin* (2023-08-18 12:46:16)
+
+tags: technical
+
+---
+
+Exit code 137 occurs when a process is terminated because it's using too much memory.
+
+*>_ Unknown* (2023-08-14 20:16:06)
+
+tags: technical
+
+---
+
+HTTP status codes:
+
+1xx hold on  
+2xx here you go  
+3xx go away  
+4xx you screwed up  
+5xx i screwed up
+
+https://twitter.com/DavidSmrvl/status/424205562046197760
+
+*>_ David Somerville* (2023-08-10 23:18:52)
+
+tags: funny, http, technical
+
+---
+
+Shows content of file.
+
+```  
+curl file:///home/ec2-user/bla-bla  
+```
+
+*>_ Unknown* (2023-08-10 22:47:06)
+
+tags: technical
+
+---
+
+```  
+stress --cpu 2 --timeout 60  
+```
+
+*>_ Unknown* (2023-08-10 22:45:50)
+
+tags: technical
+
+---
 
 - iCloud path: /Users/username/Library/Mobile Documents/com~apple~CloudDocs
 - Browser does not allow to use autocomplete on values which access by AJAX request

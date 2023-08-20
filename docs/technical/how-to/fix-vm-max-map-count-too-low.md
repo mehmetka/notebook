@@ -1,5 +1,5 @@
 ---
-tags: [technical, how-to]
+tags: [how-to, technical]
 ---
 
 # Fix "vm.max_map_count is too low"
@@ -23,5 +23,5 @@ Source: https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-m
 
 *>_ Unknown* (2022-08-13 21:06:39)
 
-tags: technical, how-to
+tags: how-to, technical
 

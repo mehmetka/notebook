@@ -1,5 +1,5 @@
 ---
-tags: [technical, gitlab]
+tags: [gitlab, technical]
 ---
 
 # Deploy with Gitlab Runner
@@ -79,5 +79,5 @@ ssh username@$SERVER_IP 'bash -s' < deploy-script.sh
 
 *>_ Unknown* (2022-08-13 21:01:56)
 
-tags: technical, gitlab
+tags: gitlab, technical
 

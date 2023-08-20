@@ -1,5 +1,5 @@
 ---
-tags: [technical, how-to]
+tags: [how-to, technical]
 ---
 
 # Install Docker Compose
@@ -15,5 +15,5 @@ Source: https://gist.github.com/npearce/6f3c7826c7499587f00957fee62f8ee9
 
 *>_ Unknown* (2022-08-13 21:03:36)
 
-tags: technical, how-to
+tags: how-to, technical
 

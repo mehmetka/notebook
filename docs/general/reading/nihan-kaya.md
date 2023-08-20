@@ -2,6 +2,70 @@
 tags: [general]
 ---
 
+Unuttum diyorsan unutmamissindir. Unutulmus her seyi unutulduklari koselerden cikaracagiz.  
+Sandalyemiz olacaklar ve duvarlarimiz oalcaklar; bu evi tabut oldugu anlasilmasin diye boyle buyuk insa ettin ama o yine de tabut;  
+duvarlarimiz olacaklar ve zemin olacaklar; dogrulacagiz.  
+Dustugumuz her yerden fidan gibi dogrulacagiz.  
+Hatirladiklarimiz kollarimiz olacak.  
+Hatirladiklarimiz su olacak, kulac olacak. Suya dustugumuz icin degil, suya tutundugumuz icin hayat bulacagiz.
+
+*>_ Nihan Kaya* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+En mutlu insanlar evlerinde oturup bir seyler uretmekle mesgul olanlardir.  
+Mutsuzlar disari cikar, guzel kiyafetler giyer, kafelere, gece kuluplerine gider, eglenir, dostlarla sohbet ederler. Mutsuzlugun semptomu mutsuzlugun kendisi degil eglenme ihtiyacidir.
+
+*>_ Nihan Kaya - Yazma Cesareti* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+Aşağılanan çocuk kendisine olan saygısının son kırıntısıyla güldüğünde ona sertçe "Ben gülmüyorum" demek, ne kadar ağır..  
+Sizin gülmediğiniz bir durumda çocuğun gülme hakkı yok mu?  
+Ve cocuk da burada gulme hakkinin varligina inanmayip daha da utandiginda, o son kirinti da elinden alinmis oluyor.
+
+*>_ Nihan Kaya* (2020-08-05 11:22:07)
+
+tags: general
+
+---
+
+28 yaşındaydı. Yaklaşık 150 adet antidepresan, 50 adet uyku ilacı alarak intihara teşebbüs etti.  
+Hastaneye kaldırdılar. 2 gün sonra ayağa kalktı.  
+Gece 2'de usulca, kimse görmeden hastanenin köhne tuvaletine giderek kendini o köhne tuvaletin kapısına ayakkabı bağcıklarıyla astı.  
+28 yaşındaydı.  
+...Nedense içime en çok dokunan ölümlerden biridir Sarah Kane’inki.  
+Kutu kutu ilaç içtikten sonra kaldırıldığı hastanede biraz güç toplar toplamaz kendisini bir tuvalette,  
+üstelik bulabildiği tek şey olan ayakkabı bağcıklarıyla öldürmesinden değil sadece,  
+Kane’in yıllar süren yardım çağrısına dünya olarak sessiz kalmamızdan dolayı.  
+Gerçek şu ki **intihar edeceğini intihar etmeden önce bir şekilde söylemeyen hiç kimse yoktur.**  
+...Kane, tuttuğu günlüklere intihar etmeden önce müteaddit kere  
+"Bu dünyada beni hiç kimse sevmiyor… Bu dünyada beni hiç kimse sevmiyor… Bu dünyada beni hiç kimse sevmiyor…” yazmıştı.  
+İşin kötüsü haklıydı da.  
+Muhtemel ki Kane'e rastlamış olsak biz de çok sevmeyecektik onu.  
+Bu yüzden, ne zaman çok sevmediğim biriyle karşılaşsam Sarah Kane gelir aklıma.  
+Sevmediğimiz her insan potansiyel bir Kane çünkü.  
+...Sarah Kane'in pek sevilmeyen bir insan olduğu için mi ağır depresyonda olduğu,  
+yoksa ağır depresyonda olduğu için mi pek sevilmeyen bir insan olduğu,  
+içinden çıkılması zor bir konu. Nitekim, pek de sevimli olmayan kimselerin biz onlara sevgi gösterdikçe kendiliklerinden,  
+sevilecek kişilere dönüşmesi ilginç. Birinin sevimsiz davranışı da  
+"Beni sevin! Sevginize çok ihtiyacım var!" yönünde bir yardım çağrısı aslında.  
+Sevgiye en çok ihtiyacı olanlar, sevilmesi en zor olanlar.  
+...Sarah Kane öldüğünde geride 5 tiyatro oyunu ile bir film senaryosu bıraktı.  
+Ölmeden kısa bir süre önce tamamladığı 4:48 Psychosis oyunu, henüz hiçbir yerde oynanmamıştı.  
+Sarah Kane'in arkadaşı, oyun yazarı David Greig, oyun için yazdığı bir önsözde,  
+4:48 Psychosis'in, yazarının ölümünden sonra oynanacağı neredeyse kesin şekilde bilinerek yazıldığı açık bir oyun olduğunu söyler.
+
+*>_ Nihan Kaya - Fildişi Kuyu* (2020-08-05 11:22:06)
+
+tags: general
+
+---
+
 Kendi hislerinden rahatsız olmayan kimse, başka hiç kimsenin hislerinden rahatsız olmaz. 'Abartıyorsun' demek istismardır. Bir kişinin bir konuya verdiği -size göre fazla tepki; o kişinin, o konuda duygusal bir geçmişi olduğunu gösterir.
 
 *>_ Nihan Kaya* (2020-08-05 11:22:06)

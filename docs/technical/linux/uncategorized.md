@@ -1,8 +1,28 @@
 ---
-tags: [technical, linux]
+tags: [linux, technical]
 ---
 
-# notes
+# uncategorized
+
+User's UID:
+
+```  
+id -u username  
+```
+
+User's GID:
+
+```  
+id -g username  
+```
+
+https://kb.iu.edu/d/adwf
+
+*>_ Unknown* (2023-08-14 16:29:07)
+
+tags: linux, technical
+
+---
 
 # Multiple SSH Keys
 
@@ -15,7 +35,7 @@ IdentityFile ~/.ssh/id_rsa
 
 *>_ Unknown* (2022-08-13 21:09:20)
 
-tags: technical, linux
+tags: linux, technical
 
 ---
 
@@ -29,7 +49,7 @@ Source: https://www.howtoforge.com/how-to-install-gitlab-server-with-docker-on-u
 
 *>_ Unknown* (2022-08-13 21:09:32)
 
-tags: technical, linux
+tags: linux, technical
 
 ---
 
@@ -53,5 +73,5 @@ tags: technical, linux
 
 *>_ Unknown* (2022-08-13 21:04:29)
 
-tags: technical, linux
+tags: linux, technical
 

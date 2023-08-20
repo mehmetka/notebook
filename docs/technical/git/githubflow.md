@@ -1,5 +1,5 @@
 ---
-tags: [technical, git]
+tags: [git, technical]
 ---
 
 # Github Flow
@@ -43,5 +43,5 @@ accepted and the branch is merged.
 
 *>_ Unknown* (2022-08-13 21:00:12)
 
-tags: technical, git
+tags: git, technical
 

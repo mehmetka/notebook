@@ -18,6 +18,8 @@ Hi! 🤘
 
 - 🐋 Currently, I'm working as DevOps Engineer at [Shopier](https://www.shopier.com)
 
+- 🐈 Berlin, Arthur, Petra
+
 ```
 In the misty morning, on the edge of time
 We've lost the rising sun

@@ -1,12 +1,12 @@
 ---
-tags: [general, friends]
+tags: [friends, general]
 ---
 
 i tell people secrets, it makes them like me. (Chandler)
 
 *>_ Friends - S04E05* (2023-07-04 22:07:06)
 
-tags: general, friends
+tags: friends, general
 
 ---
 
@@ -136,7 +136,7 @@ tags: general
 
 *>_ Friends - S02E08* (2023-05-12 23:17:13)
 
-tags: general, friends
+tags: friends, general
 
 ---
 

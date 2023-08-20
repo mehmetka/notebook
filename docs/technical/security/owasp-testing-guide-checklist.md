@@ -1,5 +1,5 @@
 ---
-tags: [technical, security]
+tags: [security, technical]
 ---
 
 # OWASP Testing Guide v4.0
@@ -127,5 +127,5 @@ https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Te
 
 *>_ Unknown* (2022-08-13 21:05:59)
 
-tags: technical, security
+tags: security, technical
 

@@ -1,8 +1,8 @@
 ---
-tags: [technical, docker]
+tags: [docker, technical]
 ---
 
-# notes
+# uncategorized
 
 Docker Secrets (Swarm)
 
@@ -19,7 +19,7 @@ Source:
 
 *>_ Unknown* (2022-08-13 20:58:28)
 
-tags: technical, docker
+tags: docker, technical
 
 ---
 
@@ -34,7 +34,7 @@ Install ```libicu-dev``` package for "php:5.6.40-apache-jessie" image.
 
 *>_ Unknown* (2022-08-13 21:11:14)
 
-tags: technical, docker
+tags: docker, technical
 
 ---
 
@@ -60,5 +60,5 @@ docker build -t imagename --platform linux/amd64 .
 
 *>_ Unknown* (2022-08-13 20:59:00)
 
-tags: technical, docker
+tags: docker, technical
 

@@ -1,5 +1,5 @@
 ---
-tags: [technical, aws]
+tags: [aws, technical]
 ---
 
 # Accessing RDS from Lambda
@@ -82,5 +82,5 @@ https://docs.aws.amazon.com/lambda/latest/dg/services-rds-tutorial.html
 
 *>_ Unknown* (2022-08-13 20:54:36)
 
-tags: technical, aws
+tags: aws, technical
 

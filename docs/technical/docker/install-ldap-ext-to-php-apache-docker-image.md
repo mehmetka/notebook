@@ -1,5 +1,5 @@
 ---
-tags: [technical, docker]
+tags: [docker, technical]
 ---
 
 # Install LDAP Extension on php-apache Docker Image
@@ -16,5 +16,5 @@ RUN docker-php-ext-install ldap
 
 *>_ Unknown* (2022-08-13 20:58:08)
 
-tags: technical, docker
+tags: docker, technical
 

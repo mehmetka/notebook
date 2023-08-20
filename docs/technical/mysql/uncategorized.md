@@ -1,8 +1,8 @@
 ---
-tags: [technical, mysql]
+tags: [mysql, technical]
 ---
 
-# notes
+# uncategorized
 
 # Copy with indexes and triggers
 
@@ -13,7 +13,7 @@ INSERT INTO newtable SELECT * FROM oldtable;
 
 *>_ Unknown* (2022-08-13 21:04:50)
 
-tags: technical, mysql
+tags: mysql, technical
 
 ---
 
@@ -32,5 +32,5 @@ WHERE MATCH(cc.product) AGAINST(:libraryName)
 
 *>_ Unknown* (2022-08-13 21:05:01)
 
-tags: technical, mysql
+tags: mysql, technical
 

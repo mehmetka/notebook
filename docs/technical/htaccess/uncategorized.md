@@ -1,8 +1,8 @@
 ---
-tags: [technical, htaccess]
+tags: [htaccess, technical]
 ---
 
-# notes
+# uncategorized
 
 Block anything except zip files in .htaccess file:
 
@@ -17,5 +17,5 @@ Order Deny,Allow
 
 *>_ Unknown* (2022-08-13 21:08:42)
 
-tags: technical, htaccess
+tags: htaccess, technical
 

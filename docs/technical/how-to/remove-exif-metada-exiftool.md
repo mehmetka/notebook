@@ -1,5 +1,5 @@
 ---
-tags: [technical, how-to]
+tags: [how-to, technical]
 ---
 
 # Remove EXIF Metadata with exiftool
@@ -8,5 +8,5 @@ tags: [technical, how-to]
 
 *>_ Unknown* (2023-07-31 21:58:59)
 
-tags: technical, how-to
+tags: how-to, technical
 

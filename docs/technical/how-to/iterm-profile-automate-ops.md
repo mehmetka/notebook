@@ -1,5 +1,5 @@
 ---
-tags: [technical, how-to]
+tags: [how-to, technical]
 ---
 
 # Create Profile on iTerm2 to Automate Ops
@@ -14,5 +14,5 @@ tags: [technical, how-to]
 
 *>_ Unknown* (2022-08-13 21:12:10)
 
-tags: technical, how-to
+tags: how-to, technical
 

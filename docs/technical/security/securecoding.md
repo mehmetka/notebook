@@ -1,5 +1,5 @@
 ---
-tags: [technical, security]
+tags: [security, technical]
 ---
 
 # Secure Coding
@@ -12,5 +12,5 @@ tags: [technical, security]
 
 *>_ Unknown* (2022-08-13 21:06:21)
 
-tags: technical, security
+tags: security, technical
 

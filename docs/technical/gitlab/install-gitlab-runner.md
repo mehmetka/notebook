@@ -1,5 +1,5 @@
 ---
-tags: [technical, gitlab]
+tags: [gitlab, technical]
 ---
 
 # Install Gitlab Runner
@@ -39,5 +39,5 @@ sudo gitlab-runner start
 
 *>_ Unknown* (2022-08-13 21:02:28)
 
-tags: technical, gitlab
+tags: gitlab, technical
 
