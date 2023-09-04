@@ -50,6 +50,10 @@ const config = {
           },
           items: [
             {
+              href: '/tags',
+              label: 'Tags',
+            },
+            {
               href: 'https://github.com/mehmetka/notebook',
               label: 'GitHub',
               position: 'right',
