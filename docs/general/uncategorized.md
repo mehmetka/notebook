@@ -1,8 +1,106 @@
 ---
-tags: [amywinehouse, artificial-intelligence, behzatc, brutalwill, deepworking, desire, education, general, hope, kaancaydamli, kaybedenlerkulubu, love, marriage, monologue, music, orucaruoba, science]
+tags: [amywinehouse, artificial-intelligence, behzatc, brutalwill, deepworking, desire, education, hope, kaancaydamli, kaybedenlerkulubu, love, marriage, monologue, music, orucaruoba, science]
 ---
 
-# uncategorized
+Kapitalizmin metaforu: insansız yataklar ve yataksız insanlar.  
+
+> dusunbildergisi - Twitter (2023-08-31 14:15:18)  
+  
+--
+
+May your next tears be tears of joy.  
+
+> Unknown (2023-08-28 10:16:41)  
+  
+--
+
+Romantik olarak anlatılan çoğu hikayenin toksik olması, birinin sınırlarını korumayı bilmemesi veya iletişim kurmayı bilmemesi gerçeği.  
+
+> Hana Kamer - Twitter (2023-08-25 18:21:08)  
+  
+--
+
+My mind is like a browser. 27 tabs are open, 9 aren't responding, lots of pop-ups, and where is that annoying music coming from?
+
+https://forums.raspberrypi.com/viewtopic.php?t=338862  
+
+> Unknown (2023-08-25 18:17:36)  
+  
+--
+
+Fedakarlık ve delilik arasında çok ince bir fark var.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Ölüm büyük eşitleyiciliğine rağmen bütün ölüleri eşit hale getirmiyordu.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+İskenderiye kütüphanesi: "Bilim bizi tanrıların gazabından korur" M.Ö 3. YY  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Çok sesli ölüm yazarı  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+İnsanlığın mutlu zamanları tarih kitabında boş sayfalardır.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Şu hayatta en nefret ettiğim şey hatırlamaktır.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Kaybolan kalemler, silinen hayaller  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Dördüncü kaide Yalnızlık  
+yazmak bir yalnızlık deneyimidir.  
+Arkanda şahit bırakmaman gerekiyor.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Ben bu evin önünden ne zaman geçsem kararsızlığımı, ürpertici yalnızlığımı hissediyorum.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Şeytanın zafere ulaşmak için ihtiyacı olan tek şey iyi insanların hiçbir şey yapmadan oturmalarıdır.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Sanki birisi Jesse'nin derisinin bir tabakasını yüzmüş, çığlıklarını kaydetmişti.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
+
+Ey sıradan kelimelerden geçenler.  
+
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 - Etkili çalışma kavramı, işleri kısa sürede yüksek kalitede tamamlamayı ifade eder.
 - üşengeçliği aşmak
@@ -18,29 +116,24 @@ tags: [amywinehouse, artificial-intelligence, behzatc, brutalwill, deepworking, 
 - Yakalanan ve netleşen fikirler üzerinde kesin olarak çalışmaya söz vermek önemlidir. Eğer bir söz verildiyse, bu görevleri “DOING” aşamasına taşıyabiliriz. “DOING” aşamasına taşınan bir görev, kolayca unutulmamalı ve tüm dikkat bu aşamadaki işlere yönlendirilmelidir.
 - En önemli noktalardan biri, yapılacak görevlere sınır getirmektir. Örneğin, “DOING” aşamasında 100 görev bulunması durumunda, bu durum görev boğulması sendromu yaşatabilir. Çünkü aynı anda yapılan işlere sınır getirmek, akışkanlığı artıran bir pratiktir.
 - “DOING” alanına taşınan her iş bir borç, “DONE” aşamasına taşınan her iş ise kazanılan bir para gibidir.
-- efektif çalışma sisteminizi haftada bir gözden geçirip, mevcut durum ile senkron etmezseniz, efektif çalışma sistemi çöker. Beyniniz bu sisteme güvenmez ve yine her fikri akılda tutma işkencesine geri dönülebilir. Haftada en az 1 saat, efektif çalışma sistemini aynı bir bahçıvan gibi bakmanız lazım. Örneğin “DOING” içerisinde atıl bir iş görev var mı? Varsa bu işi çöpe atın.
+- efektif çalışma sisteminizi haftada bir gözden geçirip, mevcut durum ile senkron etmezseniz, efektif çalışma sistemi çöker. Beyniniz bu sisteme güvenmez ve yine her fikri akılda tutma işkencesine geri dönülebilir. Haftada en az 1 saat, efektif çalışma sistemini aynı bir bahçıvan gibi bakmanız lazım. Örneğin “DOING” içerisinde atıl bir iş görev var mı? Varsa bu işi çöpe atın.  
 
-*>_ Altug Bilgin Altintas - Efektif çalışmaya ait basit pratikler* (2023-08-19 14:51:09)
+> Altug Bilgin Altintas - Efektif çalışmaya ait basit pratikler (2023-08-19 14:51:09)  
+> #deepworking
 
-tags: deepworking, general
+--
 
----
+Muhteşem dizilerin ortak özelliği: Başlangıçta karakterleri iyi/kötü kategorilerinden birine kolaylıkla yerleştirmemize izin vermek, sonrasında zamanda geriye dönüşlerle ya da zaman içinde kahramanın dönüşümüyle ahlaki kategorilerileri yerle bir etmek, her şeyi gri alana çekmek.  
 
-Muhteşem dizilerin ortak özelliği: Başlangıçta karakterleri iyi/kötü kategorilerinden birine kolaylıkla yerleştirmemize izin vermek, sonrasında zamanda geriye dönüşlerle ya da zaman içinde kahramanın dönüşümüyle ahlaki kategorilerileri yerle bir etmek, her şeyi gri alana çekmek.
+> ilker_kocael - Twitter (2023-08-19 00:03:47)  
+  
+--
 
-*>_ ilker_kocael - Twitter* (2023-08-19 00:03:47)
+Acaba hic kendim olmus muydum? Hic kendimiz olduk mu?  
 
-tags: general
-
----
-
-Acaba hic kendim olmus muydum? Hic kendimiz olduk mu?
-
-*>_ Adalet Agaoglu* (2023-08-17 23:40:50)
-
-tags: general
-
----
+> Adalet Agaoglu (2023-08-17 23:40:50)  
+  
+--
 
 Kabul etmek, yas tutmaya dairdir. Kabul etmeyi tamamlamadan yasımızı da tamamlayamayız. Kabul etmek, (çoğunlukla acı duygular) hissetmeyi, zayıf ve çaresiz tarafımızı görmeyi de beraberinde getirir. Ya da tam tersi, biz “hissetmeye” ve “görmeye” başladıkça “kabul” de beraberinde gelir.
 
@@ -48,30 +141,25 @@ Kabul etmek… (Özellikle küçüklüğümüzde) maruz kaldıklarımızın; alm
 
 İşte o zaman, gerçekliğini bir türlü kabul etmediğimiz şeyleri sürekli yeniden sahneleyip farklı bir gerçeklik elde etmek adına çabalamayı bırakabiliriz. 
 
-Ve yine, işte o zaman, daha pozitif bir yöne doğru gideriz. Buradaki pozitif yönden kastım, Diana Fosha'nın bahsettiği gibi, bir şeyin (içten gelecek şekilde) doğru olduğu hissi ve canlılık hali.
+Ve yine, işte o zaman, daha pozitif bir yöne doğru gideriz. Buradaki pozitif yönden kastım, Diana Fosha'nın bahsettiği gibi, bir şeyin (içten gelecek şekilde) doğru olduğu hissi ve canlılık hali.  
 
-*>_ RuveydaCelenk - Twitter* (2023-08-16 14:15:41)
-
-tags: general
-
----
+> RuveydaCelenk - Twitter (2023-08-16 14:15:41)  
+  
+--
 
 "Önemsiz biriyim takip edilmek hoşuma gitmiyor."  
-Takip edilmekten nefret ederim.
+Takip edilmekten nefret ederim.  
 
-*>_ Unknown* (2023-08-13 21:39:00)
+> Unknown (2023-08-13 21:39:00)  
+  
+--
 
-tags: general
+Başarılı insanlar başkalarının kendileriyle ilgili fikirlerini umursamazlar.  
 
----
+> Unknown (2023-08-13 16:55:52)  
+> #brutalwill
 
-Başarılı insanlar başkalarının kendileriyle ilgili fikirlerini umursamazlar.
-
-*>_ Unknown* (2023-08-13 16:55:52)
-
-tags: brutalwill, general
-
----
+--
 
 - Çok çalışmanın yüceltildiği bir toplumdan geldiğimiz için hala bu konu ile ilgili güzellemeler yapıldığını görüyorum
 - İnsanın büyüdüğü toplumun doğrularının dışına çıkması her zaman zordur ve cesaret ister. Meseleye bu yönüyle baktığım zaman, çok çalışmanın yüceltilmesini anlayabiliyorum.
@@ -91,29 +179,23 @@ tags: brutalwill, general
 - Odak süresini artırmada diğer önemli bir konu da anda kalmaktır. ... Siz bir işe başladığınızda aklınızda geçen şeyleri susturamazsanız, konuya odaklanmak çok da mümkün olmuyor.
 - meditasyona ve anda kalma teknikleri
 
-Uzun lafın kısası, hayat kısa kuşlar uçuyor. Çok çalışmayla ömür geçmez. Hayatta tadına bakılacak çok fazla aktivite var. Çalışmak hayatın içinde olan küçük bir parçadan öteye gitmemelidir. Etkili çalışma yönemlerini keşfederek siz de hayata daha fazla karışabilirsiniz.
+Uzun lafın kısası, hayat kısa kuşlar uçuyor. Çok çalışmayla ömür geçmez. Hayatta tadına bakılacak çok fazla aktivite var. Çalışmak hayatın içinde olan küçük bir parçadan öteye gitmemelidir. Etkili çalışma yönemlerini keşfederek siz de hayata daha fazla karışabilirsiniz.  
 
-*>_ Etkili Çalışmanın Önemi* (2023-08-12 18:48:04)
+> Etkili Çalışmanın Önemi (2023-08-12 18:48:04)  
+  
+--
 
-tags: general
+Almanya’da çalıştığım firmada mesai 17.00’da bitmesine rağmen iş genelde 15.30-16.00 gibi bitiyor, ben de birgün neden bu kadar erken bittiğini sordum, **işi bu sisteme getirebilmek için 20 senelik emek verdik, fazla mesai çalışılması gerekiyorsa o sistem bozuktur demişlerdi**  
 
----
+> diclecengizzz - Twitter (2023-08-12 18:09:59)  
+  
+--
 
-Almanya’da çalıştığım firmada mesai 17.00’da bitmesine rağmen iş genelde 15.30-16.00 gibi bitiyor, ben de birgün neden bu kadar erken bittiğini sordum, **işi bu sisteme getirebilmek için 20 senelik emek verdik, fazla mesai çalışılması gerekiyorsa o sistem bozuktur demişlerdi**
+sosyal medya bizi bu hale getirmedi biz böyle olduğumuz için sosyal medya var  
 
-*>_ diclecengizzz - Twitter* (2023-08-12 18:09:59)
-
-tags: general
-
----
-
-sosyal medya bizi bu hale getirmedi biz böyle olduğumuz için sosyal medya var
-
-*>_ Unknown* (2023-08-12 15:38:51)
-
-tags: general
-
----
+> Unknown (2023-08-12 15:38:51)  
+  
+--
 
 1. Çocuklarının hobilerini asla zaman kaybı olarak görmediler.  
 Konuştuğum ebeveynlerin çocuklarının bir tutkusu vardı. Ebeveynler çocuklarını asla hobilerinden uzaklaştırmadılar. Çünkü bunun onları zihinsel olarak aktif tuttuğunu biliyorlardı" diyor.
@@ -131,999 +213,768 @@ Bir şeyi yeterince seven ve bu konuda çok çalışan biri, o alanda bir diplom
 
 Üniversite parasını ben ödediğim için hiçbir dersi kaçırmadım. Her dersin maliyetini 500 dolar olarak hesaplamıştım. Eğer bir dersi atlamak isteseydim, bu saat içinde yapabileceğim hiçbir şeyin 500 dolardan daha değerli olmadığını düşünürdüm.
 
-https://www.ekonomist.com.tr/egitim/basarili-girisimciler-yetistiren-70-ailenin-yapmadigi-4-ortak-ozellik-40690/4
+https://www.ekonomist.com.tr/egitim/basarili-girisimciler-yetistiren-70-ailenin-yapmadigi-4-ortak-ozellik-40690/4  
 
-*>_ Unknown* (2023-08-13 21:24:07)
+> Unknown (2023-08-13 21:24:07)  
+  
+--
 
-tags: general
+hayattaki en ufacık sorunu bile büyütüp her şeyin tadını kaçırmak inanılmaz toksik bi davranış. yanlış metroya mı bindik geri ineriz, planımız değişti mi yenisini yaparız, üstümüz çimen mi oldu sileriz, istediğimiz yemek kötü mü geldi bi daha yemeyiz, yani hepsini hallederiizzz  
 
----
+> renaittre - Twitter (2023-08-13 17:00:12)  
+  
+--
 
-hayattaki en ufacık sorunu bile büyütüp her şeyin tadını kaçırmak inanılmaz toksik bi davranış. yanlış metroya mı bindik geri ineriz, planımız değişti mi yenisini yaparız, üstümüz çimen mi oldu sileriz, istediğimiz yemek kötü mü geldi bi daha yemeyiz, yani hepsini hallederiizzz
+Türk aile yapısının en büyük problemi bireyselliği saygısızlık olarak görmeleridir.  
 
-*>_ renaittre - Twitter* (2023-08-13 17:00:12)
+> kafadoktoruu_ - Twitter (2023-08-12 15:27:59)  
+  
+--
 
-tags: general
+secilmis guzellik algisini dayatiyor.  
 
----
+> Murat Soner (2023-08-09 21:35:57)  
+  
+--
 
-Türk aile yapısının en büyük problemi bireyselliği saygısızlık olarak görmeleridir.
+herkes ayni fabrikanin bantindan, ayni dukkanin tezgahindan cikmis gibiydi. ama ucuz bir dukkanin tezgahindan.  
 
-*>_ kafadoktoruu_ - Twitter* (2023-08-12 15:27:59)
+> Murat Soner (2023-08-09 21:35:30)  
+  
+--
 
-tags: general
+Akıllılar hatalarından, dahiler başkalarının hatalarından ders alırmış. Peki kendi hatalarından bile ders almayanlar?  
 
----
+> Twitter (2023-08-08 22:17:05)  
+  
+--
 
-secilmis guzellik algisini dayatiyor.
+Siz bir gün adaletin tecellisini istemiyorsunuz, siz arenada gladyatör seyredip kan gördükten sonra eve gitmek istiyorsunuz.  
 
-*>_ Murat Soner* (2023-08-09 21:35:57)
+> melikedkaplan - Twitter (2023-08-08 16:26:17)  
+  
+--
 
-tags: general
+The path isn't a straight line; it's a spiral. You continually come back to things you thought you understood and see deeper truths.  
 
----
+> Barry H. Gillespie (2023-08-07 10:44:48)  
+  
+--
 
-herkes ayni fabrikanin bantindan, ayni dukkanin tezgahindan cikmis gibiydi. ama ucuz bir dukkanin tezgahindan.
+Manzara fotoğrafları aslında eski insan topluluklarının fotoğraflarıdır. Her ölen birer birer yok olur fotoğraflardan. Ve zamanla manzara fotoğrafı olur, hiçkimse kalmadığında. (1287,1363)  
 
-*>_ Murat Soner* (2023-08-09 21:35:30)
+> Unknown (2020-08-05 11:22:07)  
+> #monologue
 
-tags: general
+--
 
----
+İlişkiler ölmeyi bekleyen hastalar.  
 
-Akıllılar hatalarından, dahiler başkalarının hatalarından ders alırmış. Peki kendi hatalarından bile ders almayanlar?
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Twitter* (2023-08-08 22:17:05)
+Tanımlayamadığımız bir şeyi anlamamamız normal.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Nereden geldiğin hiç önemli değildir. Önemli olan nasıl biri olmayı seçtiğindir.  
 
-Siz bir gün adaletin tecellisini istemiyorsunuz, siz arenada gladyatör seyredip kan gördükten sonra eve gitmek istiyorsunuz.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ melikedkaplan - Twitter* (2023-08-08 16:26:17)
+Bazen sadece manyetik bir sapma olmak istiyorsun.  
 
-tags: general
+> Kaybedenler Kulübü (2020-08-05 11:22:07)  
+> #kaybedenlerkulubu
 
----
+--
 
-The path isn't a straight line; it's a spiral. You continually come back to things you thought you understood and see deeper truths.
+Beynimde sahaflar çarpışıyor.  
 
-*>_ Barry H. Gillespie* (2023-08-07 10:44:48)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Çünkü bir enginarın bile bir kalbi vardır.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Manzara fotoğrafları aslında eski insan topluluklarının fotoğraflarıdır. Her ölen birer birer yok olur fotoğraflardan. Ve zamanla manzara fotoğrafı olur, hiçkimse kalmadığında. (1287,1363)
+Zira intikam gülerek alınır.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general, monologue
+Sen sen ol, aydınlıkta küfrettiğine karanlıkta özür dileme  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-İlişkiler ölmeyi bekleyen hastalar.
+Haddini aşan beklentiler.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Kendi pisliğini temizlediğin için teşekkür mü bekliyorsun?  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Tanımlayamadığımız bir şeyi anlamamamız normal.
+En önemlisi de Shakespeare eseleri hep elinin altında olsun  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Çünkü biliyorum, günaha gırtlağınıza kadar batmak değil, başkasının günahsız kalabildiğini görmek daha çok acı verir.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Nereden geldiğin hiç önemli değildir. Önemli olan nasıl biri olmayı seçtiğindir.
+Temkinine temkin koyacak kadar temkinlidir.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bazen sadece manyetik bir sapma olmak istiyorsun.
-
-*>_ Kaybedenler Kulübü* (2020-08-05 11:22:07)
-
-tags: general, kaybedenlerkulubu
-
----
-
-Beynimde sahaflar çarpışıyor.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Çünkü bir enginarın bile bir kalbi vardır.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Zira intikam gülerek alınır.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Sen sen ol, aydınlıkta küfrettiğine karanlıkta özür dileme
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Haddini aşan beklentiler.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Kendi pisliğini temizlediğin için teşekkür mü bekliyorsun?
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-En önemlisi de Shakespeare eseleri hep elinin altında olsun
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Çünkü biliyorum, günaha gırtlağınıza kadar batmak değil, başkasının günahsız kalabildiğini görmek daha çok acı verir.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Temkinine temkin koyacak kadar temkinlidir.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 Bilinçli şekilde acı çekme arzusudur aşk acısı dediğin. Başka da bir şey değil.  
-Ki zamanı gelince acı çekmekten de sıkılır ve unuttum der geçersin
+Ki zamanı gelince acı çekmekten de sıkılır ve unuttum der geçersin  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Yaşanması mümkünken yaşayamadığı mutluluklar  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Yaşanması mümkünken yaşayamadığı mutluluklar
+Zaman gerçekten çok yalan söylüyor.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Bazı şeyleri kendi haline bırakmalısın. Hayalkırıklığına uğrattıklarını, kurtaramadıklarını, kendi iyiliğin için bir kenara bırakmalısın.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Zaman gerçekten çok yalan söylüyor.
+İnsanlar bir üçüncü göz tarafından izlenmedikleri zaman daha dürüst, daha üretken ve yaratıcı olurlar.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Cehennem acı çektiğimiz yer değildir, acı çektiğimizi kimsenin duymadığı yerdir.  
 
----
+> Hallâc-ı Mansûr (2020-08-05 11:22:07)  
+  
+--
 
-Bazı şeyleri kendi haline bırakmalısın. Hayalkırıklığına uğrattıklarını, kurtaramadıklarını, kendi iyiliğin için bir kenara bırakmalısın.
+Bir varmış, bir daha olmamış.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Bütün ganimetimiz bir ceket, bir kitap.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-İnsanlar bir üçüncü göz tarafından izlenmedikleri zaman daha dürüst, daha üretken ve yaratıcı olurlar.
+Dünya güneşin yardımıyla yaratıldı. Her şey olduğu gibi kalmalı. Dünya yaratılırken üstünde sınır çizgileri yoktu. Onu bölmek insanlara düşmez.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Duanın bildiğimiz şekilde olması gerekmiyor. Uzun süre özlem duyduğun bir şey olabilir.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Cehennem acı çektiğimiz yer değildir, acı çektiğimizi kimsenin duymadığı yerdir.
+Bir direniş, bir devrim  
 
-*>_ Hallâc-ı Mansûr* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Bir mumun kendiliğinden sönmesini izlemek mutlak sonun en şairane hali  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Bir varmış, bir daha olmamış.
+Bu dipsiz ve temelsiz umuttan kurtulabilecek miyiz?  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+İnsan uçamayacağını bilerek ne kadar yaşayabilir.  
 
----
-
-Bütün ganimetimiz bir ceket, bir kitap.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Dünya güneşin yardımıyla yaratıldı. Her şey olduğu gibi kalmalı. Dünya yaratılırken üstünde sınır çizgileri yoktu. Onu bölmek insanlara düşmez.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Duanın bildiğimiz şekilde olması gerekmiyor. Uzun süre özlem duyduğun bir şey olabilir.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bir direniş, bir devrim
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bir mumun kendiliğinden sönmesini izlemek mutlak sonun en şairane hali
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bu dipsiz ve temelsiz umuttan kurtulabilecek miyiz?
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-İnsan uçamayacağını bilerek ne kadar yaşayabilir.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 Bir anlamda ruhu da satmak için icat edilmiştir sanki para. Çünkü erk bazen satın alınabilir. Parası ile değil mi?  
-Kaynak: Şenol Erdoğan sanırım
+Kaynak: Şenol Erdoğan sanırım  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Babalar alınlarımıza yazılmış yalnızlıklardır.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Babalar alınlarımıza yazılmış yalnızlıklardır.
+Keşke böyle olmasaydı diyenler, böyle olması için bir ömür verdiler.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Para diye bir şey var, nesnenin en mükemmel hali.  
 
----
+> Şenol Erdoğan (2020-08-05 11:22:07)  
+  
+--
 
-Keşke böyle olmasaydı diyenler, böyle olması için bir ömür verdiler.
+Nereye gidersen git hayatlarını berbat ediyor insanlar. Herkesin kendine ait bir trajedisi var.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Bana yazık oldu, siz devam edin  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Para diye bir şey var, nesnenin en mükemmel hali.
+Eğer gelmeseydim ömrüm boyunca ne olacağını hep merak edecektim. Pişman değilim.  
 
-*>_ Şenol Erdoğan* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Yazmaksa, öncededen hiçbir semptomu olmayan bir hastalık gibidir.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Nereye gidersen git hayatlarını berbat ediyor insanlar. Herkesin kendine ait bir trajedisi var.
+Bunca zulmün içinde var olmak bir devrimdir.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Katliamdan kurtardığı kardeşinin kanlı gömleğini çeyizine koyanlar vardı.  
 
----
+> Maraş Olayları (2020-08-05 11:22:07)  
+  
+--
 
-Bana yazık oldu, siz devam edin
+Size ömrünü vermiş birine hiçbir şey veremezsiniz, hükmen yeniksiniz.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Kendi kendine küçük mutluluklar uydurma  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Eğer gelmeseydim ömrüm boyunca ne olacağını hep merak edecektim. Pişman değilim.
+İncil. Dünyanın en büyük bilimkurgu metni  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Bütün çiçekleri koparabilirsiniz ama baharın gelişini engelleyemezsiniz  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Yazmaksa, öncededen hiçbir semptomu olmayan bir hastalık gibidir.
+Fedakarlık sen yaparken kimsenin görmediği, zamanla görevin haline gelen ve yapmadığında suçlanacağın mutlaka seni zehirleyen bir irindir.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bunca zulmün içinde var olmak bir devrimdir.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Katliamdan kurtardığı kardeşinin kanlı gömleğini çeyizine koyanlar vardı.
-
-*>_ Maraş Olayları* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Size ömrünü vermiş birine hiçbir şey veremezsiniz, hükmen yeniksiniz.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Kendi kendine küçük mutluluklar uydurma
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-İncil. Dünyanın en büyük bilimkurgu metni
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bütün çiçekleri koparabilirsiniz ama baharın gelişini engelleyemezsiniz
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Fedakarlık sen yaparken kimsenin görmediği, zamanla görevin haline gelen ve yapmadığında suçlanacağın mutlaka seni zehirleyen bir irindir.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 Sakıncası yoksa, yine de birkaç soru sormak istiyoruz  
-Tahmin edin var mı? Var.
+Tahmin edin var mı? Var.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Benimle ölmüş herhangi biri arasındaki ilişki tamamen sizin varsayımınızdır  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Benimle ölmüş herhangi biri arasındaki ilişki tamamen sizin varsayımınızdır
+Müzik değişince dans da değişti.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Alkolün onların üzerindeki bütün etkisi, ayıkken baskı altında tuttukları günahkarlık duyugusunu serbest bırakmaktır.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Müzik değişince dans da değişti.
+Ama insanlar yaşam yükü altında ezilip durmaktansa birbirlerini yok etmeyi tercih edecek derecede mutsuz oldukları sürece...  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Sarhoşluğu, çılgınca öfkesi, kadınlara karşı soğukluğu, tanrılık savı da gösteriyordu ki, mutlu değildi.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Alkolün onların üzerindeki bütün etkisi, ayıkken baskı altında tuttukları günahkarlık duyugusunu serbest bırakmaktır.
+Sarhoşluk geçici bir intihardır, mutsuzluğu bir süre için unutmaktır.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Her iki taraf da aynı derecede tahammülsüz ve saygısız.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Ama insanlar yaşam yükü altında ezilip durmaktansa birbirlerini yok etmeyi tercih edecek derecede mutsuz oldukları sürece...
+Birisine anlatmak da ucuzlatıyor işi.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+İşim düşmedikçe kendime bile uğramıyorum  
 
----
+> Tom Robbins (2020-08-05 11:22:07)  
+  
+--
 
-Sarhoşluğu, çılgınca öfkesi, kadınlara karşı soğukluğu, tanrılık savı da gösteriyordu ki, mutlu değildi.
+Ruhu kokmuş leşler sizi  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Demek doğum günlerinden bu yüzden nefret ediyor. O gün babasını bir kez daha göremeyeceğini farkettiği gün.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Sarhoşluk geçici bir intihardır, mutsuzluğu bir süre için unutmaktır.
+Bizi canavar yapan hatıralarımızdır.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Vita hayat demektir, Solos ölüm. Geldiğin yeri unut, döndüğünde aynı olmayacak.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Her iki taraf da aynı derecede tahammülsüz ve saygısız.
+Yazdığım bir kitabımda bu konudan bahsetmiştim, ancak devletin veya babamın yakmasını beklemeden kendim yaktım.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+> #monologue
 
-tags: general
-
----
-
-Birisine anlatmak da ucuzlatıyor işi.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-İşim düşmedikçe kendime bile uğramıyorum
-
-*>_ Tom Robbins* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Ruhu kokmuş leşler sizi
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Demek doğum günlerinden bu yüzden nefret ediyor. O gün babasını bir kez daha göremeyeceğini farkettiği gün.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bizi canavar yapan hatıralarımızdır.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Vita hayat demektir, Solos ölüm. Geldiğin yeri unut, döndüğünde aynı olmayacak.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Yazdığım bir kitabımda bu konudan bahsetmiştim, ancak devletin veya babamın yakmasını beklemeden kendim yaktım.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general, monologue
-
----
+--
 
 Güvercinleri sevdiğini bilmiyordum  
-Konuşmayan her şeyi severim
+Konuşmayan her şeyi severim  
 
-*>_ Sleepers* (2020-08-05 11:22:07)
+> Sleepers (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Eğlenceli bir hikayeye ne kadar uzun ve dikkatli bakarsanız, hikaye o kadar üzücü hale gelir.  
 
----
-
-Eğlenceli bir hikayeye ne kadar uzun ve dikkatli bakarsanız, hikaye o kadar üzücü hale gelir.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 Karanlık ontolojik bakımdan aydınlıktan önce gelir. Karanlık kendi başına var olur. Oysa aydınlığın sürdürülmesi gerekir  
-Yoksa bütün renklerin birleşmesinden oluşan siyah gibi karanlık da bütün "aydınlıkların" birleşmesinden mi oluşur?
+Yoksa bütün renklerin birleşmesinden oluşan siyah gibi karanlık da bütün "aydınlıkların" birleşmesinden mi oluşur?  
 
-*>_ Kaan H. Ökten* (2020-08-05 11:22:07)
+> Kaan H. Ökten (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Ben Def Leppard konserinde doğdum ve gördüğüm en buhranlı şey o.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-Ben Def Leppard konserinde doğdum ve gördüğüm en buhranlı şey o.
+Hiçbir şeyi sımsıkı tutamazsın, gevşer zamanla.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Kaybedenler Kulübü (2020-08-05 11:22:07)  
+> #kaybedenlerkulubu
 
-tags: general
+--
 
----
+Geçip giden baharları kurtarmak mümkün değildir.  
 
-Hiçbir şeyi sımsıkı tutamazsın, gevşer zamanla.
+> Gabriel García Márquez (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Kaybedenler Kulübü* (2020-08-05 11:22:07)
+Şimdi aklıma gelmeyen bir şey söyleyeceğim.  
 
-tags: general, kaybedenlerkulubu
+> Kaybedenler Kulübü (2020-08-05 11:22:07)  
+> #kaybedenlerkulubu
 
----
+--
 
-Geçip giden baharları kurtarmak mümkün değildir.
+Lafımı o kadar böldün ki, evli çift gibi olduk.  
 
-*>_ Gabriel García Márquez* (2020-08-05 11:22:07)
+> Kaybedenler Kulübü (2020-08-05 11:22:07)  
+> #kaybedenlerkulubu
 
-tags: general
+--
 
----
+Herkesin bir planı vardır, taa ki suratının ortasına yumruğu yiyene kadar.  
 
-Şimdi aklıma gelmeyen bir şey söyleyeceğim.
+> Mike Tyson (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Kaybedenler Kulübü* (2020-08-05 11:22:07)
+İstatistiğe inandığım için, tekrarlı sonuçlarda suçu kendimde ararım.  
 
-tags: general, kaybedenlerkulubu
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Babanız içerde şiir yazıyor diye çocuklarımı sessiz ağlattım ben.  
 
-Lafımı o kadar böldün ki, evli çift gibi olduk.
+> Hatice Erbaş (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Kaybedenler Kulübü* (2020-08-05 11:22:07)
+Benim yaram benden önce de vardı. Ben onu ete kemiğe büründürmek için doğdum.  
 
-tags: general, kaybedenlerkulubu
+> Camille Claudel (2020-08-05 11:22:07)  
+  
+--
 
----
+Sessizlik sana bir rahim olsun ki, ondan kelama doğabilesin  
 
-Herkesin bir planı vardır, taa ki suratının ortasına yumruğu yiyene kadar.
+> Süryani Mor Efrem (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Mike Tyson* (2020-08-05 11:22:07)
+Sırf yolunuz aydınlansın diye yaktığınız yüreklerin küllerinde boğulacaksınız bir gün.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Kırılan bütün kalplerin hesabını soracağız.  
 
-İstatistiğe inandığım için, tekrarlı sonuçlarda suçu kendimde ararım.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:07)
+Bir mektuba kaç kez en baştan ağlanabilirse o kadar kez ağladım.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Ben bunları kimseye anlatmadım. Kendimle bile konuşmadım.  
 
-Babanız içerde şiir yazıyor diye çocuklarımı sessiz ağlattım ben.
+> Bülent Ortaçgil (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Hatice Erbaş* (2020-08-05 11:22:07)
+Kağıt ve mürekkebin ilişkisine bayılıyorum.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Bu adamı hiç sevmedim, tıpkı bana benziyor.  
 
-Benim yaram benden önce de vardı. Ben onu ete kemiğe büründürmek için doğdum.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Camille Claudel* (2020-08-05 11:22:07)
+Ev ödevlerini icat eden adamdan bile daha başarısız.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Katlanamadığım şeyi nasıl özleyebilirim?  
 
-Sessizlik sana bir rahim olsun ki, ondan kelama doğabilesin
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Süryani Mor Efrem* (2020-08-05 11:22:07)
+Sanki sessiz olanlar hep mutsuz gibi.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Bir an ben de inanıyorum her şeyden kaçabileceğimize  
 
-Sırf yolunuz aydınlansın diye yaktığınız yüreklerin küllerinde boğulacaksınız bir gün.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:07)
+Orman yangınına ağzında su taşıyan topal karınca, merhaba.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Bütün aşk hikayeleri trajediyle sonuçlanır  
 
-Kırılan bütün kalplerin hesabını soracağız.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:07)
+Better herkes için iyi sonuçlanmaz  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+İçinde emek, ödün, taviz verme barındıran şeyin sevgi olabileceğine inanmıyorum.  
 
-Bir mektuba kaç kez en baştan ağlanabilirse o kadar kez ağladım.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:07)
+Tutmadığım yaslar peşimi bırakmıyor  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Kurmaca olan, zihinlerde gerçeği temsil etmeye başlarsa orada düşünsel bir sakatlıktan bahsediyoruz demektir.  
 
-Ben bunları kimseye anlatmadım. Kendimle bile konuşmadım.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Bülent Ortaçgil* (2020-08-05 11:22:07)
+Kurmaca bir karakteri gerçek bir mahkemede yargılayamazsınız.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
----
+Her sanatçı gibi buhran döneminde en iyi eserlerini ortaya çıkardı  
 
-Kağıt ve mürekkebin ilişkisine bayılıyorum.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:07)
+Kapı çalınca açmamak, bana kimse gelmez ki...  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+> #monologue
 
----
-
-Bu adamı hiç sevmedim, tıpkı bana benziyor.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Ev ödevlerini icat eden adamdan bile daha başarısız.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Katlanamadığım şeyi nasıl özleyebilirim?
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Sanki sessiz olanlar hep mutsuz gibi.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bir an ben de inanıyorum her şeyden kaçabileceğimize
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Orman yangınına ağzında su taşıyan topal karınca, merhaba.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Bütün aşk hikayeleri trajediyle sonuçlanır
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Better herkes için iyi sonuçlanmaz
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-İçinde emek, ödün, taviz verme barındıran şeyin sevgi olabileceğine inanmıyorum.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Tutmadığım yaslar peşimi bırakmıyor
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Kurmaca olan, zihinlerde gerçeği temsil etmeye başlarsa orada düşünsel bir sakatlıktan bahsediyoruz demektir.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Kurmaca bir karakteri gerçek bir mahkemede yargılayamazsınız.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Her sanatçı gibi buhran döneminde en iyi eserlerini ortaya çıkardı
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Kapı çalınca açmamak, bana kimse gelmez ki...
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general, monologue
-
----
+--
 
 I'll call you later  
-Please don't
+Please don't  
 
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 Behzat Ç. Senaristi Mehmet Erdem:  
 Sistemin parçası olan insanlar, hele ki sistemin devamı için maaş alıyorsa sistemden bağımsız tertemiz varlıklar olarak kabul edilemezler.  
-Behzat Ç gibi biri sisteme karşı olabilir ama her eyleminde onu yeniden inşa eder.
+Behzat Ç gibi biri sisteme karşı olabilir ama her eyleminde onu yeniden inşa eder.  
 
-*>_ Mehmet Erdem* (2020-08-05 11:22:07)
+> Mehmet Erdem (2020-08-05 11:22:07)  
+> #behzatc
 
-tags: behzatc, general
-
----
+--
 
 Kendimle ilgisi olmayan bir şey yazamazdım, kendim yaşamadıysam hikayesini de yazamazdım.  
-Bazı şarkılar kötü anlamda benle ilgili olsa bile o haliyle bırakmam, mutlaka vurucu bir nokta bırakırım
+Bazı şarkılar kötü anlamda benle ilgili olsa bile o haliyle bırakmam, mutlaka vurucu bir nokta bırakırım  
 
-*>_ Amy Winehouse* (2020-08-05 11:22:07)
+> Amy Winehouse (2020-08-05 11:22:07)  
+> #amywinehouse #music
 
-tags: amywinehouse, general, music
-
----
+--
 
 Picasso mavi dönemde, arkadaşının intiharı sonrası mavi renkleri  
 İlk eşiyle tanıştığı zamanlar ise pembe renkleri kullanmaya başladı  
 Sonra yine toplumun dışına itilmişlerin resmini yaptı. Ama onlar umutsuz kurbanlar değildi. Kendilerine ait ustalıkları vardı.  
-1901 Picasso o yıllarda yaptığı bütün resimlerde çokça körlük teması işlemiş. Aslında zührevi hastalığa yakalanmıştı ve sonucunda kör olmaktan korkuyordu.
+1901 Picasso o yıllarda yaptığı bütün resimlerde çokça körlük teması işlemiş. Aslında zührevi hastalığa yakalanmıştı ve sonucunda kör olmaktan korkuyordu.  
 
-*>_ Twitter* (2020-08-05 11:22:07)
+> Twitter (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+İnsanın ölümle yaşayabildiğini idrak etmiştim... ironinin en karanlık köşesi  
 
----
+> earwen - Twitter (2020-08-05 11:22:07)  
+  
+--
 
-İnsanın ölümle yaşayabildiğini idrak etmiştim... ironinin en karanlık köşesi
+Gözyaşının acizliğine sığınmayın  
 
-*>_ earwen - Twitter* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Babanin milyonlarına mezar  
 
----
+> Umudumuz Saban (2020-08-05 11:22:07)  
+  
+--
 
-Gözyaşının acizliğine sığınmayın
+Bizler muzigi duyan karanlikta tek basina dans eden delileriz  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Paslanmaz kalem (2020-08-05 11:22:07)  
+> #music
 
-tags: general
+--
 
----
+Baş karakteriniz yerde kıvranıyorsa, gidin bir tekmede siz vurun!  
 
-Babanin milyonlarına mezar
+> Richard Prather (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Umudumuz Saban* (2020-08-05 11:22:07)
+"Zenginlik bazen bir insanın yoksulluğuyla örtülmüş olan kötü huylarını ortaya çıkarır."  
 
-tags: general
+> Arap atasözü (2020-08-05 11:22:07)  
+  
+--
 
----
+"Para insanı değiştirmez; sadece maskesini düşürür."  
 
-Bizler muzigi duyan karanlikta tek basina dans eden delileriz
+> Marie-Jeanne Riccoboni (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Paslanmaz kalem* (2020-08-05 11:22:07)
+Without data you're just another person with an opinion  
 
-tags: general, music
+> W. Edwards Deming (2020-08-05 11:22:07)  
+  
+--
 
----
+Herkes o bedeli goze alamiyor.  
 
-Baş karakteriniz yerde kıvranıyorsa, gidin bir tekmede siz vurun!
+> Kaybedenler Kulübü (2020-08-05 11:22:07)  
+> #kaybedenlerkulubu
 
-*>_ Richard Prather* (2020-08-05 11:22:07)
+--
 
-tags: general
+Bence kimseyi dinlemesinler, birakin yanilin, birakin dusun. Hayalkirikliklarini sevmeyi ogrensinler.  
 
----
+> Cihan Gulbudak (2020-08-05 11:22:07)  
+  
+--
 
-"Zenginlik bazen bir insanın yoksulluğuyla örtülmüş olan kötü huylarını ortaya çıkarır."
+Kapitalizmin: sen eksiksin, eksigini sununla tamamlaman gerek "emri”  
 
-*>_ Arap atasözü* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Curumus toplumun ceset kokan uygulamalari.  
 
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-"Para insanı değiştirmez; sadece maskesini düşürür."
+"dörde bölünse insan; üç parçası bekleyiş, biri gidiştir.”  
 
-*>_ Marie-Jeanne Riccoboni* (2020-08-05 11:22:07)
+> ormnmustafa - Twitter (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Cesedimi kim bulmuştu  
 
----
+> Unknown (2020-08-05 11:22:07)  
+> #monologue
 
-Without data you're just another person with an opinion
+--
 
-*>_ W. Edwards Deming* (2020-08-05 11:22:07)
+Bir sey olmayacak, bir sey olsa bile bir sey olmayacak!  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+> #monologue
 
----
-
-Herkes o bedeli goze alamiyor.
-
-*>_ Kaybedenler Kulübü* (2020-08-05 11:22:07)
-
-tags: general, kaybedenlerkulubu
-
----
-
-Bence kimseyi dinlemesinler, birakin yanilin, birakin dusun. Hayalkirikliklarini sevmeyi ogrensinler.
-
-*>_ Cihan Gulbudak* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Kapitalizmin: sen eksiksin, eksigini sununla tamamlaman gerek "emri”
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Curumus toplumun ceset kokan uygulamalari.
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-"dörde bölünse insan; üç parçası bekleyiş, biri gidiştir.”
-
-*>_ ormnmustafa - Twitter* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Cesedimi kim bulmuştu
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general, monologue
-
----
-
-Bir sey olmayacak, bir sey olsa bile bir sey olmayacak!
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general, monologue
-
----
+--
 
 Bu apartman sokak kedilerini besliyor  
 Mudahale etmeyin  
-Rahatsiz oluyorsaniz aglayarak gunlugunuze yazabilirsiniz
+Rahatsiz oluyorsaniz aglayarak gunlugunuze yazabilirsiniz  
 
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 Yeri geldikçe diğer sorularımıza da cevap verecek misiniz?  
-Verilecek bir cevap varsa şüphesiz.
+Verilecek bir cevap varsa şüphesiz.  
 
-*>_ 645 FAQ #8* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> 645 FAQ #8 (2020-08-05 11:22:07)  
+  
+--
 
 Her Altıkırkbeş okuru bilir ki:  
 ”Dipsiz, karanlık  
 bir uçuruma yeteri kadar uzun bakarsan,  
-uçurum da sana bakmaya başlar.”
+uçurum da sana bakmaya başlar.”  
 
-*>_ 645* (2020-08-05 11:22:07)
+> 645 (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+"Mükemmel hayaller yerine kusurlu işlerimizle yola devam edelim. Tembeller de konuşmaya devam etsin..."  
 
----
+> Selcuk Erdem (2020-08-05 11:22:07)  
+  
+--
 
-"Mükemmel hayaller yerine kusurlu işlerimizle yola devam edelim. Tembeller de konuşmaya devam etsin..."
+Neural code feelings  
 
-*>_ Selcuk Erdem* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Neural code feelings
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 helenistik dönemde zeno tarafindan kurulmus stoa ögretisine bagli kimseleri tanimlamak için kullanilir.  
 bugün bu kelime ingilizce de dahil birçok dile, "aciya da zevke de kayitsiz, her türlü tutkudan uzak ve hatta apatik" anlamlarina gelmek üzere yerlesmistir.  
@@ -1133,412 +984,324 @@ sessizce katlanırlar üst üste dizdikleri acılara.
 uninvited isimli şarkıda alanis morisette'in "to watch the stoic squirm" cümlesiyle yuvarlanmasını izlediğini iddia ettiği şey. demek ki neymiş? acıya ve zevke kayıtsız, her türlü tutkudan uzak ve hatta apatik bir kinetik enerjiye kavuşmak demekmiş, potansiyel enerjinin malforme edilmiş haliymiş  
 kaybettiklerinde özlememek icin, özlem duyacakları her seyi birakirlarmiş stoikler.  
 acılara kayıtsız kalmak ve sabırla dayanmak gerektiğini savunan, acı çekmeyi ve acıya katlanmayı erdem olarak gören kimselere denir.  
-günümüzde stoik kelimesi halk arasında, baskı altında sakin kalan ve duygusal aşırılıklardan kaçınan insanlardan bahsetmek için kullanılmakta.
+günümüzde stoik kelimesi halk arasında, baskı altında sakin kalan ve duygusal aşırılıklardan kaçınan insanlardan bahsetmek için kullanılmakta.  
 
-*>_ EkşiSözlük* (2020-08-05 11:22:07)
+> EkşiSözlük (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Oturun ve elinizi kirletin. Artik baslayin.  
 
----
+> Adem Ilter (2020-08-05 11:22:07)  
+  
+--
 
-Oturun ve elinizi kirletin. Artik baslayin.
+Geçen gün "mansplaining"e uygun görülen karşılıklar arasından birini seçmeye çalışırken aklıma şu geldi: Anneannem kendisi konuşurken dedem araya girip açıklamaya giriştiğinde, "bak, yine izahlı müzik yapıyor," derdi. Bu terimi kendi mi icat etmişti bilmiyorum. İkisinin ayrı bir dili var gibi gelirdi bana. Mesela anneannem bir şeyleri tekrar tekrar anlattığında da, dedem "RPT yapıyorsun," derdi. Bu da televizyonda yeniden gösterilen futbol pozisyonlarına istinaden: RPT=Repeat  
 
-*>_ Adem Ilter* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Geçen gün "mansplaining"e uygun görülen karşılıklar arasından birini seçmeye çalışırken aklıma şu geldi: Anneannem kendisi konuşurken dedem araya girip açıklamaya giriştiğinde, "bak, yine izahlı müzik yapıyor," derdi. Bu terimi kendi mi icat etmişti bilmiyorum. İkisinin ayrı bir dili var gibi gelirdi bana. Mesela anneannem bir şeyleri tekrar tekrar anlattığında da, dedem "RPT yapıyorsun," derdi. Bu da televizyonda yeniden gösterilen futbol pozisyonlarına istinaden: RPT=Repeat
-
-*>_ meltemgurle - Twitter* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> meltemgurle - Twitter (2020-08-05 11:22:07)  
+  
+--
 
 her zaman 2 secenegimiz var:  
 gelisim'e dogru ileri bir adim atmak.  
-konfor alani'na dogru geri bir adim atmak.
+konfor alani'na dogru geri bir adim atmak.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 Fakirlik çok şeyi "hemen şimdi” istemektir.   
-Fakirlik çok şeyi "karşılığında hiçbir şey vermeden” istemektir.
+Fakirlik çok şeyi "karşılığında hiçbir şey vermeden” istemektir.  
 
-*>_ koymenkadir - Twitter* (2020-08-05 11:22:07)
+> koymenkadir - Twitter (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Views my own. Türkçesi; paylaşımlarım kendi iç sıkıntılarım. Çalıştığım kişi ve kurumları bağlamaz  
 
----
+> alexandrarzat - Twitter (2020-08-05 11:22:07)  
+  
+--
 
-Views my own. Türkçesi; paylaşımlarım kendi iç sıkıntılarım. Çalıştığım kişi ve kurumları bağlamaz
+Her ölüm dünyada bir çatlak açar. Çünkü ölüm, onmaz; yaşam, onarılmazdır...  
 
-*>_ alexandrarzat - Twitter* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Her ölüm dünyada bir çatlak açar. Çünkü ölüm, onmaz; yaşam, onarılmazdır...
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
 Yola sarki soyleten kuru bir soguk  
-~ Oruc Aruoba'nin oldugu gun
+~ Oruc Aruoba'nin oldugu gun  
 
-*>_ Kaan Çaydamlı* (2020-08-05 11:22:07)
+> Kaan Çaydamlı (2020-08-05 11:22:07)  
+> #kaancaydamli #orucaruoba
 
-tags: general, kaancaydamli, orucaruoba
+--
 
----
+"Hiçbir şey devamlılık ya da süreklilik sözü vermez."  
 
-"Hiçbir şey devamlılık ya da süreklilik sözü vermez."
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:07)
+Hani beni kimsenin tanimadigi bir yere gitmek isterdim ya hep, simdi gitmek ve anadilimi de unutmak istiyorum.  
 
-tags: general
+> Unknown (2020-08-05 11:22:07)  
+> #monologue
 
----
+--
 
-Hani beni kimsenin tanimadigi bir yere gitmek isterdim ya hep, simdi gitmek ve anadilimi de unutmak istiyorum.
+beklentileri minimize etmek. cunku beklentiler hic bir zaman tam olarak karsilanmaz. bu durum karsi tarafin beklentilere cevap vermemesi yada verememesinden kaynaklanmaz aslinda. sadece her seferinde citayi daha fazla yukseltiriz ve beklemekten baska birsey yapmayiz ... mutlu olmak istiyorsaniz baskalarindan birsey beklemeyin. kendiniz birseyler yapin. ornegin sinemaya mi gitmek istiyorsunuz? birilerinin sizi sinemaya davet etmesini beklemektense siz birilerini davet edin. bunu onun icin degil kendiniz icin yapin. baskalarinin mutluluklarinin ucundan kiyisindan size de pay dusmesini beklemek yerine kendinize mutlu anlar yaratin ve baskalarini da buna dahil edin.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Eksi Seyler (2020-08-05 11:22:07)  
+  
+--
 
-tags: general, monologue
+Kimsenin sesi olmak gibi bir derdimiz yok  
 
----
+> Murder King (2020-08-05 11:22:07)  
+  
+--
 
-beklentileri minimize etmek. cunku beklentiler hic bir zaman tam olarak karsilanmaz. bu durum karsi tarafin beklentilere cevap vermemesi yada verememesinden kaynaklanmaz aslinda. sadece her seferinde citayi daha fazla yukseltiriz ve beklemekten baska birsey yapmayiz ... mutlu olmak istiyorsaniz baskalarindan birsey beklemeyin. kendiniz birseyler yapin. ornegin sinemaya mi gitmek istiyorsunuz? birilerinin sizi sinemaya davet etmesini beklemektense siz birilerini davet edin. bunu onun icin degil kendiniz icin yapin. baskalarinin mutluluklarinin ucundan kiyisindan size de pay dusmesini beklemek yerine kendinize mutlu anlar yaratin ve baskalarini da buna dahil edin.
+"beni o delinin yanına gömmeyin"  
 
-*>_ Eksi Seyler* (2020-08-05 11:22:07)
+> Twitter (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Basitlik tüm karmaşıklığı ve detayı içinde barındırır.  
 
----
-
-Kimsenin sesi olmak gibi bir derdimiz yok
-
-*>_ Murder King* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-"beni o delinin yanına gömmeyin"
-
-*>_ Twitter* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-Basitlik tüm karmaşıklığı ve detayı içinde barındırır.
-
-*>_ Steve Jobs* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Steve Jobs (2020-08-05 11:22:07)  
+  
+--
 
 Karar vermek kelimesinin latincesi "decidere"dir (Fransızca decider, İngilizce decide). Latincede "Kesip koparmak" anlamına gelir. Gerçekten de karar vermek için bir şeyleri seçerken bazı şeyleri kesip atmak gerekir. Zordur, acılıdır ama her seçiş bir vazgeçiştir. (Jean-Paul Sartre)  
-Tereddüt etmek deyiminin Latincesi ise "haesitare"dir. Fransızcası hesitacion, İngilizcesi hesitate). Latincede, "Yapışmak, sabit kalmak" anlamına gelen "haerere" kökünden gelir. Tereddüt eden yapışır kalır. İlerleyemez. İlerleyemeyen her şey geriler.
+Tereddüt etmek deyiminin Latincesi ise "haesitare"dir. Fransızcası hesitacion, İngilizcesi hesitate). Latincede, "Yapışmak, sabit kalmak" anlamına gelen "haerere" kökünden gelir. Tereddüt eden yapışır kalır. İlerleyemez. İlerleyemeyen her şey geriler.  
 
-*>_ hkucuk_28 - Twitter* (2020-08-05 11:22:07)
+> hkucuk_28 - Twitter (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Hehe negzel hic sevmem...  
 
----
+> Bobo Comics (2020-08-05 11:22:07)  
+  
+--
 
-Hehe negzel hic sevmem...
+Sub Press sizi her zaman derinliğin genişliğine değil yüzeyin derinliğine davet eder!  
 
-*>_ Bobo Comics* (2020-08-05 11:22:07)
+> Şenol Erdoğan (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+2013_ Evimi taşıyan hamal neden sonra oturuyor, pantolonunu sıyırınca bacağının içler acısı bir yara olduğunu görüyorum. "Acımıyor mu?" diye soruyorum, onca şeyi nasıl taşıdığına hayretle. Doğallıkla "Bazen acımıyor" diyor. Acısını başka nasıl ifade etse böyle hissettiremez  
 
----
+> nihanka - Twitter (2020-08-05 11:22:07)  
+  
+--
 
-Sub Press sizi her zaman derinliğin genişliğine değil yüzeyin derinliğine davet eder!
+1960 yilinda, kendi yaptigi tekneyle acilip kayboldu.  
 
-*>_ Şenol Erdoğan* (2020-08-05 11:22:07)
+> Karikatur (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Kimseye hayatta hiçbir ölümlüyle bu derece aşırı bağ kurmayı tavsiye etmiyorum  
 
----
+> Twitter (2020-08-05 11:22:07)  
+  
+--
 
-2013_ Evimi taşıyan hamal neden sonra oturuyor, pantolonunu sıyırınca bacağının içler acısı bir yara olduğunu görüyorum. "Acımıyor mu?" diye soruyorum, onca şeyi nasıl taşıdığına hayretle. Doğallıkla "Bazen acımıyor" diyor. Acısını başka nasıl ifade etse böyle hissettiremez
+yarım adam'ın demir'i ve raif, o dönem romanında utanmanın en çok yakıştığı kişilerdir. şehir için harabeler neyse, 'şimdi' için raif odur ve harabelerin oluşturduğu çatlaktan her an bir şey sızabilir. kan mı güneş mi bilemem  
 
-*>_ nihanka - Twitter* (2020-08-05 11:22:07)
+> EkşiSözlük (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+mesele şu ki bizler için memleket öyle bir şey ki ya onda yaşıyorsun ya da ondan uzakta. oyunda onun olmadığı bir yaşama biçimi yok. ve nasıl yaşarsan yaşa, tercihlerini daha haklı bulacak şekilde görüyorsun her şeyi. **insan en çok kendini ikna etmeye ihtiyaç duyuyor çünkü.**  
 
----
+> erkan_erol_ - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-1960 yilinda, kendi yaptigi tekneyle acilip kayboldu.
+Paralel doğruların hiçbir ortak noktası yoktur, olsaydı kesisirlerdi.  
 
-*>_ Karikatur* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+bomboş bir düzen bu, bomboş.  
 
----
-
-Kimseye hayatta hiçbir ölümlüyle bu derece aşırı bağ kurmayı tavsiye etmiyorum
-
-*>_ Twitter* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-yarım adam'ın demir'i ve raif, o dönem romanında utanmanın en çok yakıştığı kişilerdir. şehir için harabeler neyse, 'şimdi' için raif odur ve harabelerin oluşturduğu çatlaktan her an bir şey sızabilir. kan mı güneş mi bilemem
-
-*>_ EkşiSözlük* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-mesele şu ki bizler için memleket öyle bir şey ki ya onda yaşıyorsun ya da ondan uzakta. oyunda onun olmadığı bir yaşama biçimi yok. ve nasıl yaşarsan yaşa, tercihlerini daha haklı bulacak şekilde görüyorsun her şeyi. **insan en çok kendini ikna etmeye ihtiyaç duyuyor çünkü.**
-
-*>_ erkan_erol_ - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Paralel doğruların hiçbir ortak noktası yoktur, olsaydı kesisirlerdi.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-bomboş bir düzen bu, bomboş.
-
-*>_ aycaderin - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> aycaderin - Twitter (2020-08-05 11:22:06)  
+  
+--
 
 "Bu donemi en azindan kendi adima biraz cekilir kilabilmek adina"  
 "Ne kadar basaririm bilemem. Cok buyuk iddialarim yok."  
 "... ahkam kesebilecek konumda degilim ki zaten oyle bir niyetim de yok"  
-"her seyin hizlica sikici hale geldigi su tuhaf donemde"
+"her seyin hizlica sikici hale geldigi su tuhaf donemde"  
 
-*>_ Yetkin Taskin* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Yetkin Taskin (2020-08-05 11:22:06)  
+  
+--
 
 Popular Science Türkiye, Eylül sayısında "Yapay Zeka Devrimi ve İşsiz Sınıfın Doğuşu” başlıklı bir yazı var.  
 "Geleneksel eğitim modellerinin işlevselliği, gelecekte hükmünü yitirecek şeylerin başında geliyor.  
 Yine de oyunda kalmanın ve bu oyunu lehine çevirmenin tek yolu öğrenmeye devam etmek, kendimizi yeniden şekillendirebileceğimiz beceriler geliştirmek.  
-ABD’de Dış İlişkiler Konseyi’ne bağlı ekonomi uzmanları Edward Alden ve Bob Litan’ın bu yıl yaptığı bir çalışma gençlere aynı çözümü öneriyor; kariyerinize başlarken, ileride bu mesleği hızla değiştirip bambaşka bir alana yönelebilmenizi garanti altına alacak kadar eğitimli olun ve mutlaka birbirinden farklı beceriler geliştirin"
+ABD’de Dış İlişkiler Konseyi’ne bağlı ekonomi uzmanları Edward Alden ve Bob Litan’ın bu yıl yaptığı bir çalışma gençlere aynı çözümü öneriyor; kariyerinize başlarken, ileride bu mesleği hızla değiştirip bambaşka bir alana yönelebilmenizi garanti altına alacak kadar eğitimli olun ve mutlaka birbirinden farklı beceriler geliştirin"  
 
-*>_ Popular Science Türkiye* (2020-08-05 11:22:06)
+> Popular Science Türkiye (2020-08-05 11:22:06)  
+> #artificial-intelligence #education
 
-tags: artificial-intelligence, education, general
-
----
+--
 
 Time changes everything.  
-It's what people say. It's not true. Doing things changes things. Not doing things leaves things exactly as they were.
+It's what people say. It's not true. Doing things changes things. Not doing things leaves things exactly as they were.  
 
-*>_ House* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> House (2020-08-05 11:22:06)  
+  
+--
 
 Her umut ortak arar  
-Her umut biraz da hareket arar
+Her umut biraz da hareket arar  
 
-*>_ saditekin - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> saditekin - Twitter (2020-08-05 11:22:06)  
+  
+--
 
 "Usulüne göre gömülmeyen ölüler geri döner.”  
 Bir ilişki bazen, bir insan, bazen bir mazi.  
-Kim ve ne ki usulünce uğurlanmamış, onunla uygun bir şekilde vedalaşılamamış ise hayaletleriyle, ağrı ve sızılarıyla geri döner, bizi uykularımızdan uyandırır.
+Kim ve ne ki usulünce uğurlanmamış, onunla uygun bir şekilde vedalaşılamamış ise hayaletleriyle, ağrı ve sızılarıyla geri döner, bizi uykularımızdan uyandırır.  
 
-*>_ mkemalsayar - Twitter* (2020-08-05 11:22:06)
+> mkemalsayar - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+"Fakat"lı cümlelerin de ilk yarısı geçersizdir.  
 
----
+> ifndefgt - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-"Fakat"lı cümlelerin de ilk yarısı geçersizdir.
+Üstüne süpürdüğümüz duyguların bir gün olur altında kalırız.  
 
-*>_ ifndefgt - Twitter* (2020-08-05 11:22:06)
+> devrikkonusurum - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Biri için ölüm kalım meselesi olan, diğerinin gözünde toz kadarmış. Günday’a hak verdim. Acıları yarıştırmanın dünyanın en saçma işi olduğunu anladım.  
 
----
-
-Üstüne süpürdüğümüz duyguların bir gün olur altında kalırız.
-
-*>_ devrikkonusurum - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Biri için ölüm kalım meselesi olan, diğerinin gözünde toz kadarmış. Günday’a hak verdim. Acıları yarıştırmanın dünyanın en saçma işi olduğunu anladım.
-
-*>_ devrikkonusurum - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> devrikkonusurum - Twitter (2020-08-05 11:22:06)  
+  
+--
 
 What school teaches:  
 How to wait in lines  
 Absolute authority  
 Outdated subjects  
-Following the rules
+Following the rules  
 
-*>_ danheld - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> danheld - Twitter (2020-08-05 11:22:06)  
+  
+--
 
 Kontrol edebildiğin şeyleri ve kontrol edemediğin şeyler birbirinden ayır.  
 Şu anda yapabileceğin en ufak şeye odaklan.  
 Paniklemenin ve duygusal tepki vermenin maliyetlerini hesapla.  
-Başına ne gelirse gelsin, onunla en iyisini yapabileceğine dair kendine güven.
+Başına ne gelirse gelsin, onunla en iyisini yapabileceğine dair kendine güven.  
 
-*>_ dailystoic - Twitter* (2020-08-05 11:22:06)
+> dailystoic - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Hardal yok. Ya kardesim dusunebiliyoo.. hardal yok!  
 
----
+> Kaan Çaydamlı - Tahta Bacaklı Koyunlar (2020-08-05 11:22:06)  
+> #kaybedenlerkulubu
 
-Hardal yok. Ya kardesim dusunebiliyoo.. hardal yok!
+--
 
-*>_ Kaan Çaydamlı - Tahta Bacaklı Koyunlar* (2020-08-05 11:22:06)
+herkes ogrenmek ister ancak kimse bunun bedelini odemek istemez.  
 
-tags: general, kaybedenlerkulubu
+> Juvenal (2020-08-05 11:22:06)  
+  
+--
 
----
+Yasama Karsiti Etki / Yaslanma Karsiti Etki  
 
-herkes ogrenmek ister ancak kimse bunun bedelini odemek istemez.
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Juvenal* (2020-08-05 11:22:06)
+Konusarak cozebiliriz belki ama konusmak istemiyorum  
 
-tags: general
+> Unknown (2020-08-05 11:22:06)  
+> #monologue
 
----
+--
 
-Yasama Karsiti Etki / Yaslanma Karsiti Etki
+Cunku onun yaninda iken kendimi konusmak zorunda hissetmiyorum.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #monologue
 
-tags: general
+--
 
----
+Yazim hatasi iceren herhangi bir seyi ciddiye alamiyorum.  
 
-Konusarak cozebiliriz belki ama konusmak istemiyorum
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+Ismi yalnizca noktadan sonra buyuk yazilanlar  
 
-tags: general, monologue
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
----
+Being wrong side of the road again  
 
-Cunku onun yaninda iken kendimi konusmak zorunda hissetmiyorum.
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+i believe i can keep lie to myself  
 
-tags: general, monologue
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
----
+Maymundan gelmediysek de maymuna gidiyoruz  
 
-Yazim hatasi iceren herhangi bir seyi ciddiye alamiyorum.
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+Its not a bug, its a vulnerability  
 
-tags: general
-
----
-
-Ismi yalnizca noktadan sonra buyuk yazilanlar
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Being wrong side of the road again
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-i believe i can keep lie to myself
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Maymundan gelmediysek de maymuna gidiyoruz
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Its not a bug, its a vulnerability
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 - Sen kendi mezarini bile ziyaret etmezsin
-- Kendi mezarimi neden ziyaret edeyim?
+- Kendi mezarimi neden ziyaret edeyim?  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #monologue
 
-tags: general, monologue
+--
 
----
+Bak, bugun bu guzel seyleri buldum ve curumelerini izleyebilmen icin onlari oldurdum.  
 
-Bak, bugun bu guzel seyleri buldum ve curumelerini izleyebilmen icin onlari oldurdum.
+> bizarrocomics (2020-08-05 11:22:06)  
+  
+--
 
-*>_ bizarrocomics* (2020-08-05 11:22:06)
+Don’t look at her, she is not worth your time. Look into my eyes, tits are temporal.  
 
-tags: general
-
----
-
-Don’t look at her, she is not worth your time. Look into my eyes, tits are temporal.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 i'll be happy when  
 i finish school  
@@ -1546,102 +1309,82 @@ i get that job
 i have kids  
 i retire  
 i died  
-LIFE ISNT A CHECKLIST. HAPPINESS DOESNT COME FROM EXTERNAL THINGS, IT COMES FROM WITHIN.
+LIFE ISNT A CHECKLIST. HAPPINESS DOESNT COME FROM EXTERNAL THINGS, IT COMES FROM WITHIN.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Yasak yayin kontrolum yapilmistir.  
 
----
-
-Yasak yayin kontrolum yapilmistir.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 Goal (No Deadline) = Wish or Dream  
 Goal + Deadline = Objective  
 Goal + Deadline + Plan = Intention  
 Goal + Deadline + Consistent Action = Success  
-Personally Meaningful Goal + Deadline + Plan + Consistent Action = Fulfillment
+Personally Meaningful Goal + Deadline + Plan + Consistent Action = Fulfillment  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Zira umut, tum hayal kirikliklarimizin kaynagidir. Arzu asla sozunde durmaz.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #desire #hope
 
-Zira umut, tum hayal kirikliklarimizin kaynagidir. Arzu asla sozunde durmaz.
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+it is about journey, not the destination  
 
-tags: desire, general, hope
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
----
+Bütün tuşlara basıp bölüm geçmeye mi çalışıyorsunuz ?  
 
-it is about journey, not the destination
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Bütün tuşlara basıp bölüm geçmeye mi çalışıyorsunuz ?
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 3 Hard Truths You Must Accept:  
 1. Your mentality is a reflection of your daily habits.  
 2. Your physicality is a reflection of your daily habits.  
 3. Your spirituality is a reflection of your daily habits.  
-Improvement or decline is a reflection of your daily habits.
+Improvement or decline is a reflection of your daily habits.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+1 milyon liraya satın aldığınız arabayı, sokağa park ettiğinizde rahat uyuyamıyorsanız, o araba sizin özgürlüğünüzü kısıtlıyor demektir.  
 
----
+> Umut Gökbayrak - Neden Mutlu Olamıyoruz? (2020-08-05 11:22:06)  
+  
+--
 
-1 milyon liraya satın aldığınız arabayı, sokağa park ettiğinizde rahat uyuyamıyorsanız, o araba sizin özgürlüğünüzü kısıtlıyor demektir.
+Yeni döngü eskisini aratmasın. -Amin.  
 
-*>_ Umut Gökbayrak - Neden Mutlu Olamıyoruz?* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Yeni döngü eskisini aratmasın. -Amin.
-
-*>_ Şenol Erdoğan* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Şenol Erdoğan (2020-08-05 11:22:06)  
+  
+--
 
 … nihai basari her seferinde, hem is hem de ozel hayatlarimizda karsilastigimiz tum zorluklara ragmen yeniden ayaga kalkabilmektir.  
-En degerli varliginiz; kendiniz, ona her acidan iyi bakin.
+En degerli varliginiz; kendiniz, ona her acidan iyi bakin.  
 
-*>_ oytunatlinux - Twitter* (2020-08-05 11:22:06)
+> oytunatlinux - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Orada da cok savastim, orada da cok sehit verdim ben.  
 
----
+> Kaybedenler Kulübü - Bu Yalnizlar Liginde (2020-08-05 11:22:06)  
+> #kaybedenlerkulubu
 
-Orada da cok savastim, orada da cok sehit verdim ben.
-
-*>_ Kaybedenler Kulübü - Bu Yalnizlar Liginde* (2020-08-05 11:22:06)
-
-tags: general, kaybedenlerkulubu
-
----
+--
 
 surekli uyumak isterler  
 gecmisteki hatalarina tkailip kalirlar  
@@ -1649,138 +1392,106 @@ surekli kotumser ve negatif seyler dusunurler.
 gelecekle ilgili buyuk endiseleri vardir.  
 baskalarinin dusuncelerini takinti yaparlar  
 dunyadaki butun insanlari guvenilmez sanirlar  
-degmeyecek insanlar icin kendilerini uzerler
+degmeyecek insanlar icin kendilerini uzerler  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Kendim disinda gelisen olaylara yorum yapmiyorum  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Kendim disinda gelisen olaylara yorum yapmiyorum
+Akıl sağlığımı koruyabilmem için...  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Cogumuz kendimizi en kolay bulunabilecegimiz yerlerde olduruyoruz. Aslinda sorunumuz kendimizle degil, bulmasini istedigimiz kisi(lerle).  
 
----
-
-Akıl sağlığımı koruyabilmem için...
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Cogumuz kendimizi en kolay bulunabilecegimiz yerlerde olduruyoruz. Aslinda sorunumuz kendimizle degil, bulmasini istedigimiz kisi(lerle).
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 Anarsist deyus  
 Behey teres  
 [Neseli muzik calar]  
 [Bas gitarla huzunlu muzik]  
-[Kemanlarla huzunlu muzik]
+[Kemanlarla huzunlu muzik]  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+O zamanlar babanla evli degildik. Sana hamile degildim. Sana hala hamile degilim  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-O zamanlar babanla evli degildik. Sana hamile degildim. Sana hala hamile degilim
+Butun eylemlerimizi fotografini cekmek icin yapiyormusuz gibi geliyor.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Kendi cenazesine katilanlar dernegi  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Butun eylemlerimizi fotografini cekmek icin yapiyormusuz gibi geliyor.
+Ama bir cümlede "Adam/kadın olana" tarzında bir beyan varsa o cümlenin mantıklı bir ifade içermesi imkansız.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> berbatedebiyat - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Ucuzluk üzerine kurulu her sistem bunu yaşar. Standardı olmayan bir iş için fiyat indirimi genellikle kalitesizliği beraberinde getiriyor.  
 
----
+> canaliden - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-Kendi cenazesine katilanlar dernegi
+"Bize çiçekleri sevdiğini söyleyen bir kadının, çiçekleri sulamayı unuttuğunu görürsek, onun çiçek sevgisine inanmayız." diyordu Erich Fromm "Sevgi, sevdiğimiz şeyin büyümesi ve yaşaması için gösterdiğimiz etken ilgidir." Sevgi almaktan ziyade vermektir.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> istanbulbookf - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Her insan bir umuttur, ama her umut bir olasılıktır.  
 
----
-
-Ama bir cümlede "Adam/kadın olana" tarzında bir beyan varsa o cümlenin mantıklı bir ifade içermesi imkansız.
-
-*>_ berbatedebiyat - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Ucuzluk üzerine kurulu her sistem bunu yaşar. Standardı olmayan bir iş için fiyat indirimi genellikle kalitesizliği beraberinde getiriyor.
-
-*>_ canaliden - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-"Bize çiçekleri sevdiğini söyleyen bir kadının, çiçekleri sulamayı unuttuğunu görürsek, onun çiçek sevgisine inanmayız." diyordu Erich Fromm "Sevgi, sevdiğimiz şeyin büyümesi ve yaşaması için gösterdiğimiz etken ilgidir." Sevgi almaktan ziyade vermektir.
-
-*>_ istanbulbookf - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Her insan bir umuttur, ama her umut bir olasılıktır.
-
-*>_ etilen - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> etilen - Twitter (2020-08-05 11:22:06)  
+  
+--
 
 Sylvia Plath. Amerikalı şair ve yazardı. Ekim'de doğmuştu, Şubat'ta ve 30'lu yaşlarda intihar etti.  
-Nilgün Marmara. Şair ve yazardı. Tez konusu "Sylvia Plath'in Şairliğinin İntiharı Bağlamında Analizi" idi. Şubat'ta doğmuştu, Ekim'de 30'lu yaşlarda intihar etti
+Nilgün Marmara. Şair ve yazardı. Tez konusu "Sylvia Plath'in Şairliğinin İntiharı Bağlamında Analizi" idi. Şubat'ta doğmuştu, Ekim'de 30'lu yaşlarda intihar etti  
 
-*>_ lagaribey - Twitter* (2020-08-05 11:22:06)
+> lagaribey - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Tibbi bilgilerin kendi ogretilemez, nerede bulundugu ogretilir.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Tibbi bilgilerin kendi ogretilemez, nerede bulundugu ogretilir.
+Geride kirgin biri hep kalir.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Guncel olanin tahammul edilmezliginden kacmak  
 
----
-
-Geride kirgin biri hep kalir.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Guncel olanin tahammul edilmezliginden kacmak
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 Evet'tense Hayır.  
 Kolay'dansa Zor.  
@@ -1790,269 +1501,212 @@ Konuşmak'tansa Dinlemek.
 Eleştirmek'tense Yapmak.  
 Verimli'dense Etkili.  
 Kısa Vade'dense Uzun Vade.  
-Mükemmelliği Aramak'tansa Aptallıktan Kaçınmak.
+Mükemmelliği Aramak'tansa Aptallıktan Kaçınmak.  
 
-*>_ ShaneAParrish - Twitter* (2020-08-05 11:22:06)
+> ShaneAParrish - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Sanki sen varmissin gibi, sanki varmisim gibi.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Sanki sen varmissin gibi, sanki varmisim gibi.
+İnsanlari taraf tutmaya zorlama sonunda yalniz kalirsin  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+dolayisiyla biri gelip yok yari turkceymis biseymis deyince iyi niyetine guvenmem bastan. bu kulturde turkce ingilizce farketmez herkes anlamadigi seyin vebalini hep karsi tarafa yukluyor. bkz "cok teorik” de bunun gibi.  
 
----
+> simendiferlerin - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-İnsanlari taraf tutmaya zorlama sonunda yalniz kalirsin
+Bu acilar hesapsiz kalir mi?  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Anlattiklarim/aktardiklarim inanilir olsun diye misli gecmis zamanin ş'sini buyuk yazmaya calistim hep.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-dolayisiyla biri gelip yok yari turkceymis biseymis deyince iyi niyetine guvenmem bastan. bu kulturde turkce ingilizce farketmez herkes anlamadigi seyin vebalini hep karsi tarafa yukluyor. bkz "cok teorik” de bunun gibi.
+Hangimiz ayni gemideyiz ki?  
 
-*>_ simendiferlerin - Twitter* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Kim kimi ozluyor ki bu devirde ?  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Bu acilar hesapsiz kalir mi?
+Muazzam sifatini biraz comertce savurmus olabilir misiniz?  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> mserdark (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+bilim dedigimiz sistematik veriye dayali arguman gelistirmektir.  
 
----
+> Selçuk R. Şirin (2020-08-05 11:22:06)  
+> #science
 
-Anlattiklarim/aktardiklarim inanilir olsun diye misli gecmis zamanin ş'sini buyuk yazmaya calistim hep.
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+En guzel anilar, hic fotografi cekilmemis olanlardir.  
 
-tags: general
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
----
+Because at the end of the day love is a random process  
 
-Hangimiz ayni gemideyiz ki?
+> Angela Yu (2020-08-05 11:22:06)  
+> #love
 
-*>_ Unknown* (2020-08-05 11:22:06)
+--
 
-tags: general
+O zamandan beri ayni olan cok az sey var  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Kim kimi ozluyor ki bu devirde ?
+Making things understandable  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> linkibol - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Evlenmek için bir tanığa gereksiniminiz var, tıpkı bir kaza ya da düelloda olduğu gibi.  
 
----
+> Sacha Guitry (2020-08-05 11:22:06)  
+> #marriage
 
-Muazzam sifatini biraz comertce savurmus olabilir misiniz?
+--
 
-*>_ mserdark* (2020-08-05 11:22:06)
+Düğünler cenazelerden daha hüzünlüdür, çünkü insana kendi düğününü hatırlatırlar. İnsan kendi cenazesini hatırlayamaz ki..  
 
-tags: general
+> Brendan Behan (2020-08-05 11:22:06)  
+> #marriage
 
----
+--
 
-bilim dedigimiz sistematik veriye dayali arguman gelistirmektir.
+Karım ve ben yirmi yıl mutlu yaşadık. Tanışana kadar.  
 
-*>_ Selçuk R. Şirin* (2020-08-05 11:22:06)
+> Rodney Dangerfield (2020-08-05 11:22:06)  
+> #marriage
 
-tags: general, science
+--
 
----
+Erkek yorulunca evlenir, kadın meraktan ama sonuç değişmez. İkisi de hayal kırıklığı yaşar  
 
-En guzel anilar, hic fotografi cekilmemis olanlardir.
+> Oscar Wilde (2020-08-05 11:22:06)  
+> #marriage
 
-*>_ Unknown* (2020-08-05 11:22:06)
+--
 
-tags: general
+Evlilik, iki kişinin birlikte, yalnızken kendi başlarına yaşayabilecekleri kadar mutlu yaşamaya çalıştıkları zor bir zanaattır.  
 
----
+> Georges Feydeau (2020-08-05 11:22:06)  
+> #marriage
 
-Because at the end of the day love is a random process
+--
 
-*>_ Angela Yu* (2020-08-05 11:22:06)
+Düşüncesizlikten dolayı evlenilir. Sonra da sabırsızlıktan ötürü boşanılır. En sonunda ise bellek yetersizliği nedeniyle yeniden evlenilir.  
 
-tags: general, love
+> Armand Salacrou (2020-08-05 11:22:06)  
+> #marriage
 
----
+--
 
-O zamandan beri ayni olan cok az sey var
+İnsanlar özgür olarak ve eşit haklarla dünyaya gelirler. Ancak daha sonra bazıları evlenirler.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Marcel Jouhandeau (2020-08-05 11:22:06)  
+> #marriage
 
-tags: general
+--
 
----
+Tanrı birlikte yaşamayı icat etmiştir, şeytansa evliliği.  
 
-Making things understandable
+> Francis Picabia (2020-08-05 11:22:06)  
+  
+--
 
-*>_ linkibol - Twitter* (2020-08-05 11:22:06)
+Kolay Para, kolay para kazanmak isteyenlerin üzerinden kazanılır  
 
-tags: general
+> Youtube Comment (2020-08-05 11:22:06)  
+  
+--
 
----
+Suveyda: Kalbin tam ortasinda, gizli kotuluklerin sakli oldugu siyah nokta.  
 
-Evlenmek için bir tanığa gereksiniminiz var, tıpkı bir kaza ya da düelloda olduğu gibi.
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Sacha Guitry* (2020-08-05 11:22:06)
+Bir insanın söylediklerinin aşırı bulunması, bulanın karşıt aşırılığından kaynaklanıyor olabilir.  
 
-tags: general, marriage
+> Guray Süngü (2020-08-05 11:22:06)  
+  
+--
 
----
+Ulaşılabilir olmanın karşıda yarattığı talepkarlık ve sizde yarattığı mahcubiyet, üstüne düşünülesi mesele. (İyi de çağrı merkezi miyim ben yahu?)  
 
-Düğünler cenazelerden daha hüzünlüdür, çünkü insana kendi düğününü hatırlatırlar. İnsan kendi cenazesini hatırlayamaz ki..
+> mserdark - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Brendan Behan* (2020-08-05 11:22:06)
+Anthropocentrism. Yani insanın evrendeki en önemli şey olduğu, her şeyin merkezinde olduğu fikri.  
 
-tags: general, marriage
+> imTolstoyevski - Twitter (2020-08-05 11:22:06)  
+  
+--
 
----
+Oğlum bir gün bana 'Baba, sen nerede bitiyorsun ve ben nerede başlıyorum bilmiyorum' dedi. Ben hep şunu demişimdir: Çocuklarımın bana öfke duymasından endişelenmiyorum, yeterince öfke duymamasından endişeleniyorum  
 
-Karım ve ben yirmi yıl mutlu yaşadık. Tanışana kadar.
+> Gabor Maté (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Rodney Dangerfield* (2020-08-05 11:22:06)
+Ayrıntı hatırlanmaz ama zarar duyumsanır.  
 
-tags: general, marriage
+> herparadoks - Twitter (2020-08-05 11:22:06)  
+  
+--
 
----
+bu ülke üç tarafı denizlerle çevrili bi akıl hastanesi.  
 
-Erkek yorulunca evlenir, kadın meraktan ama sonuç değişmez. İkisi de hayal kırıklığı yaşar
+> _dr_dodo - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Oscar Wilde* (2020-08-05 11:22:06)
+Yargilamak yok, sorgulamak hakkimiz  
 
-tags: general, marriage
+> sunavarol_ - Twitter (2020-08-05 11:22:06)  
+  
+--
 
----
+Sosyal medyayla ilgilenmiyorum. Twitter, benim için hiç var olmadı. Beni sadece direkt görüştüğüm insanlar ilgilendirir. Diğer tüm sosyal medya ağları, twitter, instagram ve diğer şeyler, onlarla ilgilenenler için. Ben ne sosyal medyayı takip ediyorum, ne de beni ilgilendiriyor.  
 
-Evlilik, iki kişinin birlikte, yalnızken kendi başlarına yaşayabilecekleri kadar mutlu yaşamaya çalıştıkları zor bir zanaattır.
+> Željko Obradović (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Georges Feydeau* (2020-08-05 11:22:06)
+Zihinsel boyutta dunyanin sonuna gidip geri donmeyenlere sizofreni; donenlere ise dahi diyoruz.  
 
-tags: general, marriage
-
----
-
-Düşüncesizlikten dolayı evlenilir. Sonra da sabırsızlıktan ötürü boşanılır. En sonunda ise bellek yetersizliği nedeniyle yeniden evlenilir.
-
-*>_ Armand Salacrou* (2020-08-05 11:22:06)
-
-tags: general, marriage
-
----
-
-İnsanlar özgür olarak ve eşit haklarla dünyaya gelirler. Ancak daha sonra bazıları evlenirler.
-
-*>_ Marcel Jouhandeau* (2020-08-05 11:22:06)
-
-tags: general, marriage
-
----
-
-Tanrı birlikte yaşamayı icat etmiştir, şeytansa evliliği.
-
-*>_ Francis Picabia* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Kolay Para, kolay para kazanmak isteyenlerin üzerinden kazanılır
-
-*>_ Youtube Comment* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Suveyda: Kalbin tam ortasinda, gizli kotuluklerin sakli oldugu siyah nokta.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Bir insanın söylediklerinin aşırı bulunması, bulanın karşıt aşırılığından kaynaklanıyor olabilir.
-
-*>_ Guray Süngü* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Ulaşılabilir olmanın karşıda yarattığı talepkarlık ve sizde yarattığı mahcubiyet, üstüne düşünülesi mesele. (İyi de çağrı merkezi miyim ben yahu?)
-
-*>_ mserdark - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Anthropocentrism. Yani insanın evrendeki en önemli şey olduğu, her şeyin merkezinde olduğu fikri.
-
-*>_ imTolstoyevski - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Oğlum bir gün bana 'Baba, sen nerede bitiyorsun ve ben nerede başlıyorum bilmiyorum' dedi. Ben hep şunu demişimdir: Çocuklarımın bana öfke duymasından endişelenmiyorum, yeterince öfke duymamasından endişeleniyorum
-
-*>_ Gabor Maté* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Ayrıntı hatırlanmaz ama zarar duyumsanır.
-
-*>_ herparadoks - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-bu ülke üç tarafı denizlerle çevrili bi akıl hastanesi.
-
-*>_ _dr_dodo - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Yargilamak yok, sorgulamak hakkimiz
-
-*>_ sunavarol_ - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Sosyal medyayla ilgilenmiyorum. Twitter, benim için hiç var olmadı. Beni sadece direkt görüştüğüm insanlar ilgilendirir. Diğer tüm sosyal medya ağları, twitter, instagram ve diğer şeyler, onlarla ilgilenenler için. Ben ne sosyal medyayı takip ediyorum, ne de beni ilgilendiriyor.
-
-*>_ Željko Obradović* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Zihinsel boyutta dunyanin sonuna gidip geri donmeyenlere sizofreni; donenlere ise dahi diyoruz.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 Babamla kahvaltıya geldik  
 Ben Cağaloğlu’ndan   
@@ -2076,284 +1730,220 @@ At yarışlarından ve futbol liginden bahsettik daha çok
 cold brewlerimizi yudumladık?  
 Gitmesi gerektiğini söyledi -  
 Ve gitti.  
-Kahve gırtlağımdan masaya süzüldü.
+Kahve gırtlağımdan masaya süzüldü.  
 
-*>_ Şenol Erdoğan* (2020-08-05 11:22:06)
+> Şenol Erdoğan (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Seni sekiz farkli sekilde oldurebilirim.  
 
----
+> Esrarengiz Kasaba (2020-08-05 11:22:06)  
+  
+--
 
-Seni sekiz farkli sekilde oldurebilirim.
+Sahi, heteroseksüel erkekler neden dişilerin göğüs bölgesinde bulunan yağlı bir doku parçasına bu kadar kafayı takmış durumdalar?  
 
-*>_ Esrarengiz Kasaba* (2020-08-05 11:22:06)
+> Evrim Agaci (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Zaten yoklugumda devrim de olmamis.  
 
----
-
-Sahi, heteroseksüel erkekler neden dişilerin göğüs bölgesinde bulunan yağlı bir doku parçasına bu kadar kafayı takmış durumdalar?
-
-*>_ Evrim Agaci* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Zaten yoklugumda devrim de olmamis.
-
-*>_ Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Twitter (2020-08-05 11:22:06)  
+  
+--
 
 Yukselip birlesmek mi? Birlesip yukselmek mi?    
 2^3 + 4^3 = 72   
-(2 + 4)^3 = 216
+(2 + 4)^3 = 216  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+You will never reach your destination, if you stop and throw stones at every dog barks  
 
----
-
-You will never reach your destination, if you stop and throw stones at every dog barks
-
-*>_ Winston S. Churchill* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Winston S. Churchill (2020-08-05 11:22:06)  
+  
+--
 
 Yoo, neden "köpeği olmak”?   
 Basbayağı insanlık bu, insan olmak böyle bir şey yani.   
-Her hoşunuza gitmeyen bayağı tavrı diğer hayvanlara yıkmak, onlar üzerinden ifade etmek de ayrı bir sorunlu insan olma tavrı.
+Her hoşunuza gitmeyen bayağı tavrı diğer hayvanlara yıkmak, onlar üzerinden ifade etmek de ayrı bir sorunlu insan olma tavrı.  
 
-*>_ sperasperanza - Twitter* (2020-08-05 11:22:06)
+> sperasperanza - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+what a wonderful day for an exorcism.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-what a wonderful day for an exorcism.
+Ulkedeki varos narsisizmi  
 
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Ulkedeki varos narsisizmi
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 tuhaf rastlantilar, tuhaf temaslar   
-onune gecemedigim bir delilige donustu
+onune gecemedigim bir delilige donustu  
 
-*>_ Pilli Bebek* (2020-08-05 11:22:06)
+> Pilli Bebek (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+The bigger it is, the harder it falls  
 
----
+> Kingdom of Heckfire (2020-08-05 11:22:06)  
+  
+--
 
-The bigger it is, the harder it falls
+İcap eden hangi eserse onu tamamla, zira eylemek, bir şey yapmamaktan iyidir; bedenin işlemleri dahi bir eylemde toplamalısın. Feragatten doğmayan her bir eylem, yeryüzü varlığına bağlanmak demektir; bu nedenle, bir eser oluştur, ama ona bağlanma…  
 
-*>_ Kingdom of Heckfire* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-İcap eden hangi eserse onu tamamla, zira eylemek, bir şey yapmamaktan iyidir; bedenin işlemleri dahi bir eylemde toplamalısın. Feragatten doğmayan her bir eylem, yeryüzü varlığına bağlanmak demektir; bu nedenle, bir eser oluştur, ama ona bağlanma…
-
-*>_ Bhagavadgita* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Bhagavadgita (2020-08-05 11:22:06)  
+  
+--
 
 Tanidik bir keder bu kalbim ve zihnimde dolanip duran.   
 Kendimi nereye koysam oradan dusuyorum.   
 Sanki hic tutmamisim birini/bir seyi, hic tutmamis beni biri/bir sey.  
 Hep savrulmus, savruldukca carpmis, carptikca yaralanmis, yaralandikca kanamis sonra kendime bakip aglamisim.  
-ama bundan da bahsedecek degilim, kitaplarima kacacagim. dudaklarimi catlatacak bir sukunete gomulecek, bir umutla iyilesmeyi degil belki ama durulmayi bekleyeecegim. 
+ama bundan da bahsedecek degilim, kitaplarima kacacagim. dudaklarimi catlatacak bir sukunete gomulecek, bir umutla iyilesmeyi degil belki ama durulmayi bekleyeecegim.   
 
-*>_ nousnoir - Twitter* (2020-08-05 11:22:06)
+> nousnoir - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Sırayla eskidi akşamlar bir tahtaya düşer gibi alevler bindi gemiye. Yolcular bilmiyorlardı kendilerinin de yanacağını. Su da gizliydi alış-veriş. "Yaşadım "demek "öldüm” demenin horozuydu. Akşamlar kanatıyordu sırayla Kızarıyordu güneş bu utancı taşımaktan. ÖlümDoğdu.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Sırayla eskidi akşamlar bir tahtaya düşer gibi alevler bindi gemiye. Yolcular bilmiyorlardı kendilerinin de yanacağını. Su da gizliydi alış-veriş. "Yaşadım "demek "öldüm” demenin horozuydu. Akşamlar kanatıyordu sırayla Kızarıyordu güneş bu utancı taşımaktan. ÖlümDoğdu.
+sana başka bir hayat gösterene sırtını döner görmezsin. kulağını tıkar duymazsın. ama parçalamaya kakman sadece yetersizliğinden  
 
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-sana başka bir hayat gösterene sırtını döner görmezsin. kulağını tıkar duymazsın. ama parçalamaya kakman sadece yetersizliğinden
-
-*>_ Umay Umay* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Umay Umay (2020-08-05 11:22:06)  
+  
+--
 
 sahte yagli boya resimleri tespit etmek icin ilginc bir yontem var: nukleer bomba testi  
-1945-63 arasinda yer ustunde yapilan nukleer testlerde, 2 yapay izotop tum dunyaya yayilmis durumda. eger bir resimde bu 2 izotoptan biri varsa, resmin 1945’ten sonra yapildigi anlasiliyor.
+1945-63 arasinda yer ustunde yapilan nukleer testlerde, 2 yapay izotop tum dunyaya yayilmis durumda. eger bir resimde bu 2 izotoptan biri varsa, resmin 1945’ten sonra yapildigi anlasiliyor.  
 
-*>_ lagaribey - Twitter* (2020-08-05 11:22:06)
+> lagaribey - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Sahip olmadığımız şeylerin peşinde koşarken (veya sahip olmadıklarımız için üzülürken) sahip olduklarımızın kıymetini bilmiyoruz. Bizi bugüne getiren kişileri ve olayları yeteri kadar takdir etmiyoruz. Sağlığımızın yerinde olmasının bile büyük bir lütuf olduğunu fark edemiyoruz. Kısacası şükretmiyoruz.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Sahip olmadığımız şeylerin peşinde koşarken (veya sahip olmadıklarımız için üzülürken) sahip olduklarımızın kıymetini bilmiyoruz. Bizi bugüne getiren kişileri ve olayları yeteri kadar takdir etmiyoruz. Sağlığımızın yerinde olmasının bile büyük bir lütuf olduğunu fark edemiyoruz. Kısacası şükretmiyoruz.
+s. fobes'ın dediği gibi: "kağıda dokunan kalem, kibritten daha çok yangın çıkarır."  
 
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-s. fobes'ın dediği gibi: "kağıda dokunan kalem, kibritten daha çok yangın çıkarır."
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 RUZGARLAR SILECEK NASIL OLSA    
-CIZDIGIN HERSEYI YERYUZUNE
+CIZDIGIN HERSEYI YERYUZUNE  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+resit galip, tam bir idealist gibi oldu: kitaplarinin yani basinda ve bir demir karyola icinde!  
 
----
+> Orhan Seyfi Orhon (2020-08-05 11:22:06)  
+  
+--
 
-resit galip, tam bir idealist gibi oldu: kitaplarinin yani basinda ve bir demir karyola icinde!
+Psikolojik araştırmalar gösteriyor ki, başkalarının önünde hata yapmanız, veya bir hatanızı itiraf etmeniz sizi başkalarına daha çok sevdiriyor. Pratfall etkisi; kişinin ne kadar mükemmel değilse sevilme oranının o kadar artması anlamına gelir. Hatalar yapan insanları, sakar kişileri mükemmel olan insanlardan daha çok severiz. Düştüğünde gülüp geçebilen bir insanı hiç düşmeyen veya tökezlemeyen insandan daha sempatik bulabiliriz. Beynimiz, hata yapan insanları, mükemmel insanlardan daha sıcak ve samimi buluyor.  
 
-*>_ Orhan Seyfi Orhon* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Okudum güzel kitaptır. George Perec de Kayboluş adlı romanında hiç "e” harfi kullanmamış, daha ilginci kitabı Fransızca’dan çeviren Cemal Yardımcı da hiç "e” harfi kullanmamıştır.  
 
----
+> Twitter (2020-08-05 11:22:06)  
+  
+--
 
-Psikolojik araştırmalar gösteriyor ki, başkalarının önünde hata yapmanız, veya bir hatanızı itiraf etmeniz sizi başkalarına daha çok sevdiriyor. Pratfall etkisi; kişinin ne kadar mükemmel değilse sevilme oranının o kadar artması anlamına gelir. Hatalar yapan insanları, sakar kişileri mükemmel olan insanlardan daha çok severiz. Düştüğünde gülüp geçebilen bir insanı hiç düşmeyen veya tökezlemeyen insandan daha sempatik bulabiliriz. Beynimiz, hata yapan insanları, mükemmel insanlardan daha sıcak ve samimi buluyor.
+Mutluluğu melankoliden ayıran çizgi, bir bıçak ağzından daha kalın değildir.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Okudum güzel kitaptır. George Perec de Kayboluş adlı romanında hiç "e” harfi kullanmamış, daha ilginci kitabı Fransızca’dan çeviren Cemal Yardımcı da hiç "e” harfi kullanmamıştır.
-
-*>_ Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Mutluluğu melankoliden ayıran çizgi, bir bıçak ağzından daha kalın değildir.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 Mısır üreten bir çiftçi varmış. Her yıl en kaliteli mısır ödülünü alırmış. Bir yıl bir gazeteci çiftçi ile röportaj yaparken oldukça ilginç bir bilgiye ulaşmış. Çiftçi ödül aldığı mısır tohumlarını ekmeleri için komşularına da veriyormuş. Gazeteci çiftçiye "seninle her yıl aynı yarışmaya giren komşularına, tohumlarından vermeyi nasıl göze alabiliyorsun?” diye sormuş.  
 "Neden?” diye sormuş çiftçi. "Yoksa bilmiyor musun? Rüzgar olgunlaşan mısırlardan polenleri alır ve tarla tarla dağıtır. Eğer komşularım kalitesiz mısır yetiştirirse çapraz tozlaşma sonucu her geçen yıl ürettiğim mısırın kalitesi düşer. Eğer kaliteli mısır yetiştirmek istiyorsam, komşularıma da kaliteli mısır yetiştirmeleri için yardım etmeliyim”.  
 Yaşamlarımızda da bu böyledir. Hayatlarını anlamlı ve iyi bir şekilde yaşamak isteyenler başkalarının hayatlarını da zenginleştirmelidir. Bir yaşamın değeri dokunduğu hayatlarla ölçülür. Ve mutluluğu seçenler, başkalarının mutluluğa ulaşmasına yardım etmelidir. Birimizin refaha ulaşması, herkesin refaha ulaşmasına bağlıdır.   
 Buna kollektivitenin gücü diyebilirsin,  
 Buna başarının ilkesi diyebilirsin,  
-Buna hayat kanunu diyebilirsin.
+Buna hayat kanunu diyebilirsin.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+kutuphane kapanirken karanlik koridorundan yalniz basiniza cikip gidiyorsaniz calismanizda dogru yoldasiniz. londrali bir arkeolog  
 
----
-
-kutuphane kapanirken karanlik koridorundan yalniz basiniza cikip gidiyorsaniz calismanizda dogru yoldasiniz. londrali bir arkeolog
-
-*>_ jimithekewl - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> jimithekewl - Twitter (2020-08-05 11:22:06)  
+  
+--
 
 Kurtulmanız gereken 4 şey:   
 2. Geçmişe takılıp kalma hastalığından kurtulun.   
 3. Harekete geçin, aşırı düşünme alışkanlığından kurtulun.   
-4. Kendinizden ve vaktinizden taviz vermeyin her şeye ‘evet’ deme alışkanlığından kurtulun.
+4. Kendinizden ve vaktinizden taviz vermeyin her şeye ‘evet’ deme alışkanlığından kurtulun.  
 
-*>_ muthispsikoloji - Twitter* (2020-08-05 11:22:06)
+> muthispsikoloji - Twitter (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+konuyla ilgili bilgi sahibi olmadan kimseye destek de, kostek de olmayin lutfen.  
 
----
-
-konuyla ilgili bilgi sahibi olmadan kimseye destek de, kostek de olmayin lutfen.
-
-*>_ PhilandMaths - Twitter* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> PhilandMaths - Twitter (2020-08-05 11:22:06)  
+  
+--
 
 kinik :    
-dogal ve sade bir yasam surduren, erdemi, baska bir deyisle kendi kendine yetmeyi etik ilke olarak goren. 
+dogal ve sade bir yasam surduren, erdemi, baska bir deyisle kendi kendine yetmeyi etik ilke olarak goren.   
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Kimsenin sorunlarla yalniz karsilasmasi gerekmiyor. Kimse herkese yardim edemez ama herkes birine yardim edebilir.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
-Kimsenin sorunlarla yalniz karsilasmasi gerekmiyor. Kimse herkese yardim edemez ama herkes birine yardim edebilir.
+Kime su soruyu sorabilirim (yanit almak umuduyla)? Insanin, artik sevdigi kisi hayatta olmadan yasayabilmesi onu sanildigindan daha az sevmis oldugu anlamina mi gelir (…) ?  
 
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Kime su soruyu sorabilirim (yanit almak umuduyla)? Insanin, artik sevdigi kisi hayatta olmadan yasayabilmesi onu sanildigindan daha az sevmis oldugu anlamina mi gelir (…) ?
-
-*>_ Roland Barthes - Yas Gunlugu* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Roland Barthes - Yas Gunlugu (2020-08-05 11:22:06)  
+  
+--
 
 Keske her gunumuz dugun olsa  
-Amaaan ben sıkılırım oyle
+Amaaan ben sıkılırım oyle  
 
-*>_ Yedi Güzel Adam* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Yedi Güzel Adam (2020-08-05 11:22:06)  
+  
+--
 
 Kendi dilini düzgün konuşup yazamayan bir toplum zamanla çürüyüp yok olacaktır  
 Çürüme kısmı bitti, yok oluyoruz.  
-Arkadaş haklı vasat bir milletiz, yeni dünya da böyle toplumların yeri yok.
+Arkadaş haklı vasat bir milletiz, yeni dünya da böyle toplumların yeri yok.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 kendi canini almak   
 ilginc bir disavurum.    
@@ -2361,631 +1951,481 @@ kimin elinden peki ?
 bittiginde ozleyecek olan sen degilsin.   
 kendi olumun geri kalan herkesin basina gelen bir seydir.    
 hayatin sana ait degil   
-ellerini onun uzerinden cek
+ellerini onun uzerinden cek  
 
-*>_ Sherlock - S04E02* (2020-08-05 11:22:06)
+> Sherlock - S04E02 (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Kavganın nedeni toprağın üzerine kurulan mülkiyet. 10 bin yıldır değişmeden devam ediyor gibi. Tüm kötülüklerin kaynağında toprağı mülkleştirmeye çalışan insan fikri var galiba.  
 
----
+> Twitter (2020-08-05 11:22:05)  
+  
+--
 
-Kavganın nedeni toprağın üzerine kurulan mülkiyet. 10 bin yıldır değişmeden devam ediyor gibi. Tüm kötülüklerin kaynağında toprağı mülkleştirmeye çalışan insan fikri var galiba.
+Kafka bir sigorta görevlisiydi. Son iki SGK ziyaretimde benimle ilgilenen memurun detaylı izahatları ve zekice tavırları bana Kafka’yı çağrıştırmıştı. Az önce sosyal medyadan edebiyatla fazlasıyla ilgili biri olduğunu bir rastlantı sonucu öğrendim. Memurlar edebiyatçı olabilir. bu kadar ozlemek; gercek ve mumkun degil!  
 
-*>_ Twitter* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Japoncada asiri calismaktan olmeyi tanimlayan ozel bir kelime : KAROSHI  
 
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-Kafka bir sigorta görevlisiydi. Son iki SGK ziyaretimde benimle ilgilenen memurun detaylı izahatları ve zekice tavırları bana Kafka’yı çağrıştırmıştı. Az önce sosyal medyadan edebiyatla fazlasıyla ilgili biri olduğunu bir rastlantı sonucu öğrendim. Memurlar edebiyatçı olabilir. bu kadar ozlemek; gercek ve mumkun degil!
+intiharından sonra eşi Kağan Önal ‘Nilgün'ün şiir yazdığını bile bilmezdim, bir kenarda pıtır pıtır bir şeyler yazardı’ demiş. İşte bu kadar basit bazen her şey, anlaşılamamak iki insan arasındaki derin bir uçurummuş.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Insan, ulasamadigi her seyin delisi, ulastigi her seyin nankorudur.  
 
----
+> Pablo Neruda (2020-08-05 11:22:05)  
+  
+--
 
-Japoncada asiri calismaktan olmeyi tanimlayan ozel bir kelime : KAROSHI
+Özlem, kendini azaltması gereken çabalarla bile, kendini çoğaltır.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-intiharından sonra eşi Kağan Önal ‘Nilgün'ün şiir yazdığını bile bilmezdim, bir kenarda pıtır pıtır bir şeyler yazardı’ demiş. İşte bu kadar basit bazen her şey, anlaşılamamak iki insan arasındaki derin bir uçurummuş.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Insan, ulasamadigi her seyin delisi, ulastigi her seyin nankorudur.
-
-*>_ Pablo Neruda* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Özlem, kendini azaltması gereken çabalarla bile, kendini çoğaltır.
-
-*>_ Oruç Aruoba* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Oruç Aruoba (2020-08-05 11:22:05)  
+  
+--
 
 hicbir sey hakkinda onu kaybettim deme, sadece geri verdim de… onu sana verenin senden geri alirken neyi araci yaptigi seni niye ilgilendiriyor.   
-epiktetos, enkheiridon 11
+epiktetos, enkheiridon 11  
 
-*>_ jimithekewl - Twitter* (2020-08-05 11:22:05)
+> jimithekewl - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Hiçbir olasılık birkaç sene uzağında olduğun yaşamını yakalamaya yetmez. Bir gün boşluğa bakarsın, boşluk sana dönüşmüştür. Zaman, Einstein'a göre görecelidir, Kafka'ya göreyse karanlık.  
 
----
-
-Hiçbir olasılık birkaç sene uzağında olduğun yaşamını yakalamaya yetmez. Bir gün boşluğa bakarsın, boşluk sana dönüşmüştür. Zaman, Einstein'a göre görecelidir, Kafka'ya göreyse karanlık.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
 Hangi körler için bu merasim?  
 Bunlar da malumatfuruş yok  
-Körlerin efendiliğine inanmıyorlar demek ki
+Körlerin efendiliğine inanmıyorlar demek ki  
 
-*>_ corvusunaname - Twitter* (2020-08-05 11:22:05)
+> corvusunaname - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+haksizliga ugramak, iyi bir insanin davasina ivme kazandirir.  
 
----
-
-haksizliga ugramak, iyi bir insanin davasina ivme kazandirir.
-
-*>_ Yılmaz Erdoğan* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Yılmaz Erdoğan (2020-08-05 11:22:05)  
+  
+--
 
 Goethe’ye göre mutlu olmanın formülü:   
 1. Keyifle çalışabilmek için sağlık.   
 2. Zorluklara karşı savaşabilmek için güç.   
 3. Hataları kabul etmek ve affetmek için kapasite.   
 4. Hedefe ulaşabilmek için sabır.   
-5. Başkalarına faydalı olabilmek için sevgi.
+5. Başkalarına faydalı olabilmek için sevgi.  
 
-*>_ muthispsikoloji - Twitter* (2020-08-05 11:22:05)
+> muthispsikoloji - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+geriye baktiginizda bunlar perspektifde kayboluyor.  
 
----
-
-geriye baktiginizda bunlar perspektifde kayboluyor.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
 ey tepenin uzerinde tek gozle varolanlar,  
 bagirlarinda eceli gelmemis acilari saklayanlar,  
 dusmeyi kolaylastiranlar,  
 size sesleniyorum,  
-~gecenin alevine gelsin. the call of ktulu
+~gecenin alevine gelsin. the call of ktulu  
 
-*>_ corvusunaname - Twitter* (2020-08-05 11:22:05)
+> corvusunaname - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Evet belki ceviri hatali ama kazara cikan manayi daha cok begendim. "Tek (yetkili olmak iddiasindaki) bir tanriyi yanlislarimla ve (onun ihmal ve takdirinden dogan) yanlislarla yargilayabilirim". Theodicy probleminin guzel bir ozeti  
 
----
+> otisaga - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-Evet belki ceviri hatali ama kazara cikan manayi daha cok begendim. "Tek (yetkili olmak iddiasindaki) bir tanriyi yanlislarimla ve (onun ihmal ve takdirinden dogan) yanlislarla yargilayabilirim". Theodicy probleminin guzel bir ozeti
+eskiye dair hicbir sey bugunden daha guzel degildi buna emin olun. o devirlerde yasamak istemezdiniz. sizi heyecanlandiran kisimlari sadece girmek istedikleriniz.   
 
-*>_ otisaga - Twitter* (2020-08-05 11:22:05)
+> mserdark - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Eskilerin sevgiliyi övmek için kullandıkları bir tabir "furûğan furûğ" yani "ışıklar ışığı”.  
 
----
+> Twitter (2020-08-05 11:22:05)  
+  
+--
 
-eskiye dair hicbir sey bugunden daha guzel degildi buna emin olun. o devirlerde yasamak istemezdiniz. sizi heyecanlandiran kisimlari sadece girmek istedikleriniz. 
+Ersin Tezcan tarafından 1997'de yazılan ''E'siz Potkal'' isimli kitapta hiç "e" harfi kullanılmamıştır. Daha ilginci ise kitabı 1997'de ''E Yayınları'' basmıştır.  
 
-*>_ mserdark - Twitter* (2020-08-05 11:22:05)
+> Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+En kisa misram sen oldun  
 
----
+> Yedi Güzel Adam (2020-08-05 11:22:05)  
+  
+--
 
-Eskilerin sevgiliyi övmek için kullandıkları bir tabir "furûğan furûğ" yani "ışıklar ışığı”.
+En iyi fikirler zihnin en rahat ve az calistigi zamanlarda beliriyor.  
 
-*>_ Twitter* (2020-08-05 11:22:05)
+> seyyahil - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+elestirdigin duzenin bozulmamasi icin ilginc bir gosteri  
 
----
+> pskoljkaforizma - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-Ersin Tezcan tarafından 1997'de yazılan ''E'siz Potkal'' isimli kitapta hiç "e" harfi kullanılmamıştır. Daha ilginci ise kitabı 1997'de ''E Yayınları'' basmıştır.
+Eğitimsiz bünyede ideoloji, benlik kaybına yol açar.  
 
-*>_ Twitter* (2020-08-05 11:22:05)
+> azyazarozyazarr - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Dünyada 'sanmaktan' hüzünlü fiil yok...  
 
----
+> pervinkuten - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-En kisa misram sen oldun
+donemeyecegini biliyordu, boylece kosmaya devam etti. ~Charizard Farewell  
 
-*>_ Yedi Güzel Adam* (2020-08-05 11:22:05)
+> Pokemon (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Dogal secilimin isini yapmasina izin verin.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-En iyi fikirler zihnin en rahat ve az calistigi zamanlarda beliriyor.
+Devrimin fotoğrafı demiştim. Hiçbir devrim yürüyüşünün yolunda lalezarlar, gül bahçeleri olmaz. Deve dikenleri, kesici can yakıcı taşlar olur. Biz o yolu hep beraber yürüyüp "Rubicon'u hep beraber geçeceğiz”  
 
-*>_ seyyahil - Twitter* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Deveye demisler boynun egri, deve Demis im tired of the society s unrealistik beauty standarts  
 
----
+> ceytengri - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-elestirdigin duzenin bozulmamasi icin ilginc bir gosteri
+Kotuledigimiz seylere belki de hasretizdir?  
 
-*>_ pskoljkaforizma - Twitter* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Cunku normalde de'leri ayri yazmayi tercih etmiyor  
 
----
+> metcihan - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-Eğitimsiz bünyede ideoloji, benlik kaybına yol açar.
+cinsiyet farketmeksizin hicbir insan baskasiyla esit degildir. esit olmasi gereken sartlar ve haklardir… size dusen benim sartlarimi esitlemek ve haklarimi vermektir, benimle yarismak degil…  
 
-*>_ azyazarozyazarr - Twitter* (2020-08-05 11:22:05)
+> ucupak - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Cilesiz dava olmaz  
 
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-Dünyada 'sanmaktan' hüzünlü fiil yok...
+Çiçek hiçbir iddiada bulunmadan, ben yaptım demeden açar ve bulunduğu yere saf güzelliği getirir. Kendisi giderek yalınlıktan ve özünden uzaklaştırılmış olan insanın bu saflık ve basitlik karşısında derinlere sakladığı temiz duygular yüzeye çıkar. İnsan bu duygulardan korkar…  
 
-*>_ pervinkuten - Twitter* (2020-08-05 11:22:05)
+> glnurgven2 - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Cell phones are tracking and surveillance devices. They all enable the phone system to record where the user goes, and many (perhaps all) can be remotely converted into listening devices.  
 
----
+> Richard Stallman (2020-08-05 11:22:05)  
+  
+--
 
-donemeyecegini biliyordu, boylece kosmaya devam etti. ~Charizard Farewell
+herkes erkin, üzerimizdeki tahakkümün fikrine koşulsuz biat edecekse bu düzen nasıl değişecek? iki kelam etmeyelim mi yani?  
 
-*>_ Pokemon* (2020-08-05 11:22:05)
+> Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Bu yazım tekniğine lipogram deniyormuş. Altar Kaplan'ın da hiç "o" harfi ve "0" rakamı kullanmadan yazdığı Aloda isimli bir kitabı var. Kitapta 3. tekil şahısa, yani ona çıkan tüm yollar kapalı.  
 
----
+> Twitter (2020-08-05 11:22:05)  
+  
+--
 
-Dogal secilimin isini yapmasina izin verin.
+Bosa gecmis bir omrun ozeti  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Bir omur daha lazim bu hayattan sonra, cunku bu omrumuz sadece umid icinde gecti.  
 
----
+> Sadi Sirazi (2020-08-05 11:22:05)  
+  
+--
 
-Devrimin fotoğrafı demiştim. Hiçbir devrim yürüyüşünün yolunda lalezarlar, gül bahçeleri olmaz. Deve dikenleri, kesici can yakıcı taşlar olur. Biz o yolu hep beraber yürüyüp "Rubicon'u hep beraber geçeceğiz”
+Bir misyon ile hareket eden amatorluk  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Bu benim devrimim degil  
 
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-Deveye demisler boynun egri, deve Demis im tired of the society s unrealistik beauty standarts
+üniversitede, en çok sevdiğim hocanın odasındaydım. Bana, "Ne olmak istiyorsun? "dedi. "Entelektüel olmak istiyorum." dedim."Senden entelektüel olmaz" dedi. Şaşırmıştım, sonra, kırılgan bir ses tonuyla; "Dersinizi geçmeme rağmen sürekli dersinizdeyim.Okulda en çok okuyan, araştıran ve tartışmalara giren, hep benim?" dedim. "Senden Entelektüel olmaz"dedi. Çok kızmıştım! "Doç. tezlerin konularını bile ben öneriyorum" dedim. Prof. gülümseyerek geriye yaslandı. Senden çok iyi bir araştırmacı olur. Ama entelektüel olmaz. Nedenine gelince, sana entelektüel olamazsın dediğimde, bana bir Entelektüel gibi "Niçin olmaz?" diye sormadın, aksine alındın ve hiddetlendin.Yazarlık bilgi işidir. Entelektüellik bilgi değil, davranış biçimidir. Bir insanın entelektüel olması için en az 3 kuşak ailesinin okuması gerekir. Okulun önüne bak. Hepsi son model araç dolu ve hocalara ait. Her sene model yenilerler. Gerçekten böyle bir yenilenmeye ihtiyaçları var mı?Niçin bu şekilde yaşıyorlar. Çünkü o ünvanlarla gördüğün hocalarının kariyerleri ne kadar yüksek olursa olsun, ruhları feodal bir köylü. biçimidir.Güçlerini topluma kabul ettirmek için böyle hava atmak zorundalar. Gerçek bir entelektüel asla bu güdüyle hareket etmez. Entel feodal köylülere artık diploma ve ünvan da yetmez. Tıpkı paranın yetmediği gibi.  
 
-*>_ ceytengri - Twitter* (2020-08-05 11:22:05)
+> İlber Ortaylı (2021-11-16 22:01:55)  
+  
+--
 
-tags: general
+İki umudun birbirine değmesi kadar güzel ne ki?  
 
----
+> Nilgün Marmara - Kağıtlar (2020-08-05 11:22:04)  
+  
+--
 
-Kotuledigimiz seylere belki de hasretizdir?
+Dusunceler, iyilesen yaralardir.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:04)  
+  
+--
 
-tags: general
+Yolu zamandan kazanmak icin degil, iyi zaman gecirmek icin kullanirlardi  
 
----
+> Cars (2020-08-05 11:22:04)  
+  
+--
 
-Cunku normalde de'leri ayri yazmayi tercih etmiyor
+Basladigim kitabi, kotu de olsa bitirmek huyundan Fethi Naci’nin bir sozu sayesinde kurtuldum: "Karpuzu kestin, baktin ki kabak. Gene de zorla yiyecek misin o karpuzu?”  
 
-*>_ metcihan - Twitter* (2020-08-05 11:22:05)
+> Mina Urgan - Bir Dinozorun Anilari (2020-08-05 11:22:04)  
+  
+--
 
-tags: general
+Her insan kendisinde olmayanı sever  
 
----
+> Unknown (2020-08-05 11:22:04)  
+  
+--
 
-cinsiyet farketmeksizin hicbir insan baskasiyla esit degildir. esit olmasi gereken sartlar ve haklardir… size dusen benim sartlarimi esitlemek ve haklarimi vermektir, benimle yarismak degil…
+Mantıkla beslenmeyen şey mantıkla yönetilemez.  
 
-*>_ ucupak - Twitter* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:04)  
+  
+--
 
-tags: general
+Sevdiği yazarların kitaplarını ezberlemek gibi bir huyu vardı. Hala böyle insanlar vardı yani. Muadili olmayan insanlar. Yaptığı iyiliği karşı tarafın gözüne sokmaya çalışmayan insanlar… Şimdi biraz adama benzemişsin, dedi. Bir insan rolü için başvursan ve şansın yaver gitse, belki bir figüranlık kapabilirsin.  
 
----
+> Paul Auster - Köşeye Kıstırmak (2020-08-05 11:22:05)  
+  
+--
 
-Cilesiz dava olmaz
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Donald E. Knuth (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+"Hiçbir şey kendini kandırmaktan daha kolay değildir:Çünkü neye gönül vermişsek tam da ona inanırız."[3:19]  
 
----
+> Demosthenes - Olynthiakos (2020-08-05 11:22:05)  
+  
+--
 
-Çiçek hiçbir iddiada bulunmadan, ben yaptım demeden açar ve bulunduğu yere saf güzelliği getirir. Kendisi giderek yalınlıktan ve özünden uzaklaştırılmış olan insanın bu saflık ve basitlik karşısında derinlere sakladığı temiz duygular yüzeye çıkar. İnsan bu duygulardan korkar…
+Peki ama siz nesiniz? Sorunun özü burada. Kendiniz olmaktan anladığınız ne, varlığınızın hangi parçalarını kendiniz oluşturdunuz?  
 
-*>_ glnurgven2 - Twitter* (2020-08-05 11:22:05)
+> Boris Pasternak - Doktor Jivago (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Better to shit yourself than to be forever constipated  
 
----
+> Heavy Trip (2020-08-05 11:22:05)  
+  
+--
 
-Cell phones are tracking and surveillance devices. They all enable the phone system to record where the user goes, and many (perhaps all) can be remotely converted into listening devices.
+Kendin ne kadar azalırsan, o kadar çoğa sahip olursun.  
 
-*>_ Richard Stallman* (2020-08-05 11:22:05)
+> Karl Marx - 1844 El Yazmaları (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Yuregin kederinden ruh parcalanir  
 
----
+> SØren Kierkegaard - Meseller (2020-08-05 11:22:05)  
+  
+--
 
-herkes erkin, üzerimizdeki tahakkümün fikrine koşulsuz biat edecekse bu düzen nasıl değişecek? iki kelam etmeyelim mi yani?
+ruhu yanik yaralariyla doludur.  
 
-*>_ Twitter* (2020-08-05 11:22:05)
+> Knut Hamsun - Aclik (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Ya bu ışığı herkese saç ya da bırak dünya karanlık kalsın.  
 
----
+> Ayla Kutlu - Mekruh Kadınlar Mezarlığı (2020-08-05 11:22:05)  
+  
+--
 
-Bu yazım tekniğine lipogram deniyormuş. Altar Kaplan'ın da hiç "o" harfi ve "0" rakamı kullanmadan yazdığı Aloda isimli bir kitabı var. Kitapta 3. tekil şahısa, yani ona çıkan tüm yollar kapalı.
+…Ruhunu şeytana sattığı iddia edilen, insanüstü konçertolar sahibi, anomali şahsiyet Paganini…  
 
-*>_ Twitter* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+"eger bir yola cikiyorsan inancini da yanina almalisin."  
 
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-Bosa gecmis bir omrun ozeti
+"sürekli gözetleme ahlak değil ikiyüzlülük getirir."  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+"Fear of Feelings” [Duygu Korkusu]  
 
----
+> Kaan_H_Okten - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-Bir omur daha lazim bu hayattan sonra, cunku bu omrumuz sadece umid icinde gecti.
+Ütopya, Marx’ın artık Fourier’yi eleştirmediği bir toplumun durumudur.  
 
-*>_ Sadi Sirazi* (2020-08-05 11:22:05)
+> Roland Barthes - Sesin Rengi (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+İnsanlar korkup nefret ettikleri halde kaçınılmaz olduğunu bildikleri şeylerin karşısında, umutlarına ve hayellerine sığınırlar.  
 
----
-
-Bir misyon ile hareket eden amatorluk
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Bu benim devrimim degil
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-üniversitede, en çok sevdiğim hocanın odasındaydım. Bana, "Ne olmak istiyorsun? "dedi. "Entelektüel olmak istiyorum." dedim."Senden entelektüel olmaz" dedi. Şaşırmıştım, sonra, kırılgan bir ses tonuyla; "Dersinizi geçmeme rağmen sürekli dersinizdeyim.Okulda en çok okuyan, araştıran ve tartışmalara giren, hep benim?" dedim. "Senden Entelektüel olmaz"dedi. Çok kızmıştım! "Doç. tezlerin konularını bile ben öneriyorum" dedim. Prof. gülümseyerek geriye yaslandı. Senden çok iyi bir araştırmacı olur. Ama entelektüel olmaz. Nedenine gelince, sana entelektüel olamazsın dediğimde, bana bir Entelektüel gibi "Niçin olmaz?" diye sormadın, aksine alındın ve hiddetlendin.Yazarlık bilgi işidir. Entelektüellik bilgi değil, davranış biçimidir. Bir insanın entelektüel olması için en az 3 kuşak ailesinin okuması gerekir. Okulun önüne bak. Hepsi son model araç dolu ve hocalara ait. Her sene model yenilerler. Gerçekten böyle bir yenilenmeye ihtiyaçları var mı?Niçin bu şekilde yaşıyorlar. Çünkü o ünvanlarla gördüğün hocalarının kariyerleri ne kadar yüksek olursa olsun, ruhları feodal bir köylü. biçimidir.Güçlerini topluma kabul ettirmek için böyle hava atmak zorundalar. Gerçek bir entelektüel asla bu güdüyle hareket etmez. Entel feodal köylülere artık diploma ve ünvan da yetmez. Tıpkı paranın yetmediği gibi.
-
-*>_ İlber Ortaylı* (2021-11-16 22:01:55)
-
-tags: general
-
----
-
-İki umudun birbirine değmesi kadar güzel ne ki?
-
-*>_ Nilgün Marmara - Kağıtlar* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-Dusunceler, iyilesen yaralardir.
-
-*>_ Unknown* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-Yolu zamandan kazanmak icin degil, iyi zaman gecirmek icin kullanirlardi
-
-*>_ Cars* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-Basladigim kitabi, kotu de olsa bitirmek huyundan Fethi Naci’nin bir sozu sayesinde kurtuldum: "Karpuzu kestin, baktin ki kabak. Gene de zorla yiyecek misin o karpuzu?”
-
-*>_ Mina Urgan - Bir Dinozorun Anilari* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-Her insan kendisinde olmayanı sever
-
-*>_ Unknown* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-Mantıkla beslenmeyen şey mantıkla yönetilemez.
-
-*>_ Unknown* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-Sevdiği yazarların kitaplarını ezberlemek gibi bir huyu vardı. Hala böyle insanlar vardı yani. Muadili olmayan insanlar. Yaptığı iyiliği karşı tarafın gözüne sokmaya çalışmayan insanlar… Şimdi biraz adama benzemişsin, dedi. Bir insan rolü için başvursan ve şansın yaver gitse, belki bir figüranlık kapabilirsin.
-
-*>_ Paul Auster - Köşeye Kıstırmak* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil
-
-*>_ Donald E. Knuth* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-"Hiçbir şey kendini kandırmaktan daha kolay değildir:Çünkü neye gönül vermişsek tam da ona inanırız."[3:19]
-
-*>_ Demosthenes - Olynthiakos* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Peki ama siz nesiniz? Sorunun özü burada. Kendiniz olmaktan anladığınız ne, varlığınızın hangi parçalarını kendiniz oluşturdunuz?
-
-*>_ Boris Pasternak - Doktor Jivago* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Better to shit yourself than to be forever constipated
-
-*>_ Heavy Trip* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Kendin ne kadar azalırsan, o kadar çoğa sahip olursun.
-
-*>_ Karl Marx - 1844 El Yazmaları* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Yuregin kederinden ruh parcalanir
-
-*>_ SØren Kierkegaard - Meseller* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-ruhu yanik yaralariyla doludur.
-
-*>_ Knut Hamsun - Aclik* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Ya bu ışığı herkese saç ya da bırak dünya karanlık kalsın.
-
-*>_ Ayla Kutlu - Mekruh Kadınlar Mezarlığı* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-…Ruhunu şeytana sattığı iddia edilen, insanüstü konçertolar sahibi, anomali şahsiyet Paganini…
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-"eger bir yola cikiyorsan inancini da yanina almalisin."
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-"sürekli gözetleme ahlak değil ikiyüzlülük getirir."
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-"Fear of Feelings” [Duygu Korkusu]
-
-*>_ Kaan_H_Okten - Twitter* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Ütopya, Marx’ın artık Fourier’yi eleştirmediği bir toplumun durumudur.
-
-*>_ Roland Barthes - Sesin Rengi* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-İnsanlar korkup nefret ettikleri halde kaçınılmaz olduğunu bildikleri şeylerin karşısında, umutlarına ve hayellerine sığınırlar.
-
-*>_ Theodore Dreiser - İnsanlık Suçu* (2021-12-27 18:22:32)
-
-tags: general
-
----
+> Theodore Dreiser - İnsanlık Suçu (2021-12-27 18:22:32)  
+  
+--
 
 - …sonra kendini vurdu.
-- masallah ne mubarek adammis.
+- masallah ne mubarek adammis.  
 
-*>_ Let's Sin* (2020-08-05 11:22:04)
+> Let's Sin (2020-08-05 11:22:04)  
+  
+--
 
-tags: general
+Hukumette tanidigim olsa niye kredi cekmekten utanayim?  
 
----
-
-Hukumette tanidigim olsa niye kredi cekmekten utanayim?
-
-*>_ Let's Sin* (2020-08-05 11:22:04)
-
-tags: general
-
----
+> Let's Sin (2020-08-05 11:22:04)  
+  
+--
 
 -Şiir yazdığını bilmiyordum…  
 +Sen her konuda sert bir eleştirmensin. Şiirlerim henüz o kadar iyi değil. 
 -Objektif bir değerlendirme yapardım.   
-+Objektif değerlendirme istemiyorum, sadece biraz destekleyici sözler bekliyorum.
++Objektif değerlendirme istemiyorum, sadece biraz destekleyici sözler bekliyorum.  
 
-*>_ Woody Allen - Husbands and Wives, 1992* (2020-08-05 11:22:04)
+> Woody Allen - Husbands and Wives, 1992 (2020-08-05 11:22:04)  
+  
+--
 
-tags: general
+Güneş hala parıldıyor. güneşi cebimden çıkartıp, üzerindeki çiği temizleyip tozunu aldıktan sonra öğle vaktinde olması gereken yere yerleştiriyorum.  
 
----
+> Angels of the Universe (2020-08-05 11:22:04)  
+  
+--
 
-Güneş hala parıldıyor. güneşi cebimden çıkartıp, üzerindeki çiği temizleyip tozunu aldıktan sonra öğle vaktinde olması gereken yere yerleştiriyorum.
+Yani ben de yanlızlığımı yaşarken rüyalarımda lemür sürülerini görüyorum ama intihardan vazgeçiremiyorum saçlarımı da dökemedim ama beyazladı.  
 
-*>_ Angels of the Universe* (2020-08-05 11:22:04)
+> 645 (2020-08-05 11:22:04)  
+  
+--
 
-tags: general
+Bütün büyük olayların, büyük düşüncelerin önemsiz bir başlangıcı vardır.  
 
----
-
-Yani ben de yanlızlığımı yaşarken rüyalarımda lemür sürülerini görüyorum ama intihardan vazgeçiremiyorum saçlarımı da dökemedim ama beyazladı.
-
-*>_ 645* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-Bütün büyük olayların, büyük düşüncelerin önemsiz bir başlangıcı vardır.
-
-*>_ Albert Camus* (2020-08-05 11:22:04)
-
-tags: general
-
----
+> Albert Camus (2020-08-05 11:22:04)  
+  
+--
 
 - Geceyi neyin aydınlattığını biliyor musunuz?   
 + Şiir
 - Dininiz nedir?   
-+ Vicdanın telkinine inanırım
++ Vicdanın telkinine inanırım  
 
-*>_ Alphaville* (2020-08-05 11:22:04)
+> Alphaville (2020-08-05 11:22:04)  
+  
+--
 
-tags: general
+Bir dinleri oldugu icin ahlaka ihtiyaci kalmamis gibi davraniyorular.  
 
----
+> Amin Maalouf (2020-08-05 11:22:04)  
+  
+--
 
-Bir dinleri oldugu icin ahlaka ihtiyaci kalmamis gibi davraniyorular.
+Anarsizm tamamen karsilikli yardimlasma ve gonullu birliktelige dayali bir toplum tahayyul eder. Anarsistler sanilanin aksine kaosa, gelip gecicilige inanmaz; asla ‘ne olursa olsun’ tutumunda degildirler.  
 
-*>_ Amin Maalouf* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-Anarsizm tamamen karsilikli yardimlasma ve gonullu birliktelige dayali bir toplum tahayyul eder. Anarsistler sanilanin aksine kaosa, gelip gecicilige inanmaz; asla ‘ne olursa olsun’ tutumunda degildirler.
-
-*>_ Brian Morris - Antropoloji, Ekoloji ve Anarsizm* (2020-08-05 11:22:04)
-
-tags: general
-
----
+> Brian Morris - Antropoloji, Ekoloji ve Anarsizm (2020-08-05 11:22:04)  
+  
+--
 
 - Ben kimseyi oldurmedim
-- Ben de hep istemeden oldurdum
+- Ben de hep istemeden oldurdum  
 
-*>_ Askin Goren Gozlere Ihtiyaci Yok* (2020-08-05 11:22:04)
+> Askin Goren Gozlere Ihtiyaci Yok (2020-08-05 11:22:04)  
+  
+--
 
-tags: general
+Butun katiller kacar.  
 
----
+> Askin Goren Gozlere Ihtiyaci Yok (2020-08-05 11:22:04)  
+  
+--
 
-Butun katiller kacar.
+... sosyal medya bir avuç başarılı insanın sabah akşam şov yaptığı, kalanların kendini yetersiz/başarısız hissettiği bir yer çünkü...  
 
-*>_ Askin Goren Gozlere Ihtiyaci Yok* (2020-08-05 11:22:04)
-
-tags: general
-
----
-
-... sosyal medya bir avuç başarılı insanın sabah akşam şov yaptığı, kalanların kendini yetersiz/başarısız hissettiği bir yer çünkü...
-
-*>_ erkan_erol_ - Twitter* (2020-08-05 11:22:04)
-
-tags: general
-
----
+> erkan_erol_ - Twitter (2020-08-05 11:22:04)  
+  
+--
 
 kac kez geri doner evine  
 yeni gomulen bir olu  
 nasil sigacakti ki mezara  
-kanatlari acikken olen kuslar.
+kanatlari acikken olen kuslar.  
 
-*>_ Elif Karik* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Elif Karik (2020-08-05 11:22:05)  
+  
+--
 
 Anadolu'da bir köy mezarlığına gömün beni   
 ...  
 tepemde bir de çınar olursa  
-taş maş da istemez hani...
+taş maş da istemez hani...  
 
-*>_ Nazım Hikmet - Vasiyet* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Nazım Hikmet - Vasiyet (2020-08-05 11:22:05)  
+  
+--
 
 Time is just a concept  
 And always the first thing to fade  
@@ -2994,134 +2434,104 @@ Nothing we can never evade
 Years are cruel, they break us  
 Bringing on decay and despair  
 Awareness and perception  
-Something we can never repair
+Something we can never repair  
 
-*>_ Epica - Unleashed* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Epica - Unleashed (2020-08-05 11:22:05)  
+  
+--
 
 -bu calan nedir? 
 -edith piaf diye bir kadin. 
 -ne anlatiyor bu sarkida? 
 -ne kadar sevdigini… ama terk edilmis. hep hayal kirikligi yasamis. 
--bunu bir sure daha dinlersek, almanlarin beni oldurmesi gerekmeyecek. 
+-bunu bir sure daha dinlersek, almanlarin beni oldurmesi gerekmeyecek.   
 
-*>_ Er Ryan’i Kurtarmak* (2020-08-05 11:22:05)
+> Er Ryan’i Kurtarmak (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Gidip hangi silahim agzima daha iyi oturuyor bakayim.  
 
----
-
-Gidip hangi silahim agzima daha iyi oturuyor bakayim.
-
-*>_ F is for Family* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> F is for Family (2020-08-05 11:22:05)  
+  
+--
 
 - Forrest, sen büyüyünce ne olacaksın?  
-+ Nasıl yani? Ben büyüyünce ben olmayacak mıyım?
++ Nasıl yani? Ben büyüyünce ben olmayacak mıyım?  
 
-*>_ Forrest Gump* (2020-08-05 11:22:05)
+> Forrest Gump (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Artik kendi evrimimizi yonetebilecegimiz bir noktaya evrildik. Bu bilgiyi daha once edinmis olsaydik, su insanlar hicbir zaman dogamayabilirdi.  
 
----
+> Gattaca (2020-08-05 11:22:05)  
+  
+--
 
-Artik kendi evrimimizi yonetebilecegimiz bir noktaya evrildik. Bu bilgiyi daha once edinmis olsaydik, su insanlar hicbir zaman dogamayabilirdi.
+Bir insanı iradesi dışında kurtarmak onu öldürmekle aynıdır.  
 
-*>_ Gattaca* (2020-08-05 11:22:05)
+> Horatius (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Evrimin doğruluğunu bilmek ve göstermek için, bu konuda uzman biri olmayan Atatürk’e ihtiyacımız olmadığı gibi, Atatürk’ün (veya bu sahanın uzmanı olmayan herhangi bir diğer şahsın) bilimsel bir gerçeği kabulü veya reddinin bilim açısından herhangi bir değeri ve önemi yoktur.  
 
----
+> evrimagaci.org - Atatürk ve Evrim (2020-08-05 11:22:05)  
+  
+--
 
-Bir insanı iradesi dışında kurtarmak onu öldürmekle aynıdır.
+merry crisis and a happy new fear  
 
-*>_ Horatius* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Kelimelerin ete kemiğe bürünüp hayatları yolundan saptırdığı, gecelerin olağan gece-gündüz döngüsünü altüst ettiği, pencerelerden atılan bakışların proleter bedenlerin bölünmesine neden olduğu, heykellerin tahrip edildiği, bitli çocukların ya da maskaralık peşinde koşan soytarıların yeni bir güzellik yarattığı, cahillerin harfler karşısında el yordamıyla yol alışlarının zekâya dayalı başka bir hayat tanımladığı serüvenler. Tüm bu serüvenlerde, hiçbir şey olmayanların her şey haline geldiği devrime dair hep aynı araştırma devam ediyor.  
 
----
-
-Evrimin doğruluğunu bilmek ve göstermek için, bu konuda uzman biri olmayan Atatürk’e ihtiyacımız olmadığı gibi, Atatürk’ün (veya bu sahanın uzmanı olmayan herhangi bir diğer şahsın) bilimsel bir gerçeği kabulü veya reddinin bilim açısından herhangi bir değeri ve önemi yoktur.
-
-*>_ evrimagaci.org - Atatürk ve Evrim* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-merry crisis and a happy new fear
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Kelimelerin ete kemiğe bürünüp hayatları yolundan saptırdığı, gecelerin olağan gece-gündüz döngüsünü altüst ettiği, pencerelerden atılan bakışların proleter bedenlerin bölünmesine neden olduğu, heykellerin tahrip edildiği, bitli çocukların ya da maskaralık peşinde koşan soytarıların yeni bir güzellik yarattığı, cahillerin harfler karşısında el yordamıyla yol alışlarının zekâya dayalı başka bir hayat tanımladığı serüvenler. Tüm bu serüvenlerde, hiçbir şey olmayanların her şey haline geldiği devrime dair hep aynı araştırma devam ediyor.
-
-*>_ Jacques Rancière - Kurmacanın Kıyıları* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Jacques Rancière - Kurmacanın Kıyıları (2020-08-05 11:22:05)  
+  
+--
 
 Forth Eorlingas  
 Rohirrim! To the King!  
 Hope is kindled  
-Many of these trees were my friends
+Many of these trees were my friends  
 
-*>_ Lord of the Rings* (2022-04-16 23:44:19)
-
-tags: general
-
----
+> Lord of the Rings (2022-04-16 23:44:19)  
+  
+--
 
 Turkiye'de garip bir durum var, herkesin fotografci olmasi gibi, ayfondan sonra herkesin sinemaci olmasi gibi herkes yazar. Bizim yayinevine gunde 8 dosya geliyor ve bugune kadar, yani 25 yil icerisinde yayinevine gelen dosyalardan bastigimiz kitap sayisi uc. Burada cok karakteristik seyler var, Bukowski populer oldugunda butun dosyalar Bukowski dosyasi oluyor... Paul auster populer oluyor, butun dosyalarda kirmizi defterler gecmeye basliyor. Bir baska nokta da OKUMADAN YAZAMAZSINIZ YASLANMADAN DA YAZAMAZSINIZ COK OLAGANUSTU BIR YETENEGINIZ YOKSA YA DA COK OLAGANUSTU BIR ACIYLA BUYUMEDIYSENIZ YASLANMADAN YAZAMAZSINIZ YAZAR OLAMAZSINIZ... TURKIYE'DE EN AZ SATILAN SEY SIIR KITABIDIR  
-EN COK YAZILAN SEY DE SIIR KITABIDIR.… Brautigan okudunuz mu bilmiyorum, orada bir kaybeden kutuphanesi vardir. Aslinda olmasi gereken sey de bu. Herkesin kitabini yazip olu bir kutuphanenin bir rafini secip oraya birakmasi. Aslinda kitap yazmak da biraz budur.
+EN COK YAZILAN SEY DE SIIR KITABIDIR.… Brautigan okudunuz mu bilmiyorum, orada bir kaybeden kutuphanesi vardir. Aslinda olmasi gereken sey de bu. Herkesin kitabini yazip olu bir kutuphanenin bir rafini secip oraya birakmasi. Aslinda kitap yazmak da biraz budur.  
 
-*>_ Kaan Çaydamlı* (2020-08-05 11:22:05)
+> Kaan Çaydamlı (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Yakinda her seyin bir dijital ikizi olacak  
 
----
+> Kevin Kelly (2020-08-05 11:22:05)  
+  
+--
 
-Yakinda her seyin bir dijital ikizi olacak
+kendimi öldürüyorum çünkü beni sevmediniz. çünkü sizleri sevmedim. çünkü bağlarımız çok gevşekti. bağlarımız güçlensin diye kendimi öldürüyorum. sizi silinmez bir lekeyle baş başa bırakıyorum. (1963)  
 
-*>_ Kevin Kelly* (2020-08-05 11:22:05)
+> Le feu follet (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Belki de bize en yakin sey olum; fakat bu beni korkutmuyor, hakli olan her sey icin savasmaya devam edecegiz.  
 
----
+> Maria Teresa Mirabel (2020-08-05 11:22:05)  
+  
+--
 
-kendimi öldürüyorum çünkü beni sevmediniz. çünkü sizleri sevmedim. çünkü bağlarımız çok gevşekti. bağlarımız güçlensin diye kendimi öldürüyorum. sizi silinmez bir lekeyle baş başa bırakıyorum. (1963)
+Eve gelip kiz isteyen biri kesinlilkle sapik olabilir  
 
-*>_ Le feu follet* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Belki de bize en yakin sey olum; fakat bu beni korkutmuyor, hakli olan her sey icin savasmaya devam edecegiz.
-
-*>_ Maria Teresa Mirabel* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Eve gelip kiz isteyen biri kesinlilkle sapik olabilir
-
-*>_ Mutlu Ol Yeter - S01E07* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Mutlu Ol Yeter - S01E07 (2020-08-05 11:22:05)  
+  
+--
 
 13 Ekim 1987 Salı
 
@@ -3138,13 +2548,11 @@ Hoşçakalın!
 P.S.1 Cenaze töreni istemiyorum, mümkünse yakınız lütfen!  
 P.S.2 Kuşlar ölünceye kadar iyi bakınız onlara.  
 P.S.3 Sahneden çekilirken yaşamıma karışmış herkesi selamlıyorum.  
-P.S.4 Kağan arzu ederse ileride, daktiloya çekilmiş şiirleri bastırabilirsin
+P.S.4 Kağan arzu ederse ileride, daktiloya çekilmiş şiirleri bastırabilirsin  
 
-*>_ Nilgun Marmara* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Nilgun Marmara (2020-08-05 11:22:05)  
+  
+--
 
 NK: genclerden umudunuz yok mu?  
 AG: 100 uzerinden 0.5 var diyelim.  
@@ -3161,202 +2569,156 @@ AG: hayir
 NK: peki biz ne yapacagiz?   
 AG: olecegiz ulan!
 
-NK: Nurhak Kaya, AG: Ara Guler
+NK: Nurhak Kaya, AG: Ara Guler  
 
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
 -kitap okuyor musunuz bay anderson?  
 +okumuyorum, eksikligini de hissetmiyorum!
--ama biz hissediyoruz!
+-ama biz hissediyoruz!  
 
-*>_ Ölü Ozanlar Derneği* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Ölü Ozanlar Derneği (2020-08-05 11:22:05)  
+  
+--
 
 - Cumartesi akşamı ne yapacaksın?  
 + İntihar edeceğim.
-- Cuma akşamı?
+- Cuma akşamı?  
 
-*>_ Woody Allen - Play it Again, Sam, 1972* (2020-08-05 11:22:05)
+> Woody Allen - Play it Again, Sam, 1972 (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+-…size sorayim dedim, geldim ki siz de olmussunuz…  
 
----
-
--…size sorayim dedim, geldim ki siz de olmussunuz…
-
-*>_ Let's Sin* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Let's Sin (2020-08-05 11:22:05)  
+  
+--
 
 -All right, here's a useful lesson for you. Give up. Just quit. Because in this life, you can't win. Yeah, you can try, but in the end you're just gonna lose, big time, because the world is run by The Man. 
 -Who? 
--The Man. Oh, you don't know The Man? Well, he's everywhere. In the White House, down the hall. Miss Mullins, she's The Man. And The Man ruined the ozone, and he's burning down the Amazon, and he kidnapped Shamu and put her in a chlorine tank. There used to be a way to stick it to The Man. It was called rock 'n' roll. But guess what. Oh, no. The Man ruined that, too, with a little thing called MTV! So don't waste your time trying to make anything cool or pure or awesome. The Man's just gonna call you a fat, washed-up loser and crush your soul. So do yourselves a favour and just give up!
+-The Man. Oh, you don't know The Man? Well, he's everywhere. In the White House, down the hall. Miss Mullins, she's The Man. And The Man ruined the ozone, and he's burning down the Amazon, and he kidnapped Shamu and put her in a chlorine tank. There used to be a way to stick it to The Man. It was called rock 'n' roll. But guess what. Oh, no. The Man ruined that, too, with a little thing called MTV! So don't waste your time trying to make anything cool or pure or awesome. The Man's just gonna call you a fat, washed-up loser and crush your soul. So do yourselves a favour and just give up!  
 
-*>_ School of Rock* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> School of Rock (2020-08-05 11:22:05)  
+  
+--
 
 -cezalandiriliyor muyum ? kotuluk mu yaptim?
 -kotuluk diye bir sey yoktur.
 -iyilik olmayan sey.
--iyilik ve kotuluk masaldan ibarettir. bir suru hayvanin hayatta kalma stratejisinden fazlasi olmayan bir seye duygusal onem verecek sekilde evrildik. faydayi ilahilikle donatmaya kosullandik. iyilik iyi degil, kotuluk yanlis degil dipler guzel degil.
+-iyilik ve kotuluk masaldan ibarettir. bir suru hayvanin hayatta kalma stratejisinden fazlasi olmayan bir seye duygusal onem verecek sekilde evrildik. faydayi ilahilikle donatmaya kosullandik. iyilik iyi degil, kotuluk yanlis degil dipler guzel degil.  
 
-*>_ Sherlock* (2020-08-05 11:22:05)
+> Sherlock (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+konusmayi kes, beni varligindan haberdar ediyor.  
 
----
+> Sherlock - S04E02 (2020-08-05 11:22:05)  
+  
+--
 
-konusmayi kes, beni varligindan haberdar ediyor.
+kalbinizi bir kez actiysaniz bir daha kapatamazsiniz  
 
-*>_ Sherlock - S04E02* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-kalbinizi bir kez actiysaniz bir daha kapatamazsiniz
-
-*>_ Sherlock - S04E02* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Sherlock - S04E02 (2020-08-05 11:22:05)  
+  
+--
 
 - it is understandable. 
-- is it? why? Why is it understandable? Why does everything have to be understandable? Why cant some things be unacceptable and we just say that?
+- is it? why? Why is it understandable? Why does everything have to be understandable? Why cant some things be unacceptable and we just say that?  
 
-*>_ Sherlock* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Sherlock (2020-08-05 11:22:05)  
+  
+--
 
 -sana soylemem gereken bir sey var. 
 -iyi bir sey mi? 
 -tam olarak degil. 
 -o zaman bekleyebilir. 
 -ne kadar bekleyebilir 
--sonsuza kadar.
+-sonsuza kadar.  
 
-*>_ Winnie the pooh* (2020-08-05 11:22:05)
-
-tags: general
-
----
+> Winnie the pooh (2020-08-05 11:22:05)  
+  
+--
 
 "at the end of this course, students will be able to…”  
 socrates: "…know that they know nothing”  
-education administrator: "im sorry, but that is not a measurable learning outcome”
+education administrator: "im sorry, but that is not a measurable learning outcome”  
 
-*>_ apollodorus9 - Twitter* (2020-08-05 11:22:05)
+> apollodorus9 - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Bazı tanımlama biçimlerin hoşuma gidiyor. Kısa, öz ve de yoz.  
 
----
+> Woody Allen (2020-08-05 11:22:05)  
+  
+--
 
-Bazı tanımlama biçimlerin hoşuma gidiyor. Kısa, öz ve de yoz.
+Duvarda her zaman kaçabileceğimiz, imkansızın da içeri süzülebileceği delikler vardır.  
 
-*>_ Woody Allen* (2020-08-05 11:22:05)
+> Siegfried Kracauer - Tarih Sondan Bir Önceki Şeyler (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Nasil olmaniz gerektigi soyleniyor  
 
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-Duvarda her zaman kaçabileceğimiz, imkansızın da içeri süzülebileceği delikler vardır.
+Orhan Veli'nin şiirlerinin telifini almış YK yayınları. Pes ki ne pes. Veli şiirlerinin meta olduğunu bilseydi yazmazdı.  
 
-*>_ Siegfried Kracauer - Tarih Sondan Bir Önceki Şeyler* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Acıyı beyin kontrol eder. Korkuyu, empatiyi, uykuyu, öfkeyi, açlığı, her şeyi beyin kontrol eder. Beyni kontrol edebilseydin, yeniden bir insan yaratırdın. Böylece acı hissetmezdi ya da sevgiyi, şefkati. Hatırası olmadığı için sorgulanamayacak bir insan olurdu.  
 
----
+> Shutter Island (2020-08-05 11:22:05)  
+  
+--
 
-Nasil olmaniz gerektigi soyleniyor
+Freud pek çok yazısı ve konuşmasında kekemeliğin gerçek nedeninin evdeki baba otoritesi ve despotluğu olduğunu söyler. Ama dönüp kendi çocuklarını ya görmez ya görmezlikten gelir. 6 çocuğu vardır altısının da kekemelikleri ciddi boyuttadır  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Serol Teber (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Abdülhak Şinasi Hisar'ın dediği gibi, "İnsanlar, birbirlerinden uzun mesafelerle ayrılmış yıldızlar gibi, kendi hususi boşlukları içinde dönen, hepsi yalnız, hepsi mahrem ve başkalarına kapalı birer dünyadır. Bir yıldız sönünce ondan uzaktakiler bir şey duymaz. Hayatın ve ölümün ehemmiyeti hep nisbi(göreceli) ve izafidir. Bizim için ölüm, yani kendi dünyamızın ölümü kainatın en mühim hadisesidir. Fakat yakın kapı komşumuz için bizim ölümümüz pek küçük bir şeydir. Hele bizi tanımayan, bizim memleketimizde, kıtamızda oturmayan bir yabancı için nedir? Cidden hiçbir şey!”  
 
----
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-Orhan Veli'nin şiirlerinin telifini almış YK yayınları. Pes ki ne pes. Veli şiirlerinin meta olduğunu bilseydi yazmazdı.
+Ahlaksal olay yoktur, yalnızca olayların ahlaksal yorumu vardır.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+Always be curious, never stop learning and keep sharing. Because harder to change legacy code is legacy people  
 
----
+> jessitron - Twitter (2020-08-05 11:22:05)  
+  
+--
 
-Acıyı beyin kontrol eder. Korkuyu, empatiyi, uykuyu, öfkeyi, açlığı, her şeyi beyin kontrol eder. Beyni kontrol edebilseydin, yeniden bir insan yaratırdın. Böylece acı hissetmezdi ya da sevgiyi, şefkati. Hatırası olmadığı için sorgulanamayacak bir insan olurdu.
+Aynı şekilde, Nurullah Ataç da hiç "ve" bağlacı kullanmamıştır.  
 
-*>_ Shutter Island* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+  
+--
 
-tags: general
+BASS IT UP  
 
----
+> School of Rock (2020-08-05 11:22:05)  
+  
+--
 
-Freud pek çok yazısı ve konuşmasında kekemeliğin gerçek nedeninin evdeki baba otoritesi ve despotluğu olduğunu söyler. Ama dönüp kendi çocuklarını ya görmez ya görmezlikten gelir. 6 çocuğu vardır altısının da kekemelikleri ciddi boyuttadır
+insanin coktan kaybettigini anladigi an hissettigi rahatlama  
 
-*>_ Serol Teber* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Abdülhak Şinasi Hisar'ın dediği gibi, "İnsanlar, birbirlerinden uzun mesafelerle ayrılmış yıldızlar gibi, kendi hususi boşlukları içinde dönen, hepsi yalnız, hepsi mahrem ve başkalarına kapalı birer dünyadır. Bir yıldız sönünce ondan uzaktakiler bir şey duymaz. Hayatın ve ölümün ehemmiyeti hep nisbi(göreceli) ve izafidir. Bizim için ölüm, yani kendi dünyamızın ölümü kainatın en mühim hadisesidir. Fakat yakın kapı komşumuz için bizim ölümümüz pek küçük bir şeydir. Hele bizi tanımayan, bizim memleketimizde, kıtamızda oturmayan bir yabancı için nedir? Cidden hiçbir şey!”
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Ahlaksal olay yoktur, yalnızca olayların ahlaksal yorumu vardır.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Always be curious, never stop learning and keep sharing. Because harder to change legacy code is legacy people
-
-*>_ jessitron - Twitter* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-Aynı şekilde, Nurullah Ataç da hiç "ve" bağlacı kullanmamıştır.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-BASS IT UP
-
-*>_ School of Rock* (2020-08-05 11:22:05)
-
-tags: general
-
----
-
-insanin coktan kaybettigini anladigi an hissettigi rahatlama
-
-*>_ Pasif Agresif* (2020-08-05 11:22:07)
-
-tags: general
-
+> Pasif Agresif (2020-08-05 11:22:07)  
+  

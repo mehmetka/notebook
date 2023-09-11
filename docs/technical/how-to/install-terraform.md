@@ -1,5 +1,5 @@
 ---
-tags: [how-to, technical]
+tags: [how-to]
 ---
 
 # Install Terraform on Mac
@@ -15,9 +15,8 @@ Create your working directory, for example “terraform”
 mkdir terraform  
 cd terraform  
 terraform init  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:07:34)
-
-tags: how-to, technical
+> Unknown (2022-08-13 21:07:34)  
+> #how-to
 

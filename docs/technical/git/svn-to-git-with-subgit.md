@@ -1,22 +1,22 @@
 ---
-tags: [git, technical]
+tags: [git]
 ---
 
 # SVN to Git with Subgit for macOS
 
 ## Subgit installation  
 ```  
-$ brew install subgit  
+brew install subgit  
 ```
 
 ## Prerequisites  
 ```  
-$ mkdir repository-name && cd repository-name  
+mkdir repository-name && cd repository-name  
 ```
 
 ## Prepare Git repository  
 ```  
-$ subgit configure --layout auto --trunk ${trunkName} ${your-svn-host} .git  
+subgit configure --layout auto --trunk ${trunkName} ${your-svn-host} .git  
 ```
 
 ## Subgit configurations
@@ -26,27 +26,26 @@ $ subgit configure --layout auto --trunk ${trunkName} ${your-svn-host} .git
 
 ## Start to convert  
 ```  
-$ subgit install .git  
+subgit install .git  
 ```
 
 ## After converting done  
 If you get this error: "fatal: this operation must be run in a work tree" then run
 
-	```  
-	$ git config --unset core.bare  
-	```
+```  
+git config --unset core.bare  
+```
 
 ## Send to remote  
 ```  
-$ git remote add origin ${remote-address}  
-$ git push origin master  
+git remote add origin ${remote-address}  
+git push origin master  
 ```
 
 ## References
 - https://support.tmatesoft.com/t/cannot-commit-timeout-waiting-for-pid-file/2410
-- https://subgit.com/documentation/howto.html
+- https://subgit.com/documentation/howto.html  
 
-*>_ Unknown* (2022-08-13 21:01:32)
-
-tags: git, technical
+> Unknown (2022-08-13 21:01:32)  
+> #git
 

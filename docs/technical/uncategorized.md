@@ -1,22 +1,68 @@
 ---
-tags: [funny, golang, http, mkdocs, nextjs, technical]
+tags: [aws, cron, funny, golang, htaccess, http, linux, mkdocs, nextjs]
 ---
 
-# uncategorized
+- When you get "sh: Operation not permitted" error while trying to run shell script on cron https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/  
 
-#ERR_OSSL_EVP_UNSUPPORTED  
+> Unknown (2022-08-13 21:10:58)  
+  
+--
+
+## ERR_OSSL_EVP_UNSUPPORTED
 
 Solution:
 
 ```shell  
 NODE_OPTIONS=--openssl-legacy-provider next build && next export  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:11:34)
+> Unknown (2022-08-13 21:11:34)  
+> #nextjs
 
-tags: nextjs, technical
+--
 
----
+## Block anything except zip files in .htaccess file
+
+```  
+Deny from all
+
+<FilesMatch "\.(zip)$">  
+Order Deny,Allow  
+   Allow from all  
+</FilesMatch>  
+```  
+
+> Unknown (2022-08-13 21:08:42)  
+> #htaccess
+
+--
+
+## Install cron Amazon Linux 2023
+
+```  
+sudo yum install cronie -y  
+sudo systemctl enable crond.service  
+sudo systemctl start crond.service  
+```  
+
+> Unknown (2023-08-31 17:45:56)  
+> #aws #cron #linux
+
+--
+
+## Block all access other than .php, .js, .css extension
+
+```  
+<FilesMatch "\.(?!php|js|css)[^.]+$">  
+    Order allow,deny  
+    Deny from all  
+</FilesMatch>  
+```  
+
+> Unknown (2023-08-22 21:07:14)  
+> #htaccess
+
+--
 
 DRY needs to stop.
 
@@ -33,23 +79,19 @@ Check out:
 • Kent C Dodds - AHA (Avoid hasty abstractions)  
 • Dan Abramov - The WET codebase (Write everything twice)
 
-Before extracting logic, remember: No abstraction > the wrong abstraction
+Before extracting logic, remember: No abstraction > the wrong abstraction  
 
-*>_ Jordan Cutler - Linkedin* (2023-08-18 12:46:16)
+> Jordan Cutler - Linkedin (2023-08-18 12:46:16)  
+  
+--
 
-tags: technical
+Exit code 137 occurs when a process is terminated because it's using too much memory.  
 
----
+> Unknown (2023-08-14 20:16:06)  
+  
+--
 
-Exit code 137 occurs when a process is terminated because it's using too much memory.
-
-*>_ Unknown* (2023-08-14 20:16:06)
-
-tags: technical
-
----
-
-HTTP status codes:
+## HTTP status codes
 
 1xx hold on  
 2xx here you go  
@@ -57,57 +99,51 @@ HTTP status codes:
 4xx you screwed up  
 5xx i screwed up
 
-https://twitter.com/DavidSmrvl/status/424205562046197760
+https://twitter.com/DavidSmrvl/status/424205562046197760  
 
-*>_ David Somerville* (2023-08-10 23:18:52)
+> David Somerville (2023-08-10 23:18:52)  
+> #funny #http
 
-tags: funny, http, technical
+--
 
----
-
-Shows content of file.
+## Shows content of file with cURL
 
 ```  
 curl file:///home/ec2-user/bla-bla  
-```
+```  
 
-*>_ Unknown* (2023-08-10 22:47:06)
+> Unknown (2023-08-10 22:47:06)  
+  
+--
 
-tags: technical
-
----
+## Stress Command
 
 ```  
 stress --cpu 2 --timeout 60  
-```
+```  
 
-*>_ Unknown* (2023-08-10 22:45:50)
-
-tags: technical
-
----
+> Unknown (2023-08-10 22:45:50)  
+  
+--
 
 - iCloud path: /Users/username/Library/Mobile Documents/com~apple~CloudDocs
 - Browser does not allow to use autocomplete on values which access by AJAX request
-- ```<noscript>``` is for browsers which block javascript
+- ```<noscript>``` is for browsers which block javascript  
 
-*>_ Unknown* (2022-08-13 21:08:23)
+> Unknown (2022-08-13 21:08:23)  
+  
+--
 
-tags: technical
-
----
-
-- Build for linux on macos
+## Build for linux on macos
 
 ```  
 GOOS=linux GOARCH=amd64 go build -o notification  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:08:51)
+> Unknown (2022-08-13 21:08:51)  
+> #golang
 
-tags: golang, technical
-
----
+--
 
 ## Using mkdocs
 
@@ -127,32 +163,20 @@ site_url: https://example.com
 nav:  
   - Home: 'index.md'  
 theme: readthedocs  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:11:52)
+> Unknown (2022-08-13 21:11:52)  
+> #mkdocs
 
-tags: mkdocs, technical
+--
 
----
-
-- When you get "sh: Operation not permitted" error while trying to run shell script on  
-  cron https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/
-
-*>_ Unknown* (2022-08-13 21:10:58)
-
-tags: technical
-
----
-
-Udemy API:
+## Udemy API
 
 - Unarchived:  
   https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=%40min%2Cvisible_instructors%2Cimage_240x135%2Cfavorite_time%2Carchive_time%2Ccompletion_ratio%2Clast_accessed_time%2Cenrollment_time%2Cis_practice_test_course%2Cfeatures%2Cnum_collections%2Cpublished_title%2Cis_private%2Cis_published%2Cbuyable_object_type&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page_size=32
 
 - All  
-  https://www.udemy.com/api-2.0/users/me/subscribed-courses/?page_size=132
+  https://www.udemy.com/api-2.0/users/me/subscribed-courses/?page_size=132  
 
-*>_ Unknown* (2022-08-13 21:09:52)
-
-tags: technical
-
+> Unknown (2022-08-13 21:09:52)  
+  

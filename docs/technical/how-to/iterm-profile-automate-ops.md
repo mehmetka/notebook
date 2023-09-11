@@ -1,5 +1,5 @@
 ---
-tags: [how-to, technical]
+tags: [how-to]
 ---
 
 # Create Profile on iTerm2 to Automate Ops
@@ -10,9 +10,8 @@ tags: [how-to, technical]
 - Deselect "Applications in terminal may change the title" option
 - Select "Profile Name" in "Title" dropdown list on the right
 - Write any command to execute when clicked in "send text at start" input. For example: "ssh -i private-key username@ip" (key file's path must be absolute)
-- Done. When click you just created "Profile", your command will be executed.
+- Done. When click you just created "Profile", your command will be executed.  
 
-*>_ Unknown* (2022-08-13 21:12:10)
-
-tags: how-to, technical
+> Unknown (2022-08-13 21:12:10)  
+> #how-to
 

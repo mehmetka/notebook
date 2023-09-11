@@ -1,43 +1,46 @@
 ---
-tags: [brutalwill, flow, general, procrastination]
+tags: [brutalwill, flow, procrastination]
 ---
+
+Kişinin kıskandığın kısmı, o kişinin geri kalanı olmadan var olamaz. Eğer kıskandığın kişiyle hayatını, bedenini, düşüncelerini her şeyini tamamen değiştirmeye istekli değilsen, ortada kıskanacak bir şey de yok demektir.  
+
+> Naval Ravikant (2023-09-06 20:36:56)  
+> #brutalwill
+
+--
 
 “Sahne ışığı efekti” denilen bir şey var.  
 Zannediyorsun ki herkes senin hayatınla ilgileniyor. Sanki tüm davranışların, sözlerin, hataların mercek altında.  
 İşin aslı şu: Kimsenin o kadar da umrunda değilsin. Herkes kendi hayatını yaşamakla, kendi adına kaygılanmakla meşgul.  
-O yüzden başka insanların seninle ilgili düşüncelerinden dolayı kaygılanman çok saçma çünkü zaten neredeyse hiç seninle ilgili düşünmüyorlar
+O yüzden başka insanların seninle ilgili düşüncelerinden dolayı kaygılanman çok saçma çünkü zaten neredeyse hiç seninle ilgili düşünmüyorlar  
 
-*>_ erayerdogn - Twitter* (2023-08-12 13:16:01)
+> erayerdogn - Twitter (2023-08-12 13:16:01)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+going for a walk is the biggest life hack  
 
-going for a walk is the biggest life hack
+> Unknown (2023-08-08 22:18:07)  
+> #brutalwill
 
-*>_ Unknown* (2023-08-08 22:18:07)
+--
 
-tags: brutalwill, general
+A hobby that keeps you fit, let you be creative, helps you network  
 
----
+> Unknown (2020-08-05 11:22:07)  
+> #brutalwill
 
-A hobby that keeps you fit, let you be creative, helps you network
-
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: brutalwill
-
----
+--
 
 işini iyi yapmak != mükemmelliyetçilik  
 işini iyi yapmak: bilgisi dahilinde yapabileceği en iyi işi ortaya koyması ve öğrendikçe mevcut işi sürekli iyileştirmesi.  
-mükemmelliyetçilik: henüz bitmeyen işi sürekli iyileştirme çabasına girerek çoğu zaman bu döngüden çıkamamak.
+mükemmelliyetçilik: henüz bitmeyen işi sürekli iyileştirme çabasına girerek çoğu zaman bu döngüden çıkamamak.  
 
-*>_ ademilter - Twitter* (2020-08-05 11:22:07)
+> ademilter - Twitter (2020-08-05 11:22:07)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 meditasyon  
 kendinizi baskalariyla kiyaslamayin  
@@ -52,106 +55,94 @@ kucuk seylerden mutlu olmaya bakin
 ne isle ugrasiyorsaniz ugrasin kendinizi degersiz hissetmeyin. sorumluluklarinizi yerine getiriyorsaniz bu yeterlidir.  
 duygularinizi ifade edin. diger insanlarin ne hissettigine verdiginiz onem kadar kendi duygu ve ihtiyaclarinizi da gozetin.  
 her seyin bir gun biteceginin farkinda olun. ne yaparsaniz yapin bunu degistiremeyeceksiniz. bunu kabullenmek sizi ozgurlestirir ve endiselerinizi azaltir.  
-sonuc odakli dusunmeden calisin. her ne yapiyorsaniz, sadece yapin. sonuc odakli calismak endisenizi artiracak ve performansinizi azaltacaktir. yaptiginiz seye odaklanmak disinda bir kayginiz olmasin.
+sonuc odakli dusunmeden calisin. her ne yapiyorsaniz, sadece yapin. sonuc odakli calismak endisenizi artiracak ve performansinizi azaltacaktir. yaptiginiz seye odaklanmak disinda bir kayginiz olmasin.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
+> Unknown (2020-08-05 11:22:07)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+I believe in progress, not perfection.  
 
-I believe in progress, not perfection.
+> Unknown (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general
-
----
-
-* Maddi durumlardaki uyulesme insanlarin ne kadar mutlu olduklarini etkiler gorunmemektedir.
+* Maddi durumlardaki iyilesme insanlarin ne kadar mutlu olduklarini etkiler gorunmemektedir.
 * Temel kaynaklarin, maddi kaynaklarin yetersizliginin mutsuzluga etkisi oldugunu bulabilirsiniz ama maddi kaynaklardaki artis mutlulugu artirmaz.
-* Hayatin hangi noktasinda, normal deneyimlerimizde, gercekten mutlu hissederiz?
+* Hayatin hangi noktasinda, normal deneyimlerimizde, gercekten mutlu hissederiz?  
 
-*>_ Mihaly Csikszentmihalyi - Akis Uzerine* (2020-08-05 11:22:06)
+> Mihaly Csikszentmihalyi - Akis Uzerine (2020-08-05 11:22:06)  
+> #brutalwill #flow
 
-tags: brutalwill, flow, general
+--
 
----
+Güçlü olmak için çaresizliği kabullenebilmek, üzülebilmek, ağlamak, yas tutabilmek, en azından bunları öğrenmeye, bu duygularla yaşamaya çalışmak gerekir. hayatta kimse sizi kırıp bükemezmiş gibi hissederken güçlü olamazsınız.  
 
-Güçlü olmak için çaresizliği kabullenebilmek, üzülebilmek, ağlamak, yas tutabilmek, en azından bunları öğrenmeye, bu duygularla yaşamaya çalışmak gerekir. hayatta kimse sizi kırıp bükemezmiş gibi hissederken güçlü olamazsınız.
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill, general
-
----
+--
 
 hedef: bir süreçte, doğru gidip gitmediğini anlaman için kendine koyduğun kontrol noktalarıdır.  
 amaç: bir sürecin sonunda ulaşmak istediğin nokta değildir. sürecin kendisidir. sürekli devam eder. ulaştığınız değil, yaptığınız şeydir.  
 amaçsız bir hedef, hiç bir işe yaramazken; herhangi bir hedef, her amacı anlamlı kılar.  
-bunu iyice okuyup arasındaki farkı anladıktan sonra amaçlarınızı, hedeflerinizi neden gerçekleştiremediğinizi anlayacaksınız. uygularsanız da gerçekleştireceksiniz.
+bunu iyice okuyup arasındaki farkı anladıktan sonra amaçlarınızı, hedeflerinizi neden gerçekleştiremediğinizi anlayacaksınız. uygularsanız da gerçekleştireceksiniz.  
 
-*>_ EkşiSözlük* (2020-08-05 11:22:06)
+> EkşiSözlük (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 Buradaki anahtar nokta taviz vermemek ve programı sert şekilde uygulamak.  
 Yani "Aman bugün de şu makaleyi okumayayım”, "bugün 2 saat gitar çalsam yeter ya”  
 filan demeye başladığınız anda bilin ki o iş yalan olma yolunda emin adımlar ile ilerliyor.  
-Kendinizi kandırmayın. Eğer çok iş yapmak istiyorsanız çok çalışmak zorundasınız, başka yolu yok.
+Kendinizi kandırmayın. Eğer çok iş yapmak istiyorsanız çok çalışmak zorundasınız, başka yolu yok.  
 
-*>_ Nazım Kemal Üre* (2020-08-05 11:22:06)
+> Nazım Kemal Üre (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Daily, almost constant effort.  
 
-Daily, almost constant effort.
+> Angela Yu (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Angela Yu* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill
+Nereye bakarsan oraya gidersin.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-Nereye bakarsan oraya gidersin.
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+But I’m getting closer to my destination with each day  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
----
-
-But I’m getting closer to my destination with each day
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill, general
-
----
+--
 
 i want to be confident.  
 pretend you're confident.  
 when do i stop?  
-never
+never  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 Blame nobody.  
 Expect nothing.  
-Do something.
+Do something.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 her şey geçici  
 hayat adil değil  
@@ -162,13 +153,12 @@ hiçbir şey sandığın kadar önemli değil
 ömür oldukça kısa  
 çok garantici yaşadın, daha fazla risk almalıydın  
 fırsatın varken tadını çıkarmaya bak  
-aradığın şey baktığın ekranın içinde değil
+aradığın şey baktığın ekranın içinde değil  
 
-*>_ Etilen* (2020-08-05 11:22:06)
+> Etilen (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 Signs you need a break:
 
@@ -179,397 +169,350 @@ Signs you need a break:
 * emotionally overwhelmed
 * always exhausted/tired
 
-Take care friends. Take a break.
+Take care friends. Take a break.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Biz düzenli olarak yaptığımız şeyleriz. Bu yüzden mükemmellik; bir eylem değil alışkanlıktır.  
 
-Biz düzenli olarak yaptığımız şeyleriz. Bu yüzden mükemmellik; bir eylem değil alışkanlıktır.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Unknown (2020-08-05 11:22:06)  
+  
+--
 
 Fall in love with some activity, and do it! Nobody ever figures out what life is all about,  
 and it doesn’t matter. Explore the world. Nearly everything is really interesting if you go into it  
 deeply enough. Work as hard and as much as you want to on the things you like to do the best.  
 Don’t think about what you want to be, but what you want to do. Keep up some kind of a  
-minimum with other things so that society doesn’t stop you from doing anything at all.”
+minimum with other things so that society doesn’t stop you from doing anything at all.”  
 
-*>_ Richard Feynman* (2020-08-05 11:22:06)
+> Richard Feynman (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 2-if you work hard at something, for a long period of time, and persist when things get though, it ll pay off in the long run.  
 3-you dont have to be the smartest guy or girl in the room, you just have to be the most enthusiastic and curious  
 4-your brain lies to you. everyday. ignore it when its telling you something that doesnt serve your dreams and ambitious  
 5-when people give you advice, dont take it at face value often they re wrong.  
 6-never worry about what other people think of you, it ll stop you doing all the great things you should probably do  
-7-having clear goals that are measurable makes it easier to make hard decisions
+7-having clear goals that are measurable makes it easier to make hard decisions  
 
-*>_ Scottbasslessons* (2020-08-05 11:22:06)
+> Scottbasslessons (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Hayatiniz sans eseri daha iyi hale gelmez, degisimin eseri olarak daha iyi hale gelir.  
 
-Hayatiniz sans eseri daha iyi hale gelmez, degisimin eseri olarak daha iyi hale gelir.
+> Jim Rohn (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Jim Rohn* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill
+Bugun sahip olduklarin icin tesekkur et ve yarin sahip olacaklarin icin savasmaya basla.  
 
----
+> William Shakespeare (2020-08-05 11:22:06)  
+> #brutalwill
 
-Bugun sahip olduklarin icin tesekkur et ve yarin sahip olacaklarin icin savasmaya basla.
-
-*>_ William Shakespeare* (2020-08-05 11:22:06)
-
-tags: brutalwill
-
----
+--
 
 60 minutes working out: "I wish I had time"   
-60 minutes on Netflix: "Let's watch another!"
+60 minutes on Netflix: "Let's watch another!"  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Insan yasaminda bir kez de olsa kendine su soruyu sorup yanitlamalidir: "**Sahip oldugum her seyi kaybettigimde beni ayakta tutacak olan nedir?**”  
 
-Insan yasaminda bir kez de olsa kendine su soruyu sorup yanitlamalidir: "**Sahip oldugum her seyi kaybettigimde beni ayakta tutacak olan nedir?**”
+> ihsanfazlioglu - Twitter (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ ihsanfazlioglu - Twitter* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill, general
+Zor is: uygun zaman varken yapilmayan kolay is.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-Zor is: uygun zaman varken yapilmayan kolay is.
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+Yuruyus gibi bazi egzersiz turleri beynin motor ve duyusal bolgelerini uyarir ve yeni fikirlerin filizlenmesine olanak saglar.  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
----
+--
 
-Yuruyus gibi bazi egzersiz turleri beynin motor ve duyusal bolgelerini uyarir ve yeni fikirlerin filizlenmesine olanak saglar.
+your talent is not sent from god. it only comes when you make consistent effort and practice.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Yilda 365 gun yataktan gunes dogmadan once kalkabilen hickimse ailesini zengin etmekte basarisiz olamaz.  
 
-your talent is not sent from god. it only comes when you make consistent effort and practice.
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill
+yasamdaki en buyuk basari kendi degerlerini yasadigin bir hayata sahip olmaktir.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-Yilda 365 gun yataktan gunes dogmadan once kalkabilen hickimse ailesini zengin etmekte basarisiz olamaz.
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+yanlislardan ogrenmek, gecmiste takilip kalmamak.  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
----
-
-yasamdaki en buyuk basari kendi degerlerini yasadigin bir hayata sahip olmaktir.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill
-
----
-
-yanlislardan ogrenmek, gecmiste takilip kalmamak.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill
-
----
+--
 
 there is a saying:   
 yesterday is history,   
 tomorrow is a mistery   
 but today is a gift   
-that is why it is called the present.
+that is why it is called the present.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+TAVSIYE BEKLEMEYI BIRAK! DUNYA UZERINDE YAPACAK ONCA GUZEL SEYE RAGMEN COK CALIS! YASLILIKTA CALISMAK BIR FAYDA GETIRMEZ! SABRET!  
 
-TAVSIYE BEKLEMEYI BIRAK! DUNYA UZERINDE YAPACAK ONCA GUZEL SEYE RAGMEN COK CALIS! YASLILIKTA CALISMAK BIR FAYDA GETIRMEZ! SABRET!
+> mserdark (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ mserdark* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill
+Stop starting, start finishing  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-Stop starting, start finishing
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+size fayda verecek bilgileri öğrenmeniz yeterli değildir. çünkü bir şeyleri bildiğiniz halde bildiklerinizin gereğini yapmıyorsanız o bilgileri hiç bilmeyen bir insandan farkınız yoktur.  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
----
+--
 
-size fayda verecek bilgileri öğrenmeniz yeterli değildir. çünkü bir şeyleri bildiğiniz halde bildiklerinizin gereğini yapmıyorsanız o bilgileri hiç bilmeyen bir insandan farkınız yoktur.
+Sinirlendiğinde; ayakta isen otur, oturuyorsan bir yere yaslan.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Sessizlik ağacında huzur meyveleri yetişir.  
 
-Sinirlendiğinde; ayakta isen otur, oturuyorsan bir yere yaslan.
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill
+Pratik mukemmeli getirir  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-Sessizlik ağacında huzur meyveleri yetişir.
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+Play what you love and play it loud.  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
----
+--
 
-Pratik mukemmeli getirir
+Ozdisiplini artirmak konfor alaninizdan cikip rutininizi degistirmekle ilgili.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Oysa gerçekten güçlü olmak, zayıf ve kırılgan olabilmeyi tolere etmekten geçer.  
 
-Play what you love and play it loud.
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill
-
----
-
-Ozdisiplini artirmak konfor alaninizdan cikip rutininizi degistirmekle ilgili.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill
-
----
-
-Oysa gerçekten güçlü olmak, zayıf ve kırılgan olabilmeyi tolere etmekten geçer.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill
-
----
+--
 
 önce yapmak istediklerinizi etraflıca düşünün sonra eyleme geçin.   
 eyleme geçtikten sonra bu yaptıklarınızı bir alışkanlığa dönüştürün.   
 alışkanlık haline getirdiğiniz eylemleriniz zamanla karakterinizi de değiştirecektir.   
 eğer karakteriniz değişirse geleceğiniz de değişmeye başlar.   
-bu formül her yapmak veya olmak istediğiniz şey için geçerlidir.
+bu formül her yapmak veya olmak istediğiniz şey için geçerlidir.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+OLUM KALIM MESELELERI HARIC SAKIN PROGRAMINDAN TAVIZ VERME. GEREKIRSE UYKUNDAN EGLENCENDEN KIS AMA SAKIN PROGRAMINDAN TAVIZ VERME !  
 
-OLUM KALIM MESELELERI HARIC SAKIN PROGRAMINDAN TAVIZ VERME. GEREKIRSE UYKUNDAN EGLENCENDEN KIS AMA SAKIN PROGRAMINDAN TAVIZ VERME !
+> Nazım Kemal Üre (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Nazım Kemal Üre* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill
+Ogrenmek icin yeterlilik degismez sart degildir. Gosterilen gayret ile degistirilebilir.  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-Ogrenmek icin yeterlilik degismez sart degildir. Gosterilen gayret ile degistirilebilir.
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+Never regret anything because one time it was exactly what you wanted  
 
-tags: brutalwill
+> Marilyn Monroe (2020-08-05 11:22:06)  
+> #brutalwill
 
----
+--
 
-Never regret anything because one time it was exactly what you wanted
+Nerede olmak istiyorum? Neredeyim? Aradaki boslugu kapatmak icin ne yapmam gerek?  
 
-*>_ Marilyn Monroe* (2020-08-05 11:22:06)
+> Nazım Kemal Üre (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+ne istedigini bilen biri daha hizli yol alir  
 
-Nerede olmak istiyorum? Neredeyim? Aradaki boslugu kapatmak icin ne yapmam gerek?
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Nazım Kemal Üre* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill
+mutluluğun için kendinden baska hic kimseye guvenme  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-ne istedigini bilen biri daha hizli yol alir
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+Mutlu olunca sukretmezsin, sukredince mutlu olursun  
 
-tags: brutalwill
+> Eray Erdoğan - 5 Kişi Podcast (2020-08-05 11:22:06)  
+> #brutalwill
 
----
+--
 
-mutluluğun için kendinden baska hic kimseye guvenme
+Mükemmeli istemek imkansızı seçmektir. Yaşamı sonsuza ertelemektir.  
 
-*>_ Unknown* (2020-08-05 11:22:06)
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Kucuk ama hassas adimlarla, emin olarak ve hic bir adimi atlamadan.  
 
-Mutlu olunca sukretmezsin, sukredince mutlu olursun
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-*>_ Eray Erdoğan - 5 Kişi Podcast* (2020-08-05 11:22:06)
+--
 
-tags: brutalwill
+kendi yargılarına güvenmeyi öğrenmek. ‘Oldu'yu ‘ben öyle istedim’e çevirmek  
 
----
+> Unknown (2020-08-05 11:22:06)  
+> #brutalwill
 
-Mükemmeli istemek imkansızı seçmektir. Yaşamı sonsuza ertelemektir.
+--
 
-*>_ Unknown* (2020-08-05 11:22:06)
+KEEP ADVANCING KEEP PRACTICING  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
-
-Kucuk ama hassas adimlarla, emin olarak ve hic bir adimi atlamadan.
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill
-
----
-
-kendi yargılarına güvenmeyi öğrenmek. ‘Oldu'yu ‘ben öyle istedim’e çevirmek
-
-*>_ Unknown* (2020-08-05 11:22:06)
-
-tags: brutalwill
-
----
-
-KEEP ADVANCING KEEP PRACTICING
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 Kati zaman yonetimi   
 Onceliklere odaklanmak   
 Cok calismanin da otesinde enerjiyi dogru kullanmak // PURDIKKAT calismak.   
 Dunyadaki en yaratici insanlar yaraticiliklarini planlayabilenlerdir.   
-Dogru odaklanma olmazsa cok calisma da bosa gidecektir.
+Dogru odaklanma olmazsa cok calisma da bosa gidecektir.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+isteğine ulaşan bir insan da daha fazlasını isteyerek hayatını geçiriyor. Stoacı düşünce önce insanın kendi sahip olduğu şeylerin değerini bilmesi gerektiğini öneriyor.  
 
-isteğine ulaşan bir insan da daha fazlasını isteyerek hayatını geçiriyor. Stoacı düşünce önce insanın kendi sahip olduğu şeylerin değerini bilmesi gerektiğini öneriyor.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill
+isini iyi yapanlar, sizi heyecanlandiranlar cogunlukla cok calisiyor ve sessiz sedasiz isini yapiyor. Standart seviyede bile is uretemeyenler ise devamli soylenip calismiyorlar.  
 
----
+> TancanFumen - Twitter (2020-08-05 11:22:05)  
+> #brutalwill
 
-isini iyi yapanlar, sizi heyecanlandiranlar cogunlukla cok calisiyor ve sessiz sedasiz isini yapiyor. Standart seviyede bile is uretemeyenler ise devamli soylenip calismiyorlar.
+--
 
-*>_ TancanFumen - Twitter* (2020-08-05 11:22:05)
+ineceksin ve cikacaksin, hicbir sey sonsuza dek ayni kalmaz  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-ineceksin ve cikacaksin, hicbir sey sonsuza dek ayni kalmaz
+Iki gunu esit olan ziyandadir.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
-
----
-
-Iki gunu esit olan ziyandadir.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 if you fail, never give up. because fail means: First Attempt In Learning   
 end is not the end, if fact END means: Effort Never Dies.   
-if you get no as an answer, remember, NO means: Next Opportunity
+if you get no as an answer, remember, NO means: Next Opportunity  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+if you dont build your dreams, someone will hire you to build theirs.  
 
-if you dont build your dreams, someone will hire you to build theirs.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill
+if things are not failing, you are not innovation enough.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-if things are not failing, you are not innovation enough.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+if no one comes from the future to stop from doing it, then how bad can it be?  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-if no one comes from the future to stop from doing it, then how bad can it be?
+Hüzün kalbi zayıflatır, azmi kırar, iradeye zarar verir  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
-
----
-
-Hüzün kalbi zayıflatır, azmi kırar, iradeye zarar verir
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 her sey zaman alir   
 calismaktan vazgecme insani ayakta tutan calismaktir.   
@@ -582,126 +525,112 @@ her seferinde tek bir seye odaklanin.
 daha buyuk resme bakin, tum bu teknolojiler nasil bir araya gelir ?   
 araclarinizi bulun, hangi araclar hangi is icin en iydir ?   
 tasarimin temellerini ogrenin   
-basarisiz olmaktan korkmayin, yolunuza devam edin!
+basarisiz olmaktan korkmayin, yolunuza devam edin!  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+hedeften degil, ona ulasirken gittigin YOLDAN da keyif al.  
 
-hedeften degil, ona ulasirken gittigin YOLDAN da keyif al.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 hayattaki her sey bizim zamanimiza gore gerceklesir.   
 bazi arkadaslariniza bakip sizin onunuzde oldugunu dusunebilirsiniz.   
 belki bazilarinin arkanda kaldigini hissediyorsun, ama her sey onlarin sahip oldugu hizda olur.   
 onlar kendi zamanlarina ve saatlerine sahipler, siz de oyle.   
-baskalarinin kendi zaman sinirlarina gore sizi kosturmalarina izin vermeyin.
+baskalarinin kendi zaman sinirlarina gore sizi kosturmalarina izin vermeyin.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Hayat bisiklet gibidir, dengeyi kaybetmemek için ilerlemek gerekir.  
 
-Hayat bisiklet gibidir, dengeyi kaybetmemek için ilerlemek gerekir.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill
+Hayallerin kadar calismiyorsun. Ya hayallerini gercekci yapacaksin, ya da hayallerin kadar calisacaksin.  
 
----
+> Nazım Kemal Üre (2020-08-05 11:22:05)  
+> #brutalwill
 
-Hayallerin kadar calismiyorsun. Ya hayallerini gercekci yapacaksin, ya da hayallerin kadar calisacaksin.
+--
 
-*>_ Nazım Kemal Üre* (2020-08-05 11:22:05)
+hayallerin icin cok calis, beklersen gelmezler.  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
-
-hayallerin icin cok calis, beklersen gelmezler.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 Grit: Metanet.   
 uzun vadeli hedefler icin tutku ve sebat gostermektir.   
 "Stamina"   
 Gelecegi gercege donusturmek icin yillar suren gercekten zorlu bir calismadan ibarettir.   
-Growth mindset zihniyet gelisimi
+Growth mindset zihniyet gelisimi  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+GO HARD or GO HOME !  
 
-GO HARD or GO HOME !
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill
+Gercek irade bugunle baslar, yarin iradesizliktir.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-Gercek irade bugunle baslar, yarin iradesizliktir.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+FOCUS: Follow One Course Until Successful  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-FOCUS: Follow One Course Until Successful
+everything you've ever wanted is on the other side of fear.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
-
----
-
-everything you've ever wanted is on the other side of fear.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 etrafınızda gördüğünüz her şey ve yaşadığınız her olay, oldukları gibi görünmezler. dünyayı olduğu gibi değil olduğumuz gibi görürüz.   
-bebekliğinizden beri beyninizi şekillendiren aileniz ve çevreniz size dünyayı belli bir şekilde görmeyi telkin etmişlerdir. siz değiştikçe dünyaya olan bakışınız da değişecektir.
+bebekliğinizden beri beyninizi şekillendiren aileniz ve çevreniz size dünyayı belli bir şekilde görmeyi telkin etmişlerdir. siz değiştikçe dünyaya olan bakışınız da değişecektir.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+end is not the end. in fact E.N.D means: Effort never dies.  
 
-end is not the end. in fact E.N.D means: Effort never dies.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill
+En büyük bilgelik şu andan zevk almayı hayatın en büyük amacı kılmaktır, çünkü tek gerçek budur, başka her şey düşünce oyunudur.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-En büyük bilgelik şu andan zevk almayı hayatın en büyük amacı kılmaktır, çünkü tek gerçek budur, başka her şey düşünce oyunudur.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 Eğer felsefeye karşı samimi bir arzunuz varsa ilk andan itibaren alaycı kahkahalara hazırlanın. Unutmayın, eğer ısrarlıysanız o insanlar daha sonra size hayran olacaktır. Unutmayın, eğer bir başkasının zevki için dikkatinizi dışarıya çevirecek olursanız hayatınızın düzenini alt üst ettiğinizden emin olabilirsiniz."   
 Içsel gücü veya erdemi olan bir insan başkalarından hiçbir şey istemez (Schopenhauer)   
@@ -711,93 +640,82 @@ isteklerimizi smırlamalıyız, arzularımızı dizginlemeli, öfkemizi bastırm
 Istenç bizi amansızca tahrik eder, çünkü bir istek bir kez doyurulduğunda yerine hemen bir yenisi, sonra bir başkası ve sonra bir başkası konur ve bu durum hayat boyu devam eder   
 Doymuşluk bize yeter mi? Heyhat, yalnızca kısa bir süre için. Neredeyse hemen can sıkıntısı devreye girer ve bu kez de can sıkıntısının dehşetinden kaçmak için bir kez daha harekete geçeriz.   
 insan hayatı sonsuz bir isteme, tatmin olma, can sıkıntısı ve sonra yeniden isteme döngüsünden başka nedir ki?   
-İnsan başta hiç mutlu değildir, ama bütün hayatını kendisini mutlu edeceğini sandığı bir şeyin peşinde çabalayarak geçirir; nadiren amacına ulaşır, ulaştığında da yalnızca düş kırıklığıyla karşılaşır: sonunda bir enkaz gibidir
+İnsan başta hiç mutlu değildir, ama bütün hayatını kendisini mutlu edeceğini sandığı bir şeyin peşinde çabalayarak geçirir; nadiren amacına ulaşır, ulaştığında da yalnızca düş kırıklığıyla karşılaşır: sonunda bir enkaz gibidir  
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:05)
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Eğer daima an’a odaklanmayı başarırsan, mutlu bir adam olursun.  
 
-Eğer daima an’a odaklanmayı başarırsan, mutlu bir adam olursun.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill
+dunyevi isteklerin ortadan kalkmasi daha acik bir gorus imkani saglayacak  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-dunyevi isteklerin ortadan kalkmasi daha acik bir gorus imkani saglayacak
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+DONT DECREASE THE GOAL, INCREASE THE EFFORT  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-DONT DECREASE THE GOAL, INCREASE THE EFFORT
+do not pray for an easy life. pray for the strength to endure a difficult one. bruce lee  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+do not break the chain, start slowest speed and move forward incremental.  
 
-do not pray for an easy life. pray for the strength to endure a difficult one. bruce lee
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill
+Dikkatle düşün seçim yap, sonra sağlam dur; azminin yok olmasına izin verme, o zaman amacına ulaşırsın.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-do not break the chain, start slowest speed and move forward incremental.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+devasa bir adanmislik, purdikkat calisma  
 
-tags: brutalwill
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-Dikkatle düşün seçim yap, sonra sağlam dur; azminin yok olmasına izin verme, o zaman amacına ulaşırsın.
+sonunda insanın kendi mallarının malı haline gelmesine neden olan sonsuz mal birikimi.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Sağduyulular zevke değil, acısızlığa ulaşmaya çabalarlar.  
 
-devasa bir adanmislik, purdikkat calisma
+> Aristoteles (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill
+Hayatı gelecekteki bir "umut” yerine şimdi yaşamamızda ısrar eder.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-sonunda insanın kendi mallarının malı haline gelmesine neden olan sonsuz mal birikimi.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
-
-Sağduyulular zevke değil, acısızlığa ulaşmaya çabalarlar.
-
-*>_ Aristoteles* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
-
-Hayatı gelecekteki bir "umut” yerine şimdi yaşamamızda ısrar eder.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 derin bağlantıların, ölümü acı verici kılacağı   
 Kendini hayatın dikkat çelicilerinde kaybetmeye karşı dikkatli ol !!!   
@@ -812,95 +730,84 @@ seks dürtüsü, bu içimizdeki en temel güçtür -yaşama, üretme arzusuve b
 bir şeyi isteriz, alırız, kısa bir süre tatmin yaşarız, bu tatmin hızla sıkıntıya dönüşür, ardından mutlaka bir sonraki ‘istiyorum’ gelir.   
 Arzuyu doyurarak kurtuluş yoktur insanın çarktan hemen atlaması gerekir. // Schopenhauer bahsettigi gereksinim mili.   
 istemekten tamamen kaçmak anlamına geliyor. En içteki doğamızın, bir şeyi elde etmek için yatıştırılamaz bir şekilde çabalamak olduğu, bu acının en başından bize programlandığı ve kendi doğamıza mahkum edildiğimiz anlamına geliyor. Önce bu yanılsama dünyasının esas hiçliğini kavramamız, ardından istenci reddetmenin bir yolunu bulmamız gerektiği anlamına geliyor.   
-Zihin için en iyi yardım kalbi tuzağa düşüren bağların bir kerede koparılmasıdır. —Ovidius
+Zihin için en iyi yardım kalbi tuzağa düşüren bağların bir kerede koparılmasıdır. —Ovidius  
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:05)
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill
+--
 
----
+Dayatılan hayatı değil, hayalleri yaşamalı.  
 
-Dayatılan hayatı değil, hayalleri yaşamalı.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill
-
----
+--
 
 Daha kisa surede elde edecegimiz odulleri, daha gec surede alinacak olanlara tercih ediyoruz.   
-Hemen su anda mutlu olmak istiyoruz.
+Hemen su anda mutlu olmak istiyoruz.  
 
-*>_ Prokrastineysin* (2020-08-05 11:22:05)
+> Prokrastineysin (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+COK IS YAPMAK ISTIYORSANIZ COK CALISMALISINIZ! KENDINIZI KANDIRMAYIN  
 
-COK IS YAPMAK ISTIYORSANIZ COK CALISMALISINIZ! KENDINIZI KANDIRMAYIN
+> Nazım Kemal Üre (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Nazım Kemal Üre* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Cok degil verimli calismaniz gerekiyor. A tipi davranis rahatsizligini terketmeniz gerekiyor.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-Cok degil verimli calismaniz gerekiyor. A tipi davranis rahatsizligini terketmeniz gerekiyor.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+Butun omru boyunca hayali bir mutluluk pesinde kosup durur, onu nadiren ele gecirir ve ele gecirse bile gecirmesiyle birlikte bir yanilsamadan, bir dus kirikligindan baska bir sey kalmayacaktir geride.  
 
-tags: brutalwill, general
+> Arthur Schopenhauer (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-Butun omru boyunca hayali bir mutluluk pesinde kosup durur, onu nadiren ele gecirir ve ele gecirse bile gecirmesiyle birlikte bir yanilsamadan, bir dus kirikligindan baska bir sey kalmayacaktir geride.
+bugun cok kotu gorunen yarin baska bir sey getirebilir.  
 
-*>_ Arthur Schopenhauer* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Bu dunyadaki en mutsuz insanlar baskalarinin ne dusundugunu dusunen insanlardir.  
 
-bugun cok kotu gorunen yarin baska bir sey getirebilir.
+> C. Joybell (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Bitti diye üzülmeyin, yaşandı diye sevinin  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-Bu dunyadaki en mutsuz insanlar baskalarinin ne dusundugunu dusunen insanlardir.
-
-*>_ C. Joybell* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
-
-Bitti diye üzülmeyin, yaşandı diye sevinin
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
+--
 
 bir iste basarili olmak istiyorsan hangi seviyede olursan ol, o isin her adiminda ol.   
-cunku kum havuzunu uzaktan izleyerek hayallerindeki satoyu insa edemezsin.
+cunku kum havuzunu uzaktan izleyerek hayallerindeki satoyu insa edemezsin.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+belki de dusunce seklimiz yanlis ve farkli bir sey denemeliyiz.  
 
-belki de dusunce seklimiz yanlis ve farkli bir sey denemeliyiz.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
+--
 
 be ready to get your hands dirty, coding is only the 20% of a product   
 having great people around you is a must be. that is how you can handle the remaining 80%   
@@ -916,337 +823,296 @@ say you re 30 now. you got about 60 years. say it takes 3 months to do a big pro
 lower your expectations   
 fake it until make it   
 dont compare! careful! this can kill you. dont compare yourself to people who already succeeded. they have their own story.   
-dont compare your life to others and dont judge them. you have no idea what their journey is all about.
+dont compare your life to others and dont judge them. you have no idea what their journey is all about.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Sırrım konusunda sessizliğimi korursam benim esirim olur; eğer ağzımdan kaçırırsam ben onun esiri olurum.  
 
-Sırrım konusunda sessizliğimi korursam benim esirim olur; eğer ağzımdan kaçırırsam ben onun esiri olurum.
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+--
 
-tags: brutalwill, general
+Hayatın dışında kalmak, hiçbir şey istememek ve hiçbir şey beklememek, kendimi yüksek düşünceyle meşgul etmek huzura giden tek yol.  
 
----
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-Hayatın dışında kalmak, hiçbir şey istememek ve hiçbir şey beklememek, kendimi yüksek düşünceyle meşgul etmek huzura giden tek yol.
+--
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+Tarafsız yargılarının, öznel olanlar tarafından gizlemesine engel ol.  
 
-tags: brutalwill, general
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
----
+--
 
-Tarafsız yargılarının, öznel olanlar tarafından gizlemesine engel ol.
+Kendi zihnimi araştırmayı tercih ediyorum. Başkasının bakışlarına karşılık vermek dikkatimi dağıtarak o kişinin istediği yanıtı aramama neden olur.  
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Başkasının benimle ilgili görüşü benim kendimle ilgili görüşümü değiştirmez, değiştirmemeli.  
 
-Kendi zihnimi araştırmayı tercih ediyorum. Başkasının bakışlarına karşılık vermek dikkatimi dağıtarak o kişinin istediği yanıtı aramama neden olur.
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+--
 
-tags: brutalwill, general
+Aşk, tutku, baştan çıkarmalar, güçlü duygular, türlerimizi sürdürmek için programımızın bir parçası... bu etkinlikler mantığı devreden çıkarir ve benim bilgi peşinde koşmama engel olurlar; bu nedenle bu duyguları istemiyorum.  
 
----
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-Başkasının benimle ilgili görüşü benim kendimle ilgili görüşümü değiştirmez, değiştirmemeli.
+--
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+Dün ve yarın yok. Yalnizca bulundugumuz bu an AN var! Geçmiş hatıralar, gelecek özlemler yalnızca memnuniyetsizlik yaratır. olabildiğince az şey dilemek ve çok şey öğrenmek istiyorum. insanın içinde ne kadar çok şey varsa, başkalarından o kadar az şey ister. zihinsel sağlığı, aydınlığa giden yolu bulmayı, sakin ve dengeli bir hayatı, psiko-somatik hastalıkların yok olmasını, bütün mutsuzlukların üç nedeninin ortadan kaldırılmasını sağlıyordu: şiddetli arzu, tiksinme ve cehalet.  
 
-tags: brutalwill, general
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
----
+--
 
-Aşk, tutku, baştan çıkarmalar, güçlü duygular, türlerimizi sürdürmek için programımızın bir parçası... bu etkinlikler mantığı devreden çıkarir ve benim bilgi peşinde koşmama engel olurlar; bu nedenle bu duyguları istemiyorum.
+Gill'in desteği hoşuma gitti, ama aynı zamanda bundan hoşlanmamaya da dikkat ediyorum. Sizin için savaşmaları için başkalarına güvenirseniz kendi kas sisteminiz dumura uğrar.  
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Her zaman hayatın en lezzetli kısmını daha bulmadığına inanmış, hep geleceğe -daha yaşlı, daha akıllı, daha büyük, daha zengin olacağı zamanlara imrenmişti. (ARZU duymustu, bu arzu ile gecici olarak mutlu olmustu. Ancak kisa zamanda olusan degisiklik onu tatmin etmemis ve can sikintisina/aciya donusmustur. Ve daha fazla istemeye baslamistir.)  
 
-Dün ve yarın yok. Yalnizca bulundugumuz bu an AN var! Geçmiş hatıralar, gelecek özlemler yalnızca memnuniyetsizlik yaratır. olabildiğince az şey dilemek ve çok şey öğrenmek istiyorum. insanın içinde ne kadar çok şey varsa, başkalarından o kadar az şey ister. zihinsel sağlığı, aydınlığa giden yolu bulmayı, sakin ve dengeli bir hayatı, psiko-somatik hastalıkların yok olmasını, bütün mutsuzlukların üç nedeninin ortadan kaldırılmasını sağlıyordu: şiddetli arzu, tiksinme ve cehalet.
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+--
 
-tags: brutalwill, general
+Yeterince yapmadığım şey, içinde bulunduğum anı takdir etmekti  
 
----
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-Gill'in desteği hoşuma gitti, ama aynı zamanda bundan hoşlanmamaya da dikkat ediyorum. Sizin için savaşmaları için başkalarına güvenirseniz kendi kas sisteminiz dumura uğrar.
+--
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+Beni uzecek gucu sana verdigim icin kendimden ozur dilerim. (Franz Kafka -> Max Brod)  
 
-tags: brutalwill, general
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-Her zaman hayatın en lezzetli kısmını daha bulmadığına inanmış, hep geleceğe -daha yaşlı, daha akıllı, daha büyük, daha zengin olacağı zamanlara imrenmişti. (ARZU duymustu, bu arzu ile gecici olarak mutlu olmustu. Ancak kisa zamanda olusan degisiklik onu tatmin etmemis ve can sikintisina/aciya donusmustur. Ve daha fazla istemeye baslamistir.)
+Kendinizi bir kere adadiktan sonra ihtiyaciniz olan tek sey irade ve calisma  
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+> Haile Gebrselassie (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+cok azini basaracak olan az fedakarlik etmelidir. cok sey elde edecek olan cok fedakarlik etmelidir. cok yuksek seyler elde edecek olan kisi cok buyuk bir fedakarlik yapmalidir  
 
-Yeterince yapmadığım şey, içinde bulunduğum anı takdir etmekti
+> James Allen (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+--
 
-tags: brutalwill, general
+Spesifik bir alanda yapılabilecek tüm hataları yapmış kişiye "uzman" denir.  
 
----
+> Niels Bohr (2020-08-05 11:22:05)  
+> #brutalwill
 
-Beni uzecek gucu sana verdigim icin kendimden ozur dilerim. (Franz Kafka -> Max Brod)
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+"Meraklarınızın pesinden kosmaktan yorulmayın”  
 
-tags: brutalwill, general
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-Kendinizi bir kere adadiktan sonra ihtiyaciniz olan tek sey irade ve calisma
+"Söz üretme, ürettiğinden söz et.”  
 
-*>_ Haile Gebrselassie* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+ne kadar okudugun degil, ne kadar anladigin.  
 
-cok azini basaracak olan az fedakarlik etmelidir. cok sey elde edecek olan cok fedakarlik etmelidir. cok yuksek seyler elde edecek olan kisi cok buyuk bir fedakarlik yapmalidir
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ James Allen* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+(Hersey Kapanin bir parcasi her sey tabutun bir civisi) insanın ne kadar bağlantısı varsa hayatı o kadar yük olacak ve bu bağlantılardan ayrılırken baglantilarinin coklugu kadar büyük acı çekecektir.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-Spesifik bir alanda yapılabilecek tüm hataları yapmış kişiye "uzman" denir.
+--
 
-*>_ Niels Bohr* (2020-08-05 11:22:05)
+(Mukemmeli isteyerek) Kişi hayatınin pek çok alanında huzursuzluk veren bir kusur görür. Kendi potansiyelini sürekli eksik algılarken benlik saygısı zedelenir. Oysa hepimiz eksiğin, kusurun gölgesinde dinlenir, öğrenir, demleniriz.  
 
-tags: brutalwill, general
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-"Meraklarınızın pesinden kosmaktan yorulmayın”
+...elinizden gidebilecek ve dışa bağlı olan şeyler yerine, sizden alınamayacak şeyleri hayatınızın merkezine koymak, huzurlu bir yaşam için kilit nokta.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+"Kabul edelim, ruhsal sıkıntılarımızın çoğu elimizde olmayan şeyleri istemek ve sahip olduğumuz şeylerin kıymetini bilmemekten kaynaklanıyor.”  
 
-"Söz üretme, ürettiğinden söz et.”
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Kontrol edebileceginiz tek sey bir seye karsi olan tutumunuz  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-ne kadar okudugun degil, ne kadar anladigin.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+Bugünkü durumum geçmişte yaptığım seçimlerin sonucudur ve gelecekteki durumum da bugün yaptığım seçimlerin sonucu olacaktır  
 
-tags: brutalwill, general
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-(Hersey Kapanin bir parcasi her sey tabutun bir civisi) insanın ne kadar bağlantısı varsa hayatı o kadar yük olacak ve bu bağlantılardan ayrılırken baglantilarinin coklugu kadar büyük acı çekecektir.
+Anda olmak, anı iyi değerlendirmek, andaki ilginç ve iyiyi bulmak: zamanı iyi geçirmenin 3 yolu.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Okuman lazim evlat; evirip cevirmeyi, goze girmeyi filan birakip okuman lazim.  
 
-(Mukemmeli isteyerek) Kişi hayatınin pek çok alanında huzursuzluk veren bir kusur görür. Kendi potansiyelini sürekli eksik algılarken benlik saygısı zedelenir. Oysa hepimiz eksiğin, kusurun gölgesinde dinlenir, öğrenir, demleniriz.
+> Nazım Hikmet (2020-08-05 11:22:04)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Sevdiğiniz bir şarkının zor bir bölümünü buradan loop’a alın ve yavaşlatın, ardından sabahlara kadar tekrar edin. Bu şekilde hızı arttırarak ilerlerseniz, biraz da sabır gösterirseniz çalamayacağınız hiçbir şarkı yok.  
 
----
+> Nazım Kemal Üre (2020-08-05 11:22:04)  
+> #brutalwill
 
-...elinizden gidebilecek ve dışa bağlı olan şeyler yerine, sizden alınamayacak şeyleri hayatınızın merkezine koymak, huzurlu bir yaşam için kilit nokta.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+My goal is not to be better than anyone else, but to be better than I used to be  
 
-tags: brutalwill, general
+> Unknown (2020-08-05 11:22:04)  
+> #brutalwill
 
----
+--
 
-"Kabul edelim, ruhsal sıkıntılarımızın çoğu elimizde olmayan şeyleri istemek ve sahip olduğumuz şeylerin kıymetini bilmemekten kaynaklanıyor.”
+Stoacilarla epikuroscularin uzlastigi aci ilkesi :  levis est, si ferre possum; brevis est, si ferre non possum. katlanabiliyorsam hafiftir, katlanamiyorsam kisa surer.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> jimithekewl - Twitter (2020-08-05 11:22:04)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+If you don’t find a way to make money while you sleep, you’ll work until you die.  
 
-Kontrol edebileceginiz tek sey bir seye karsi olan tutumunuz
+> Warren Buffett (2020-08-05 11:22:04)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Give me six hours to chop down a tree and I will spend the first four sharpening the axe  
 
----
+> Abraham Lincoln (2020-08-05 11:22:04)  
+> #brutalwill
 
-Bugünkü durumum geçmişte yaptığım seçimlerin sonucudur ve gelecekteki durumum da bugün yaptığım seçimlerin sonucu olacaktır
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+i walk slowly, but i never walk backward.  
 
-tags: brutalwill, general
+> Abraham Lincoln (2020-08-05 11:22:04)  
+> #brutalwill
 
----
+--
 
-Anda olmak, anı iyi değerlendirmek, andaki ilginç ve iyiyi bulmak: zamanı iyi geçirmenin 3 yolu.
+you will never be happy if you continue to search for what happiness consists of. you will never live if you re looking for the meaning of life.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Albert Camus (2020-08-05 11:22:04)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Ne sebeple olursa olsun hatanizin uzerinde kara kara dusunmeyin. Temizlenmenin yolu camurda yuvarlanmak degildir.  
 
-Okuman lazim evlat; evirip cevirmeyi, goze girmeyi filan birakip okuman lazim.
+> Aldous Huxley (2020-08-05 11:22:04)  
+> #brutalwill
 
-*>_ Nazım Hikmet* (2020-08-05 11:22:04)
+--
 
-tags: brutalwill, general
+Surekli yaptigimiz sey ne ise biz, o'yuz. O halde, mukemmellik eylem degil, bir ALISKANLIKTIR!  
 
----
+> Unknown (2020-08-05 11:22:04)  
+> #brutalwill
 
-Sevdiğiniz bir şarkının zor bir bölümünü buradan loop’a alın ve yavaşlatın, ardından sabahlara kadar tekrar edin. Bu şekilde hızı arttırarak ilerlerseniz, biraz da sabır gösterirseniz çalamayacağınız hiçbir şarkı yok.
-
-*>_ Nazım Kemal Üre* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
-
-My goal is not to be better than anyone else, but to be better than I used to be
-
-*>_ Unknown* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
-
-Stoacilarla epikuroscularin uzlastigi aci ilkesi :  levis est, si ferre possum; brevis est, si ferre non possum. katlanabiliyorsam hafiftir, katlanamiyorsam kisa surer.
-
-*>_ jimithekewl - Twitter* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
-
-If you don’t find a way to make money while you sleep, you’ll work until you die.
-
-*>_ Warren Buffett* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
-
-Give me six hours to chop down a tree and I will spend the first four sharpening the axe
-
-*>_ Abraham Lincoln* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
-
-i walk slowly, but i never walk backward.
-
-*>_ Abraham Lincoln* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
-
-you will never be happy if you continue to search for what happiness consists of. you will never live if you re looking for the meaning of life.
-
-*>_ Albert Camus* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
-
-Ne sebeple olursa olsun hatanizin uzerinde kara kara dusunmeyin. Temizlenmenin yolu camurda yuvarlanmak degildir.
-
-*>_ Aldous Huxley* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
-
-Surekli yaptigimiz sey ne ise biz, o'yuz. O halde, mukemmellik eylem degil, bir ALISKANLIKTIR!
-
-*>_ Unknown* (2020-08-05 11:22:04)
-
-tags: brutalwill, general
-
----
+--
 
 -Kendinden bu kadar tatminkar olmak, başkalarından bu kadar az şey istemek, hiçbir zaman başkalarının varlığını özlememek   
-+Geçmişte başkalarının arkadaşlığını istediğimde, vermeyecekleri, aslında veremeyecekleri bir şeyi istediğimde, asıl yalnızlık oydu. O zaman yalnızlığı çok iyi biliyordum. Kimseye ihtiyaç duymamak hiçbir zaman yalnızlık değildir. Benim aradığım şey bahşedilen yalnızlık.
++Geçmişte başkalarının arkadaşlığını istediğimde, vermeyecekleri, aslında veremeyecekleri bir şeyi istediğimde, asıl yalnızlık oydu. O zaman yalnızlığı çok iyi biliyordum. Kimseye ihtiyaç duymamak hiçbir zaman yalnızlık değildir. Benim aradığım şey bahşedilen yalnızlık.  
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 1. Hayat acı çekmektir.  
 2. Acıya bağlar neden olur (nesnelere, fikirlere, bireylere, hayatta kalmanın kendisine olan bağlar).  
-3. Acının panzehiri vardır: arzunun, bağın, benliğin sona erdirilmesi.
+3. Acının panzehiri vardır: arzunun, bağın, benliğin sona erdirilmesi.  
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:04)
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:04)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
+--
 
 … Hicbir sey yapmamak icin en iyi mesafe surekli bir seyi yapabilecek imkaninin oldugu mesafe.  
-… Gercekte hicbir sey yapmiyorum, tembel oldugum icin degil. Korktugum icin! Eger baslarsam yaptigim seyin berbat olacagindan korkuyorum. Yaptiklarimin mukemmel olmasini istiyorum ama olmayacagini da biliyorum. Bu yuzden hic baslamamak en iyisi gibi geliyor.
+… Gercekte hicbir sey yapmiyorum, tembel oldugum icin degil. Korktugum icin! Eger baslarsam yaptigim seyin berbat olacagindan korkuyorum. Yaptiklarimin mukemmel olmasini istiyorum ama olmayacagini da biliyorum. Bu yuzden hic baslamamak en iyisi gibi geliyor.  
 
-*>_ Dusunbil* (2020-08-05 11:22:05)
+> Dusunbil (2020-08-05 11:22:05)  
+> #brutalwill #procrastination
 
-tags: brutalwill, general, procrastination
+--
 
----
+the future depends on what you do today.  
 
-the future depends on what you do today.
+> Gandhi (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Gandhi* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+72 kitabım var, çoğunu 80 yaşından sonra yazdım. Bir şeye aşık oldunuz mu her şeyi unutursunuz...  
 
----
+> Halil İnalcık (2020-08-05 11:22:05)  
+> #brutalwill
 
-72 kitabım var, çoğunu 80 yaşından sonra yazdım. Bir şeye aşık oldunuz mu her şeyi unutursunuz...
+--
 
-*>_ Halil İnalcık* (2020-08-05 11:22:05)
+Rahatsızlık verici gündelik olayların sonsuzluk yönünden bakıldığında daha az rahatsız edici hale geldiğini ifade etmekledir. (Her sey gelip gecici)  
 
-tags: brutalwill, general
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:05)  
+> #brutalwill
 
----
-
-Rahatsızlık verici gündelik olayların sonsuzluk yönünden bakıldığında daha az rahatsız edici hale geldiğini ifade etmekledir. (Her sey gelip gecici)
-
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
+--
 
 Anahtar kavram anitya, geçicilikti. Insan her fiziksel uyaranın geçici olduğunu takdir edebilirse, anitya ilkesini hayatla ilgili bütün olaylara ve tatsızlıklara aktarmak yalnızca kısa bir adım gerektiriyordu; her şey geçiciydi ve eğer kişi gözlemci duruşunu koruyabilir ve yalnızca geçen şovu seyredebilirse zihinsel sakinliği yaşayabilirdi.  
 Büyük fil kafasını düşünün: büyük düşünmeyi söylüyor.  
@@ -1256,240 +1122,212 @@ Küçük gözler bize odaklanmamızı ve dikkatimizi yoğunlaştırmamızı, k
 "Elindeki Balta?”  
 "Bütün bağlantıları kesmek için.”  
 "Ganeşa'nın öteki elinde de bir şey var. Görmek zor. Ip mi?”  
-"insanı en yüksek hedefine ulaştıracak bir ip.”
+"insanı en yüksek hedefine ulaştıracak bir ip.”  
 
-*>_ Irvin D. Yalom - Bugünü Yaşama Arzusu* (2020-08-05 11:22:05)
+> Irvin D. Yalom - Bugünü Yaşama Arzusu (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Gunluk yaptiginiz bir seyi degistirmeden hayatinizi degistiremezsiniz, basarinizin sirri gunluk rutinlerde yatar  
 
-Gunluk yaptiginiz bir seyi degistirmeden hayatinizi degistiremezsiniz, basarinizin sirri gunluk rutinlerde yatar
+> John C. Maxwell (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ John C. Maxwell* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
+--
 
 repetition, reviewing it later.   
 work on the topic, to get the main idea  
 taking tons of notes   
 implement the main idea as code   
 make flashcards for important things, you should remember about the topic.   
-review the flash cards when you have time
+review the flash cards when you have time  
 
-*>_ jwasham* (2020-08-05 11:22:05)
+> jwasham (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Bir esyamizi biri alip goturmek istese onu hemen durdururuz. Ama saatlerimizi, gunlerimiz calanlara ses etmeyiz. ekranlar, bos konusmalar, verimsiz toplantilar. hayatimizin her ani biricik. calinmasina izin vermeyelim.  
 
-Bir esyamizi biri alip goturmek istese onu hemen durdururuz. Ama saatlerimizi, gunlerimiz calanlara ses etmeyiz. ekranlar, bos konusmalar, verimsiz toplantilar. hayatimizin her ani biricik. calinmasina izin vermeyelim.
+> Kemal Sayar (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Kemal Sayar* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Iyi seyler inandiginda, daha iyi seyler sabrettiginde ve en iyi seyler hic vazgecmediginde gelir.  
 
----
+> La Edri (2020-08-05 11:22:05)  
+> #brutalwill
 
-Iyi seyler inandiginda, daha iyi seyler sabrettiginde ve en iyi seyler hic vazgecmediginde gelir.
+--
 
-*>_ La Edri* (2020-08-05 11:22:05)
+if you fail to prepare, you re prepared to fail  
 
-tags: brutalwill, general
+> Mark Spitz (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-if you fail to prepare, you re prepared to fail
+ONEMLI OLAN CALMAKTAN ZEVK ALMANIZ VE KENDINIZI SUREKLI GELISTIRMENIZ.  
 
-*>_ Mark Spitz* (2020-08-05 11:22:05)
+> Nazım Kemal Üre (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Benim için yazarlığın sırrı, nereden geleceği hiç belli olmayan ilhamda değil, inat ve sabırdadır.  
 
-ONEMLI OLAN CALMAKTAN ZEVK ALMANIZ VE KENDINIZI SUREKLI GELISTIRMENIZ.
+> Orhan Pamuk (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Nazım Kemal Üre* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Bir kisir dongu icinde surekli bir seyler istiyor, onlari elde ediyor, daha sonra baska bir seyler istemeye basliyorduk. Olunceye kadar son bulmadi … Istedigimiz seyi elde ettigimizde ya da elde etmis gorundugumuzde, bu seferde baska bir seyi istemeye basliyorduk. Milyoner olsaydiniz mutlu olacaginizi dusunebilirsiniz. Ama bu mutluluk da cok uzun surmez. SAHIP OLMADIGINIZ BASKA BIR SEY ISTERSINIZ.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-Benim için yazarlığın sırrı, nereden geleceği hiç belli olmayan ilhamda değil, inat ve sabırdadır.
-
-*>_ Orhan Pamuk* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
-
-Bir kisir dongu icinde surekli bir seyler istiyor, onlari elde ediyor, daha sonra baska bir seyler istemeye basliyorduk. Olunceye kadar son bulmadi … Istedigimiz seyi elde ettigimizde ya da elde etmis gorundugumuzde, bu seferde baska bir seyi istemeye basliyorduk. Milyoner olsaydiniz mutlu olacaginizi dusunebilirsiniz. Ama bu mutluluk da cok uzun surmez. SAHIP OLMADIGINIZ BASKA BIR SEY ISTERSINIZ.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
+--
 
 "Quantum proficiam?"  
 "Quantum temptaveris."
 
 "Ne kadar ilerleyeceğim?"  
 "Denediğin kadar."  
-Seneca, Epistulae Morales 76.5
+Seneca, Epistulae Morales 76.5  
 
-*>_ jimithekewl - Twitter* (2020-08-05 11:22:05)
+> jimithekewl - Twitter (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Her gün beş yüz sayfa kitap okumaya çalışın. Bilgi bu şekilde gelişmeye başlar. Zamanla birikir, tıpkı bileşik faiz gibi. Bunu herkes yapabilir, ama eminim ki birçok insan yapmayacaktır.  
 
-Her gün beş yüz sayfa kitap okumaya çalışın. Bilgi bu şekilde gelişmeye başlar. Zamanla birikir, tıpkı bileşik faiz gibi. Bunu herkes yapabilir, ama eminim ki birçok insan yapmayacaktır.
+> Warren Buffett (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Warren Buffett* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Çoklu görev, odaklanmayı öldürür: Araştırmalar, görevler arasında geçiş yaptığınızda beyninizin fazla enerji harcadığını kanıtlıyor. Eğer gününüzü çoklu görevler arasında gidip gelerek geçiriyorsanız, beyninizi oldukça yoruyorsunuz demektir.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-Çoklu görev, odaklanmayı öldürür: Araştırmalar, görevler arasında geçiş yaptığınızda beyninizin fazla enerji harcadığını kanıtlıyor. Eğer gününüzü çoklu görevler arasında gidip gelerek geçiriyorsanız, beyninizi oldukça yoruyorsunuz demektir.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
+--
 
 * conditions are unpredictable 
 * enjoy learning zone 
 * understand the direction, grasp the current condition, establish a target condition, experiment toward the target condition 
-* Have a coach, be a coach
+* Have a coach, be a coach  
 
-*>_ The Kata Code* (2020-08-05 11:22:05)
+> The Kata Code (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Eger kotu bir davranista bulunduysaniz, pismanlik duyun, elinizden geldigi kadar durumu duzeltin ve bir dahaki sefere daha iyi davranmaya bakin.  
 
-Eger kotu bir davranista bulunduysaniz, pismanlik duyun, elinizden geldigi kadar durumu duzeltin ve bir dahaki sefere daha iyi davranmaya bakin.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Geçmiş temizlenecek değil, kabul edilecek birşeydir.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-Geçmiş temizlenecek değil, kabul edilecek birşeydir.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+Geçmiş yok edilemez, ama geçmişin bugünümüze olan etkisi azaltılabilir.  
 
-tags: brutalwill, general
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-Geçmiş yok edilemez, ama geçmişin bugünümüze olan etkisi azaltılabilir.
+Geçmişin bugüne etkisini azaltmada ilk adım geçmişi kabullenmek, ikinci adım yeni sağlıklı yaşantılar ve öğrenmelerle olumlu deneyimleri artırmaktır.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
-
----
-
-Geçmişin bugüne etkisini azaltmada ilk adım geçmişi kabullenmek, ikinci adım yeni sağlıklı yaşantılar ve öğrenmelerle olumlu deneyimleri artırmaktır.
-
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
+--
 
 Sanskritçeden bir sözcük; "Sukha". Dış dünyadadan veya ortamdan etkilenmeden yaşanan özgün mutluluğa deniyormuş. Budizm metinlerinde geçiyor. Yazımı; सुख
 
-**Sukha: Dış dünyadadan veya ortamdan etkilenmeden yaşanan özgün mutluluk**
+**Sukha: Dış dünyadadan veya ortamdan etkilenmeden yaşanan özgün mutluluk**  
 
-*>_ yenidenbaslasin - Twitter* (2020-08-05 11:22:05)
+> yenidenbaslasin - Twitter (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+sihirli hikayelere inanmaktan vazgecin. bir gecede basari bir efsanedir.  
 
-sihirli hikayelere inanmaktan vazgecin. bir gecede basari bir efsanedir.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+sorun su; zamanin oldugunu dusunuyorsun.  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-sorun su; zamanin oldugunu dusunuyorsun.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+Stoacılığa göre, eğer hayatınızın merkezine hevesler ve istekler yerine mantığı koyarsanız, mutlu bir yaşam için ilk adımı atmış olursunuz.  
 
-tags: brutalwill, general
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-Stoacılığa göre, eğer hayatınızın merkezine hevesler ve istekler yerine mantığı koyarsanız, mutlu bir yaşam için ilk adımı atmış olursunuz.
+Sürekli istemek, huzurun bulunmasında en büyük engellerden biri.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+Butunu elde edilemeyenin tamami terkedilmez.  
 
-Sürekli istemek, huzurun bulunmasında en büyük engellerden biri.
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+A head of full of fears has no space for dreams  
 
----
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
-Butunu elde edilemeyenin tamami terkedilmez.
+--
 
-*>_ Unknown* (2020-08-05 11:22:05)
+As long as you're learning you re not failing.  
 
-tags: brutalwill, general
+> Unknown (2020-08-05 11:22:05)  
+> #brutalwill
 
----
+--
 
-A head of full of fears has no space for dreams
+Baktin olmuyor, bir tik asagisini yap, kucukten basla.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
+> Nazım Kemal Üre (2020-08-05 11:22:05)  
+> #brutalwill
 
-tags: brutalwill, general
+--
 
----
+You don't have to be great to start, but you have to start to be great  
 
-As long as you're learning you re not failing.
+> Zig Zaglar (2020-08-05 11:22:05)  
+> #brutalwill
 
-*>_ Unknown* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, general
+Tum dunya bilgeliginin yarisi "ne sevmek ne de nefret etmek” oteki yarisi ise "hicbir sey soylememek ve hicbir seye inanmamak”  
 
----
-
-Baktin olmuyor, bir tik asagisini yap, kucukten basla.
-
-*>_ Nazım Kemal Üre* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
-
-You don't have to be great to start, but you have to start to be great
-
-*>_ Zig Zaglar* (2020-08-05 11:22:05)
-
-tags: brutalwill, general
-
----
-
-Tum dunya bilgeliginin yarisi "ne sevmek ne de nefret etmek” oteki yarisi ise "hicbir sey soylememek ve hicbir seye inanmamak”
-
-*>_ Arthur Schopenhauer - Yaşam Bilgeliği Üzerine Aforizmalar* (2020-08-05 11:22:04)
-
-tags: brutalwill
+> Arthur Schopenhauer - Yaşam Bilgeliği Üzerine Aforizmalar (2020-08-05 11:22:04)  
+> #brutalwill
 

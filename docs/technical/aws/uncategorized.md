@@ -1,8 +1,14 @@
 ---
-tags: [aws, elasticbeanstalk, httpd, technical]
+tags: [aws, elasticbeanstalk, graviton, httpd, performance]
 ---
 
-# uncategorized
+- Using T4g instances you can enjoy a **performance benefit of up to 40% at a 20% lower cost in comparison to T3 instances**, providing the best price/performance for a broader spectrum of workloads.
+- T4g instances are designed for applications that don’t use CPU at full power most of the time  
+
+> Unknown (2023-08-31 16:04:56)  
+> #aws #graviton #performance
+
+--
 
 Add new SSH public key to AWS EC2 Instance:
 
@@ -15,13 +21,12 @@ Done \m/
 
 You can use more than one public key to ssh if you want or delete old ones
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/replacing-key-pair.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/replacing-key-pair.html  
 
-*>_ Unknown* (2023-08-17 17:31:35)
+> Unknown (2023-08-17 17:31:35)  
+> #aws
 
-tags: aws, technical
-
----
+--
 
 Get EC2 Instance Type inside of instance
 
@@ -29,13 +34,12 @@ Get EC2 Instance Type inside of instance
 curl http://169.254.169.254/latest/meta-data/instance-type  
 ```
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html  
 
-*>_ Unknown* (2023-08-17 17:03:50)
+> Unknown (2023-08-17 17:03:50)  
+> #aws
 
-tags: aws, technical
-
----
+--
 
 AWS ElasticBeanstalk PHP 7.4 Environment httpd.conf:
 
@@ -52,13 +56,12 @@ MaxConnectionsPerChild 1000000
 ...  
 ```
 
-Same for t4g.micro and t4g.xlarge.
+Same for t4g.micro and t4g.xlarge.  
 
-*>_ Unknown* (2023-08-04 23:22:46)
+> Unknown (2023-08-04 23:22:46)  
+> #aws #elasticbeanstalk #httpd
 
-tags: aws, elasticbeanstalk, httpd, technical
-
----
+--
 
 # Extending EC2 Volume Size
 
@@ -92,44 +95,23 @@ sudo growpart /dev/nvme0n1 1
 sudo xfs_growfs -d /  
 ```
 
-Source: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html
+Source: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html  
 
-*>_ Unknown* (2023-07-31 21:52:51)
+> Unknown (2023-07-31 21:52:51)  
+> #aws
 
-tags: aws, technical
-
----
+--
 
 ## Difference of AWS Public-Private Subnet
 
 - https://serverfault.com/questions/556363/what-is-the-difference-between-a-public-and-private-subnet-in-a-amazon-vpc
 - PUBLIC SUBNET: If a subnet's traffic is routed to an internet gateway, the subnet is known as a public subnet.
-- PRIVATE SUBNET: If a subnet doesn't have a route to the internet gateway, the subnet is known as a private subnet.
+- PRIVATE SUBNET: If a subnet doesn't have a route to the internet gateway, the subnet is known as a private subnet.  
 
-*>_ Unknown* (2022-08-13 21:10:25)
+> Unknown (2022-08-13 21:10:25)  
+> #aws
 
-tags: aws, technical
-
----
-
-## Extend EC2 Instance Volume
-
-- Extending OS file system. After you finish modifying volume, you need to extend OS file system in order to see your  
-  increased volume size. The example below is the command I used for Ubuntu OS.
-- SSH into your instance.
-- Type "lsblk" -> Your increased volume will be shown just above your current volume, e.g. xvda1 is your current volume  
-  with 30GB size and xvda with 40GB size.
-- Extend the partition by typing "sudo growpart /dev/xvda1" (Note that dev/xvda is the partition name and 1 is the  
-  partition number.)
-- Extend the volume by typing -> sudo resize2fs /dev/xvda1
-
-Source: https://medium.com/@m.yunan.helmy/increase-the-size-of-ebs-volume-in-your-ec2-instance-3859e4be6cb7
-
-*>_ Unknown* (2022-08-13 21:10:06)
-
-tags: aws, technical
-
----
+--
 
 ## If you cannot delete Elasticbeanstalk environment
 
@@ -137,18 +119,16 @@ You need to go to your CloudFormation console and retry deletion of the CloudFor
 environment used. The deletion may fail, but after retrying it will prompt you if you want to skip the  
 "AWSEBRDSDatabase" resource that failed to delete. You can just confirm that you want to skip deletion (since you have  
 actually already deleted it). This should remove the CloudFormation stack. Then you can retry deletion of the Beanstalk  
-environment from the Beanstalk console.
+environment from the Beanstalk console.  
 
-*>_ Unknown* (2022-08-13 20:56:36)
+> Unknown (2022-08-13 20:56:36)  
+> #aws
 
-tags: aws, technical
-
----
+--
 
 - aws api gateway uses token bucket algorithm for rate limiting
-- s3 bucket name best practices: images.domain.com
+- s3 bucket name best practices: images.domain.com  
 
-*>_ Unknown* (2022-08-13 20:56:20)
-
-tags: aws, technical
+> Unknown (2022-08-13 20:56:20)  
+> #aws
 

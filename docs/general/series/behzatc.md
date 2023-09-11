@@ -1,44 +1,36 @@
 ---
-tags: [behzatc, general, series]
+tags: [behzatc, series]
 ---
 
-Niye ilgileniyormus gibi yapiyorsun? Neyden kaciyorsun yine? Savci Esra
+Niye ilgileniyormus gibi yapiyorsun? Neyden kaciyorsun yine? Savci Esra  
 
-*>_ Behzat Ç. - E44* (2020-08-05 11:22:07)
+> Behzat Ç. - E44 (2020-08-05 11:22:07)  
+> #behzatc
 
-tags: behzatc, general
+--
 
----
+Valla her zaman uzgun gorunurdu  
 
-Valla her zaman uzgun gorunurdu
+> Behzat Ç. - E40 (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Behzat Ç. - E40* (2020-08-05 11:22:07)
+Eskiden boyle degildi, olunce cok degisti.  
 
-tags: general
-
----
-
-Eskiden boyle degildi, olunce cok degisti.
-
-*>_ Behzat Ç. - E4* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Behzat Ç. - E4 (2020-08-05 11:22:06)  
+  
+--
 
 -babamin kalbi var, kaldiramaz
 -katil oldugunu?
--gey oldugumu
+-gey oldugumu  
 
-*>_ Behzat Ç. - E4* (2020-08-05 11:22:06)
+> Behzat Ç. - E4 (2020-08-05 11:22:06)  
+> #behzatc #series
 
-tags: behzatc, general, series
+--
 
----
+Benim bir yontemim yok, dogustan gelen bir rahatsizligim var. -Ercument Cozer  
 
-Benim bir yontemim yok, dogustan gelen bir rahatsizligim var. -Ercument Cozer
-
-*>_ Behzat Ç. - E73* (2020-08-05 11:22:04)
-
-tags: general
-
+> Behzat Ç. - E73 (2020-08-05 11:22:04)  
+  

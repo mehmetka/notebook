@@ -1,5 +1,5 @@
 ---
-tags: [technical, terraform]
+tags: [terraform]
 ---
 
 # Create S3 Bucket
@@ -52,9 +52,8 @@ resource "aws_s3_bucket" "b" {
 }  
   POLICY  
 }  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:07:20)
-
-tags: technical, terraform
+> Unknown (2022-08-13 21:07:20)  
+> #terraform
 

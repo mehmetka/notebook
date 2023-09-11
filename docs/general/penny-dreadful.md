@@ -1,104 +1,76 @@
----
-tags: [general]
----
+Your first born has returned, "father" !  
 
-Your first born has returned, "father" !
-
-*>_ Penny Dreadful* (2020-08-05 11:22:10)
-
-tags: general
-
----
+> Penny Dreadful (2020-08-05 11:22:10)  
+  
+--
 
 "When lucifer fell, he did not fall alone"  
 "Be true... My name is Joan Clayton"  
+  
 
-
-*>_ Penny Dreadful* (2020-08-05 11:22:08)
-
-tags: general
-
----
+> Penny Dreadful (2020-08-05 11:22:08)  
+  
+--
 
 Brona, Gaelce  
 Anlamı ne?  
 Mutsuzluk  
+  
 
-
-*>_ Penny Dreadful* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Penny Dreadful (2020-08-05 11:22:07)  
+  
+--
 
 My Little Scorpion... When Lucifer fell, he did not fall alone.  
+  
 
+> Penny Dreadful (2020-08-05 11:22:07)  
+  
+--
 
-*>_ Penny Dreadful* (2020-08-05 11:22:07)
+Bazı talihsiz ruhların sonsuza kadar yaşaması için lanetlendikleri yerde.  
 
-tags: general
+> Penny Dreadful (2016-10-27 16:15:43)  
+  
+--
 
----
+Nadiren görülen fakat derinden hissedilen.  
 
-Bazı talihsiz ruhların sonsuza kadar yaşaması için lanetlendikleri yerde.
+> Penny Dreadful (2016-10-27 16:15:33)  
+  
+--
 
-*>_ Penny Dreadful* (2016-10-27 16:15:43)
+Gölgelerde kalmış bir yer.  
 
-tags: general
+> Penny Dreadful (2016-10-27 16:15:29)  
+  
+--
 
----
+Demimonde âleminin varlığına inanır mısın, Bay Chandler?  
 
-Nadiren görülen fakat derinden hissedilen.
+> Penny Dreadful (2016-10-27 16:15:25)  
+  
+--
 
-*>_ Penny Dreadful* (2016-10-27 16:15:33)
+Bildiklerimiz ve korktuklarımız arasında kalmış bir yarım dünya.  
 
-tags: general
+> Penny Dreadful (2016-10-27 16:12:19)  
+  
+--
 
----
+Doğada bu kadar muntazamı çok nadir görülür; doğa simetriden tiksinir.  
 
-Gölgelerde kalmış bir yer.
+> Penny Dreadful (2016-10-26 16:52:42)  
+  
+--
 
-*>_ Penny Dreadful* (2016-10-27 16:15:29)
+Ceset hırsızlarının zanaatlerini icra ettikleri yer.  
 
-tags: general
+> Penny Dreadful (2016-10-26 16:51:15)  
+  
+--
 
----
+Buradaki ziyaretimi unutulmaz kıldığını bilmeni isterim.  
 
-Demimonde âleminin varlığına inanır mısın, Bay Chandler?
-
-*>_ Penny Dreadful* (2016-10-27 16:15:25)
-
-tags: general
-
----
-
-Bildiklerimiz ve korktuklarımız arasında kalmış bir yarım dünya.
-
-*>_ Penny Dreadful* (2016-10-27 16:12:19)
-
-tags: general
-
----
-
-Doğada bu kadar muntazamı çok nadir görülür; doğa simetriden tiksinir.
-
-*>_ Penny Dreadful* (2016-10-26 16:52:42)
-
-tags: general
-
----
-
-Ceset hırsızlarının zanaatlerini icra ettikleri yer.
-
-*>_ Penny Dreadful* (2016-10-26 16:51:15)
-
-tags: general
-
----
-
-Buradaki ziyaretimi unutulmaz kıldığını bilmeni isterim.
-
-*>_ Penny Dreadful* (2016-10-26 16:48:25)
-
-tags: general
-
+> Penny Dreadful (2016-10-26 16:48:25)  
+  

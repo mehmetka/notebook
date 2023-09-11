@@ -1,10 +1,10 @@
 ---
-tags: [aws, technical]
+tags: [aws, docker, ecr, gitlabci, lambda, python, s3]
 ---
 
 # Customizing Lambda with Docker Image (+Trigger)
 
-> Manipulating Images with Pillow & Imagemagick, Python 3.8 - Lambda Docker Image (S3 File Upload Trigger)
+Manipulating Images with Pillow & Imagemagick, Python 3.8 - Lambda Docker Image (S3 File Upload Trigger)
 
 ## Dockerfile
 
@@ -79,7 +79,7 @@ curl -XPOST "http://localhost:9001/2015-03-31/functions/function/invocations" -d
 
 Create permissions like below and give it to the lambda role to be able to work with Buckets.
 
-### Source bucket:
+### Source bucket
 
 ```  
 {  
@@ -98,7 +98,7 @@ Create permissions like below and give it to the lambda role to be able to work 
 }  
 ```
 
-### Destination bucket:
+### Destination bucket
 
 ```  
 {  
@@ -119,7 +119,7 @@ Create permissions like below and give it to the lambda role to be able to work 
 
 ## ECR Operations
 
-- Required permissions to do ECR operations
+Required permissions to do ECR operations
 
 ```  
 "ecr:CreateRepository",  
@@ -135,10 +135,12 @@ Create permissions like below and give it to the lambda role to be able to work 
 
 - Create repository
 - Build image (We did already before)
-- docker tag ecr-repository-name:latest account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest
-- aws ecr get-login-password --region location | docker login --username AWS --password-stdin  
-  account-id.dkr.ecr.location.amazonaws.com
-- docker push account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest
+
+```  
+docker tag ecr-repository-name:latest account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest  
+aws ecr get-login-password --region location | docker login --username AWS --password-stdin account-id.dkr.ecr.location.amazonaws.com  
+docker push account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest  
+```
 
 ## Create Lambda
 
@@ -150,9 +152,9 @@ step
 Add trigger > S3 > Choose Source Bucket > Event Type (All object crete) > Add (If there is already defined a trigger,  
 should be delete old one and then add new one)
 
-## Auto build and push
+## Auto build and push with Gitlab CI
 
-Should be define AWS credentials into ~/.aws or CI/CD variables.
+- Should be define AWS credentials into ~/.aws or CI/CD variables.
 
 ```  
 stages:  
@@ -164,10 +166,9 @@ build:
     - master  
   stage: build  
   script:  
-    - docker build -t ecr-repository-name  
-    - docker tag ecr-repository-name:latest account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest  
+    - docker build -t account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest .  
   tags:  
-    - cd
+    - runner-tag
 
 push:  
   only:  
@@ -177,10 +178,9 @@ push:
     - aws ecr get-login-password --region location | docker login --username AWS --password-stdin account-id.dkr.ecr.location.amazonaws.com  
     - docker push account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest  
   tags:  
-    - cd  
-```
+    - runner-tag  
+```  
 
-*>_ Unknown* (2022-08-13 20:55:21)
-
-tags: aws, technical
+> Unknown (2022-08-13 20:55:21)  
+> #aws #docker #ecr #gitlabci #lambda #python #s3
 

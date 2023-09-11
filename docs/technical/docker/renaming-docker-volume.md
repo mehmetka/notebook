@@ -1,5 +1,5 @@
 ---
-tags: [docker, technical]
+tags: [docker]
 ---
 
 # Renaming Docker Volume
@@ -19,9 +19,8 @@ docker container run --rm -it \
 	    alpine ash -c "cd /from ; cp -av . /to"     
 ```
 
-Source: https://stackoverflow.com/a/67568671
+Source: https://stackoverflow.com/a/67568671  
 
-*>_ Unknown* (2022-08-13 20:57:49)
-
-tags: docker, technical
+> Unknown (2022-08-13 20:57:49)  
+> #docker
 

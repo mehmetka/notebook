@@ -1,5 +1,5 @@
 ---
-tags: [git, technical]
+tags: [git]
 ---
 
 # Git Flow
@@ -85,9 +85,8 @@ tags: [git, technical]
 - Large software like Facebook and Gmail, you may need to introduce deployment branches between your branch and master  
   branch where CI/CD tools could run,
 - before it gets in to production. Idea is to introduce more protection to production version since its used by millions  
-  of people.
+  of people.  
 
-*>_ Unknown* (2022-08-13 20:59:45)
-
-tags: git, technical
+> Unknown (2022-08-13 20:59:45)  
+> #git
 

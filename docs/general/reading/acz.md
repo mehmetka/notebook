@@ -1,28 +1,24 @@
 ---
-tags: [acz, general]
+tags: [acz]
 ---
 
-Hayalinden vazgeçenin başına toprak saçılsın
+Hayalinden vazgeçenin başına toprak saçılsın  
 
-*>_ Cahit Zarifoğlu* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Cahit Zarifoğlu (2020-08-05 11:22:07)  
+  
+--
 
 Bir kanepeye sığardık sevgiyle  
 Ne zaman dünyaya kapıldık biz  
-Mobilyamız vardı, insana yer yoktu artık kalbimizde
+Mobilyamız vardı, insana yer yoktu artık kalbimizde  
 
-*>_ Cahit Zarifoğlu* (2020-08-05 11:22:07)
+> Cahit Zarifoğlu (2020-08-05 11:22:07)  
+> #acz
 
-tags: acz, general
+--
 
----
+Der misin ki bir gun; "Insallah cok bekletmedim seni..."  
 
-Der misin ki bir gun; "Insallah cok bekletmedim seni..."
-
-*>_ Cahit Zarifoglu* (2020-08-05 11:22:06)
-
-tags: acz, general
+> Cahit Zarifoglu (2020-08-05 11:22:06)  
+> #acz
 

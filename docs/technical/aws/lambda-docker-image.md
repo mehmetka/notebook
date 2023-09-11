@@ -1,5 +1,5 @@
 ---
-tags: [aws, technical]
+tags: [aws, docker, ecr, gitlabci, lambda, python, s3]
 ---
 
 # Customizing Lambda with Docker Image
@@ -32,7 +32,7 @@ curl -XPOST "http://localhost:9001/2015-03-31/functions/function/invocations" -d
 
 ## ECR Operations
 
-- Required permissions to do ECR operations
+Required permissions to do ECR operations
 
 ```  
 "ecr:CreateRepository",  
@@ -48,16 +48,19 @@ curl -XPOST "http://localhost:9001/2015-03-31/functions/function/invocations" -d
 
 - Create a repository on ECR
 - Build image (We did already before)
-- docker tag ecr-repository-name:latest account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest
-- aws ecr get-login-password --region location | docker login --username AWS --password-stdin account-id.dkr.ecr.location.amazonaws.com
-- docker push account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest
+
+```  
+docker tag ecr-repository-name:latest account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest  
+aws ecr get-login-password --region location | docker login --username AWS --password-stdin account-id.dkr.ecr.location.amazonaws.com  
+docker push account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest  
+```
 
 ## Create Lambda
 
 Create Function > Container Image > Fill the required fields > Select container image URI > Finalize Create Function  
 step
 
-> Add trigger to your lambda if needed
+[Add trigger](/technical/aws/lambda-docker-image-with-trigger) to your lambda if needed
 
 ## Auto build and push with Gitlab CI
 
@@ -71,10 +74,9 @@ build:
     - master  
   stage: build  
   script:  
-    - docker build -t ecr-repository-name .  
-    - docker tag ecr-repository-name:latest account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest  
+    - docker build -t account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest .  
   tags:  
-    - cd
+    - runner-tag
 
 push:  
   only:  
@@ -84,10 +86,9 @@ push:
     - aws ecr get-login-password --region location | docker login --username AWS --password-stdin account-id.dkr.ecr.location.amazonaws.com  
     - docker push account-id.dkr.ecr.location.amazonaws.com/ecr-repository-name:latest  
   tags:  
-    - cd  
-```
+    - runner-tag  
+```  
 
-*>_ Unknown* (2022-08-13 20:54:54)
-
-tags: aws, technical
+> Unknown (2022-08-13 20:54:54)  
+> #aws #docker #ecr #gitlabci #lambda #python #s3
 

@@ -1,5 +1,5 @@
 ---
-tags: [docker, technical]
+tags: [docker]
 ---
 
 # Read Secrets from Dotenv
@@ -50,9 +50,8 @@ db:
 networks:  
 default:  
     name: docker-compose-dotenv_default  
-```
+```  
 
-*>_ Unknown* (2022-08-13 20:56:59)
-
-tags: docker, technical
+> Unknown (2022-08-13 20:56:59)  
+> #docker
 

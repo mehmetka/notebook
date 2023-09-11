@@ -1,8 +1,6 @@
 ---
-tags: [elasticsearch, technical]
+tags: [elasticsearch]
 ---
-
-# uncategorized
 
 Error Message:
 
@@ -14,9 +12,8 @@ Solution:
 
 ```  
 $ setsebool httpd_can_network_connect 1  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:11:25)
-
-tags: elasticsearch, technical
+> Unknown (2022-08-13 21:11:25)  
+> #elasticsearch
 

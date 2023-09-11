@@ -1,5 +1,5 @@
 ---
-tags: [cloudflare, technical]
+tags: [cloudflare]
 ---
 
 # Cloudflare Maintenance Mode
@@ -44,9 +44,8 @@ addEventListener('fetch', event => {
 - Click "Add route" and type "*.your-domain.com/*" to "Route" input and choose zone/website.  
   ![cloudflare-maintenance-mode-7.png](/img/cloudflare-maintenance-mode-7.png)
 
-- Click "Add route" and done \m/
+- Click "Add route" and done \m/  
 
-*>_ Unknown* (2022-08-23 22:49:12)
-
-tags: cloudflare, technical
+> Unknown (2022-08-23 22:49:12)  
+> #cloudflare
 

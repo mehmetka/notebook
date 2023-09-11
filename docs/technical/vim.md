@@ -1,5 +1,5 @@
 ---
-tags: [technical, vim]
+tags: [vim]
 ---
 
 set number! -> unset line numbers  
@@ -15,13 +15,12 @@ undo the last change: u
 
 print file name -> :pwd  
 save as -> :w filename  
-insert mode with new line: o
+insert mode with new line: o  
 
-*>_ Unknown* (2023-08-10 22:52:23)
+> Unknown (2023-08-10 22:52:23)  
+> #vim
 
-tags: technical, vim
-
----
+--
 
 Vim Encryption
 
@@ -43,13 +42,12 @@ Disable encryption
 
 ```  
 :set key=  
-```
+```  
 
-*>_ Unknown* (2023-08-10 23:15:59)
+> Unknown (2023-08-10 23:15:59)  
+> #vim
 
-tags: technical, vim
-
----
+--
 
 - This command will ng whitespace. To not delete lines containialso delete lines containing only whitespace, you can use \W*, which means "zero or more whitespace characters.": :g/^\W*$/d
 - This command deletes any line containing only zero or more whitespace characters. Lines that contain any other type of character are not deleted.
@@ -75,9 +73,8 @@ tags: technical, vim
 - For the entire file 'g', search(/) for lines containing only the beginning '^' and ending '$' of a line, and delete 'd' those lines:   
 ```  
 :g/^$/d  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:07:49)
-
-tags: technical, vim
+> Unknown (2022-08-13 21:07:49)  
+> #vim
 

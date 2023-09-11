@@ -1,55 +1,90 @@
 ---
-tags: [linux, technical]
+tags: [linux]
 ---
 
-User's UID:
+## Reverse order by time
+
+a -> all  
+h -> human readable size  
+r -> reverse  
+t -> order by time
+
+```  
+ls -lahrt  
+```  
+
+> Unknown (2023-09-07 12:12:55)  
+> #linux
+
+--
+
+## Kill all firefox processes
+
+```  
+pkill -f firefox  
+```  
+
+> Unknown (2023-08-27 22:21:55)  
+> #linux
+
+--
+
+## Delete user and home its home folder
+
+```  
+sudo userdel -r userName  
+```  
+
+> Unknown (2023-08-27 22:21:12)  
+> #linux
+
+--
+
+## User's UID
 
 ```  
 id -u username  
 ```
 
-User's GID:
+## User's GID
 
 ```  
 id -g username  
 ```
 
-https://kb.iu.edu/d/adwf
+https://kb.iu.edu/d/adwf  
 
-*>_ Unknown* (2023-08-14 16:29:07)
+> Unknown (2023-08-14 16:29:07)  
+> #linux
 
-tags: linux, technical
+--
 
----
-
-# Multiple SSH Keys
+## Multiple SSH Keys
 
 Using more than one ssh key, add below lines to this file: ~/.ssh/config
 
 ```  
 IdentityFile ~/Desktop/.ssh/id_rsa  
 IdentityFile ~/.ssh/id_rsa  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:09:20)
+> Unknown (2022-08-13 21:09:20)  
+> #linux
 
-tags: linux, technical
+--
 
----
-
-# Change SSH port
+## Change SSH port
 
 - Find "# Listen 22" line and remove sharp in this file: /etc/ssh/sshd_config
 - Then change port number
 - Restart sshd service, logout, login
 
-Source: https://www.howtoforge.com/how-to-install-gitlab-server-with-docker-on-ubuntu-1804/
+Source: https://www.howtoforge.com/how-to-install-gitlab-server-with-docker-on-ubuntu-1804/  
 
-*>_ Unknown* (2022-08-13 21:09:32)
+> Unknown (2022-08-13 21:09:32)  
+> #linux
 
-tags: linux, technical
-
----
+--
 
 - To not keep track command history, write commands start with whitespace
 - Find duplicate lines in a file```cat data.txt | sort | uniq -d ```
@@ -67,9 +102,8 @@ tags: linux, technical
 - Website accessible? scutil -r web-site-name
 - Zip a file with password: zip -e destination.zip source-to-zip.txt
 - Find duplicates in a folder: fdupes -r .
-- exiftool -all:all file.pdf
+- exiftool -all:all file.pdf  
 
-*>_ Unknown* (2022-08-13 21:04:29)
-
-tags: linux, technical
+> Unknown (2022-08-13 21:04:29)  
+> #linux
 

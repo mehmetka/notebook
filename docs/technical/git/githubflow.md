@@ -1,5 +1,5 @@
 ---
-tags: [git, technical]
+tags: [git]
 ---
 
 # Github Flow
@@ -39,9 +39,8 @@ accepted and the branch is merged.
 ## Sources
 
 - https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
-- https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
+- https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf  
 
-*>_ Unknown* (2022-08-13 21:00:12)
-
-tags: git, technical
+> Unknown (2022-08-13 21:00:12)  
+> #git
 

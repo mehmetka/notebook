@@ -1,27 +1,23 @@
 ---
-tags: [bigmouth, general, series]
+tags: [bigmouth, series]
 ---
 
 Oldur kendini  
-bunu hep teklif ediyorsun zaten.
+bunu hep teklif ediyorsun zaten.  
 
-*>_ Big Mouth* (2020-08-05 11:22:06)
+> Big Mouth (2020-08-05 11:22:06)  
+> #bigmouth #series
 
-tags: bigmouth, general, series
+--
 
----
+Bir kardiyolog kirilmis bir kalbi tanir  
 
-Bir kardiyolog kirilmis bir kalbi tanir
+> Big Mouth (2020-08-05 11:22:06)  
+> #bigmouth #series
 
-*>_ Big Mouth* (2020-08-05 11:22:06)
+--
 
-tags: bigmouth, general, series
+Ve intiharinin sorumlusu olmak istemedik // And we didn’t want to be blamed for your suicide.  
 
----
-
-Ve intiharinin sorumlusu olmak istemedik // And we didn’t want to be blamed for your suicide.
-
-*>_ Big Mouth* (2020-08-05 11:22:04)
-
-tags: general
-
+> Big Mouth (2020-08-05 11:22:04)  
+  

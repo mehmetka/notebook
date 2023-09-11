@@ -1,19 +1,18 @@
 ---
-tags: [aws, technical]
+tags: [aws, elasticbeanstalk, httpd, newrelic, phpfpm]
 ---
 
 # Elasticbeanstalk PHP Environment
 
-Use exist security group:
+## Use exist security group
 
 ```yaml  
 option_settings:  
-  - namespace: aws:autoscaling:launchconfiguration  
-    option_name: SecurityGroups  
-    value: securitygroup-name  
+  aws:autoscaling:launchconfiguration    
+    SecurityGroups: securitygroup-name    
 ```
 
-Customize PHP-FPM settings:
+## Customize PHP-FPM settings
 
 ```yaml  
 option_settings:  
@@ -59,22 +58,18 @@ commands:
     command: bash /tmp/calc-php-fpm.sh  
 ```
 
-Environment Variables:
+## Environment Variables
 
 ```yaml  
 option_settings:  
   aws:elasticbeanstalk:application:environment:  
-    DB_WRITER_HOST: rds-host  
-    DB_WRITER_USER: username  
-    DB_WRITER_PASSWORD: password  
-    DB_WRITER_DATABASE: database  
-    DB_READER_HOST: rds-host  
-    DB_READER_USER: username  
-    DB_READER_PASSWORD: password  
-    DB_READER_DATABASE: database  
+    DB_HOST: rds-host  
+    DB_USER: username  
+    DB_PASSWORD: password  
+    DB_DATABASE: database  
 ```
 
-Create custom folder:
+## Create custom folder
 
 ```yaml  
 container_commands:  
@@ -83,7 +78,7 @@ container_commands:
     ignoreErrors: true  
 ```
 
-Install custom packages:
+## Install custom packages
 
 ```yaml  
 packages:  
@@ -91,7 +86,7 @@ packages:
     packageName: [ ]  
 ```
 
-Install PHP extensions with PECL:
+## Install PHP extensions with PECL
 
 ```yaml  
 commands:  
@@ -100,7 +95,7 @@ commands:
     ignoreErrors: true  
 ```
 
-Set Auto Scaling Rules:
+## Set Auto Scaling Rules
 
 ```yaml  
 option_settings:  
@@ -110,7 +105,7 @@ option_settings:
     MinSize: "2"  
 ```
 
-Set Deployment Type:
+## Set Deployment Type
 
 ```yaml  
 option_settings:  
@@ -121,7 +116,7 @@ option_settings:
     IgnoreHealthCheck: true  
 ```
 
-Add HTTPs Listener to ALB
+## Add HTTPs Listener to ALB
 
 ```yaml  
 option_settings:  
@@ -131,7 +126,7 @@ option_settings:
     SSLCertificateArns: certificate-arn  
 ```
 
-Add Custom Health Path:
+## Add Custom Health Path
 
 ```yaml  
 option_settings:  
@@ -139,25 +134,21 @@ option_settings:
     HealthCheckPath: /health-check-route  
 ```
 
-Cloudwatch Configurations:
+## Cloudwatch Configurations
 
 ```yaml  
 option_settings:  
-  - namespace: aws:elasticbeanstalk:cloudwatch:logs  
-    option_name: StreamLogs  
-    value: true  
-  - namespace: aws:elasticbeanstalk:cloudwatch:logs:health  
-    option_name: HealthStreamingEnabled  
-    value: false  
-  - namespace: aws:elasticbeanstalk:cloudwatch:logs:health  
-    option_name: DeleteOnTerminate  
-    value: true  
-  - namespace: aws:elasticbeanstalk:cloudwatch:logs:health  
-    option_name: RetentionInDays  
-    value: 7  
+  aws:elasticbeanstalk:cloudwatch:logs  
+    StreamLogs: true  
+  aws:elasticbeanstalk:cloudwatch:logs:health  
+    HealthStreamingEnabled: false  
+  aws:elasticbeanstalk:cloudwatch:logs:health  
+    DeleteOnTerminate: true  
+  aws:elasticbeanstalk:cloudwatch:logs:health  
+    RetentionInDays: 7  
 ```
 
-Install New Relic APM Agent:
+## Install New Relic APM Agent
 
 ```yaml  
 packages:  
@@ -173,7 +164,7 @@ commands:
       NR_INSTALL_KEY: newrelic-key  
 ```
 
-Install New Relic Infrastructure Agent:
+## Install New Relic Infrastructure Agent
 
 ```yaml  
 files:  
@@ -195,13 +186,13 @@ commands:
     command: sudo yum install newrelic-infra -y  
 ```
 
-customizing apache conf  
+## Customizing httpd conf
+
 .platform/httpd/conf.d/x.conf:  
 ```  
 CustomLog logs/access_log "%{X-Forwarded-For}i %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\" [%T/%D]"  
-```
+```  
 
-*>_ Unknown* (2022-08-13 20:54:16)
-
-tags: aws, technical
+> Unknown (2022-08-13 20:54:16)  
+> #aws #elasticbeanstalk #httpd #newrelic #phpfpm
 

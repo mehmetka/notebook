@@ -13,23 +13,13 @@ Hi! 🤘
 
 - 🤘 I love Metal music, especially: Gojira, Meshuggah, Dagoba, Behemoth, Septicflesh, Deathspell Omega
 
-- ⚡ Fun fact:
-    - I love whales (especially the flying ones, 52-hertz and who carry containers)
-
-- 🐋 Currently, I'm working as DevOps Engineer at [Shopier](https://www.shopier.com)
+- 🐋 I love whales (especially
+  the [flying ones](https://www.youtube.com/watch?v=xRIVJ7aLHTE), [52-hertz](https://en.wikipedia.org/wiki/52-hertz_whale)
+  and who [carry containers](https://www.docker.com/))
 
 - 🐈 Berlin, Arthur, Petra
 
-```
-In the misty morning, on the edge of time
-We've lost the rising sun
-...
-We sailed across the air before we learned to fly.
-We thought that it could never end
-...
-We're lost children of the sea
-~ Ronnie Jame Dio
-```
+- 🐋 Currently, I'm working as DevOps Engineer at [Shopier](https://www.shopier.com)
 
 ![heavy-trip-children-of-the-sea](https://media.giphy.com/media/2QEomdgkDLIfNzOAhN/giphy-downsized-large.gif?style=centerme)
 

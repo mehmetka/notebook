@@ -1,5 +1,5 @@
 ---
-tags: [security, technical]
+tags: [security]
 ---
 
 # OWASP Testing Guide v4.0
@@ -123,9 +123,8 @@ tags: [security, technical]
 - Test Local Storage (OTG-CLIENT-012)
 
 ## Source  
-https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf
+https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf  
 
-*>_ Unknown* (2022-08-13 21:05:59)
-
-tags: security, technical
+> Unknown (2022-08-13 21:05:59)  
+> #security
 

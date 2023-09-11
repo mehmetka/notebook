@@ -1,5 +1,5 @@
 ---
-tags: [elasticsearch, technical]
+tags: [elasticsearch]
 ---
 
 # Single Node Elasticsearch with Docker
@@ -59,9 +59,8 @@ docker exec elasticsearch bin/elasticsearch-plugin install analysis-icu
 docker restart elasticsearch  
 ```
 
-Source: https://elk-docker.readthedocs.io/#installing-elasticsearch-plugins
+Source: https://elk-docker.readthedocs.io/#installing-elasticsearch-plugins  
 
-*>_ Unknown* (2022-08-13 20:59:25)
-
-tags: elasticsearch, technical
+> Unknown (2022-08-13 20:59:25)  
+> #elasticsearch
 

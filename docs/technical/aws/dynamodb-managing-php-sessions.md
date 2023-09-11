@@ -1,12 +1,20 @@
 ---
-tags: [aws, technical]
+tags: [aws]
 ---
 
 # Managing PHP Sessions with DynamoDB
 
-- composer require aws/aws-sdk-php
-- Create a table named "sessions" on DynamoDB
-- Required permissions:
+## Install AWS SDK  
+```  
+composer require aws/aws-sdk-php  
+```
+
+## Create Table on DynamoDB  
+Create a table named "sessions" on DynamoDB
+
+### Required permissions
+
+Min required permissions listed below. Create a permission like below and attach it to DynamoDB Table
 
 ```json  
 {  
@@ -27,7 +35,9 @@ tags: [aws, technical]
 }  
 ```
 
-- Add below code block before session_start()
+## Implementation
+
+Add below code block before session_start()
 
 ```php  
 include_once __DIR__ . '/vendor/autoload.php';
@@ -63,11 +73,9 @@ $sessionHandler->register();
 [Setup a TTL attribute in your DynamoDB table, using the attribute ‘expires’. This will automatically garbage collect  
 your sessions and avoid the need to garbage collect them yourself.](https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/service_dynamodb-session-handler.html#:~:text=Setup%20a%20TTL%20attribute%20in%20your%20DynamoDB%20table%2C%20using%20the%20attribute%20%E2%80%98expires%E2%80%99.%20This%20will%20automatically%20garbage%20collect%20your%20sessions%20and%20avoid%20the%20need%20to%20garbage%20collect%20them%20yourself)
 
-### Source:
+## Source:  
+https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/service_dynamodb-session-handler.html  
 
-- https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/service_dynamodb-session-handler.html
-
-*>_ Unknown* (2022-08-13 20:52:54)
-
-tags: aws, technical
+> Unknown (2022-08-13 20:52:54)  
+> #aws
 

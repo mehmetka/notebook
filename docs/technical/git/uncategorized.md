@@ -1,19 +1,5 @@
 ---
-tags: [git, technical]
----
-
-# uncategorized
-
-Rollback a file:
-
-```  
-git checkout HEAD -- filename  
-```
-
-*>_ Unknown* (2023-08-08 22:07:48)
-
-tags: git, technical
-
+tags: [git]
 ---
 
 ## Huseyin Babal - Using Git Like a Hero
@@ -61,11 +47,30 @@ Message: commit msg
 
 ![hbabal-using-git-like-a-hero](/img/hbabal-using-git-like-a-hero.png)
 
-*>_ Unknown* (2022-08-13 21:00:55)
+Source: https://www.youtube.com/watch?v=m0X5Dv_B36g  
 
-tags: git, technical
+> Unknown (2022-08-13 21:00:55)  
+> #git
 
----
+--
+
+use "git restore filename" to discard changes in working directory  
+
+> Unknown (2023-09-07 12:11:24)  
+> #git
+
+--
+
+Rollback a file:
+
+```  
+git checkout HEAD -- filename  
+```  
+
+> Unknown (2023-08-08 22:07:48)  
+> #git
+
+--
 
 - Commit count: ```git log --oneline --all | wc -l```
 - Change committer name: vim ~./gitconfig
@@ -74,9 +79,8 @@ tags: git, technical
 - Remove a file from staging area: $ git reset HEAD filename.sql
 - Undo last commit: $ git reset HEAD~
 - If you don't specify your global email address, Github does not show your commits on your activity graph (git config --global user.email)
-- git clone --recurse-submodules {scm-host}
+- git clone --recurse-submodules {scm-host}  
 
-*>_ Unknown* (2022-08-13 21:00:30)
-
-tags: git, technical
+> Unknown (2022-08-13 21:00:30)  
+> #git
 

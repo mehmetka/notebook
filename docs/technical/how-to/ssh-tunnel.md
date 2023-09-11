@@ -1,5 +1,5 @@
 ---
-tags: [how-to, technical]
+tags: [how-to]
 ---
 
 # SSH Tunnel on Windows 10 w/PuTTY and Burp Suite
@@ -25,9 +25,8 @@ tags: [how-to, technical]
 2.3. Project Options > Click "Override User Options" > Write "Socks Proxy host":127.0.0.1, "Socks Proxy port":4567, Click "Use SOCKS Proxy", Click "Do DNS lookups over SOCKS proxy"  
 ![burp-suite-project-options-socks-proxy-conf](/img/burp-suite-project-options-socks-proxy-conf.png)
 
-3. Done \m/
+3. Done \m/  
 
-*>_ Unknown* (2022-08-13 21:03:58)
-
-tags: how-to, technical
+> Unknown (2022-08-13 21:03:58)  
+> #how-to
 

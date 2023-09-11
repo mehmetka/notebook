@@ -1,26 +1,23 @@
 ---
-tags: [general, minesogut]
+tags: [minesogut]
 ---
 
-İnsan ölünce içindeki şarkılar da ölür mü?
+İnsan ölünce içindeki şarkılar da ölür mü?  
 
-*>_ Mine Söğüt - Deli Kadın Hikayeleri* (2020-08-05 11:22:07)
+> Mine Söğüt - Deli Kadın Hikayeleri (2020-08-05 11:22:07)  
+> #minesogut
 
-tags: general, minesogut
+--
 
----
+Ah doktorcuğum o şarkıyı alırken içimden çok dikkat et. Şarkıda çok güzel bir cümle vardı o düşmesin  
 
-Ah doktorcuğum o şarkıyı alırken içimden çok dikkat et. Şarkıda çok güzel bir cümle vardı o düşmesin
+> Mine Söğüt - Deli Kadın Hikayeleri (2020-08-05 11:22:07)  
+> #minesogut
 
-*>_ Mine Söğüt - Deli Kadın Hikayeleri* (2020-08-05 11:22:07)
+--
 
-tags: general, minesogut
+Hiçbir ev kadını kendini mutfakta asmaz. Yemeklere yas sıçratmaz.  
 
----
-
-Hiçbir ev kadını kendini mutfakta asmaz. Yemeklere yas sıçratmaz.
-
-*>_ Mine Söğüt - Deli Kadın Hikayeleri* (2020-08-05 11:22:07)
-
-tags: general, minesogut
+> Mine Söğüt - Deli Kadın Hikayeleri (2020-08-05 11:22:07)  
+> #minesogut
 

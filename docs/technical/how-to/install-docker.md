@@ -1,5 +1,5 @@
 ---
-tags: [how-to, technical]
+tags: [how-to]
 ---
 
 # Install Docker
@@ -22,9 +22,8 @@ sudo systemctl enable docker
 sudo usermod -a -G docker ec2-user  
 ```
 
-Source: https://docs.aws.amazon.com/AmazonECS/latest/userguide/create-container-image.html#create-container-image-install-docker
+Source: https://docs.aws.amazon.com/AmazonECS/latest/userguide/create-container-image.html#create-container-image-install-docker  
 
-*>_ Unknown* (2022-08-13 21:03:18)
-
-tags: how-to, technical
+> Unknown (2022-08-13 21:03:18)  
+> #how-to
 

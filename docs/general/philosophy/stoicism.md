@@ -1,5 +1,5 @@
 ---
-tags: [general, philosophy, stoicism]
+tags: [philosophy, stoicism]
 ---
 
 Stoaci Zenon ve takipçileri de kinik felsefenin etkisiyle, mevcut kent-devlet düzeninde yaşayan insanların tanrıları,  
@@ -13,9 +13,8 @@ Ancak Stoa felsefesinin imkansız bir hedefi olan, bu kusursuz erdemli toplum ar
 özellikle MÖ 2. yüzyıldan itibaren Roma egemenliginde yumuşadığı görülür.  
 Stoa felsefesindeki eski ütopyacı toplum anlayışı silinmiş,  
 erdeme ulaşmak için Romalı vatandaşların geleneksel değerleri koruyup  
-politik yükümlülüklerini yerine getirmesi yeterli görülmüstür.
+politik yükümlülüklerini yerine getirmesi yeterli görülmüstür.  
 
-*>_ Unknown* (2020-08-05 11:22:07)
-
-tags: general, philosophy, stoicism
+> Unknown (2020-08-05 11:22:07)  
+> #philosophy #stoicism
 

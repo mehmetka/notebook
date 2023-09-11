@@ -1,5 +1,5 @@
 ---
-tags: [security, technical]
+tags: [security]
 ---
 
 # Secure Coding
@@ -8,9 +8,8 @@ tags: [security, technical]
 
 - Security Misconfiguration: DO NOT USE ANY DEFAULT THINGS
 - Preventing LDAP Injection in PHP: Do not let users to use these characters in LDAP operations: \ # + < > , ; " =
-- Do not use credentials in source code (Password management: Password In Comment, Password Management: Empty Password In Configuration File)
+- Do not use credentials in source code (Password management: Password In Comment, Password Management: Empty Password In Configuration File)  
 
-*>_ Unknown* (2022-08-13 21:06:21)
-
-tags: security, technical
+> Unknown (2022-08-13 21:06:21)  
+> #security
 

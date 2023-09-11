@@ -1,5 +1,5 @@
 ---
-tags: [gitlab, technical]
+tags: [gitlab]
 ---
 
 # Install Gitlab Runner
@@ -35,9 +35,8 @@ sudo useradd --comment 'GitLab Runner' --create-home gitlab-runner --shell /bin/
 ```  
 sudo gitlab-runner install --user=gitlab-runner --working-directory=/home/gitlab-runner  
 sudo gitlab-runner start  
-```
+```  
 
-*>_ Unknown* (2022-08-13 21:02:28)
-
-tags: gitlab, technical
+> Unknown (2022-08-13 21:02:28)  
+> #gitlab
 

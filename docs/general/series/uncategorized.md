@@ -1,494 +1,423 @@
 ---
-tags: [bigmouth, brutalwill, fisforfamily, general, leylailemecnun, love, lucifer, netflix, series, thepunisher]
+tags: [bigmouth, brutalwill, fisforfamily, leylailemecnun, love, lucifer, netflix, series, thepunisher]
 ---
 
-# uncategorized
+Sen ne kapalı kutuydun be! İçini açıp bakacak kadar merak uyandıran.  
+Kırılıp içinde ne varmış bakılacak kadar.  
+
+> Yedi Güzel Adam (2020-08-05 11:22:07)  
+  
+--
+
+Benim bir yöntemim yok, doğuştan gelen rahatsızlığım var  
+
+> Behzat Ç. (2020-08-05 11:22:07)  
+  
+--
+
+Acının kokusuna gelir şair, buralarda bir yerdedir  
+
+> Yedi Güzel Adam (2020-08-05 11:22:07)  
+  
+--
+
+Yine teğet geçti ölüm kirpiğimizden  
+
+> Yedi Güzel Adam (2020-08-05 11:22:07)  
+  
+--
+
+Herkes buzdağının görünen kısmının şiirini yazar, ben görünmeyen kısmının şiirini yazıyorum.  
+
+> Yedi Güzel Adam (2020-08-05 11:22:07)  
+  
+--
 
 Ben deliyim ya  
-Ben de deliyim abi gel arkadaşlık ederiz işte
+Ben de deliyim abi gel arkadaşlık ederiz işte  
 
-*>_ Yedi Güzel Adam* (2020-08-05 11:22:07)
+> Yedi Güzel Adam (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Kendi hikayenin kahramanıyla bile dalga geçiyorsun  
 
----
+> Yedi Güzel Adam (2020-08-05 11:22:07)  
+  
+--
 
-Kendi hikayenin kahramanıyla bile dalga geçiyorsun
+Yeter diye bağırmıştı bir yazısında.  
 
-*>_ Yedi Güzel Adam* (2020-08-05 11:22:07)
+> Yedi Güzel Adam (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Kendimle başbaşa kalayım dedim duyan geldi, duyan geldi.  
 
----
+> Leyla ile Mecnun (2020-08-05 11:22:07)  
+> #leylailemecnun
 
-Yeter diye bağırmıştı bir yazısında.
+--
 
-*>_ Yedi Güzel Adam* (2020-08-05 11:22:07)
+Kızı hem seviyorum diyorsun hem de gidip günlüğünü çalıyorsun  
 
-tags: general
+> Leyla ile Mecnun (2020-08-05 11:22:07)  
+> #leylailemecnun
 
----
+--
 
-Kendimle başbaşa kalayım dedim duyan geldi, duyan geldi.
+How the little pigs will grunt when they hear how the old boar suffered  
 
-*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
-
-tags: general, leylailemecnun
-
----
-
-Kızı hem seviyorum diyorsun hem de gidip günlüğünü çalıyorsun
-
-*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
-
-tags: general, leylailemecnun
-
----
-
-How the little pigs will grunt when they hear how the old boar suffered
-
-*>_ Vikings* (2020-08-05 11:22:07)
-
-tags: general
-
----
+> Vikings (2020-08-05 11:22:07)  
+  
+--
 
 Max, Maxine'in kısa hali mi?  
-M'in uzun hali
+M'in uzun hali  
 
-*>_ 2 Broke Girls* (2020-08-05 11:22:07)
+> 2 Broke Girls (2020-08-05 11:22:07)  
+  
+--
 
-tags: general
+Zaman, hiç bir şeyi düzeltmez sadece üzerini örter. Sakladığın acılar bir gün mutlaka ortaya çıkar. Herkes zamanı geri alabilmek ister.Kimi eski güzel günleri tekrar yaşıyabilmek için, kimi, yaptığı yanlışları düzeltebilmek için. Kimi ise sadece yaşadığını hissedebilmek için ister bunu. Gelecekten korkanlarsa zamanı durdurmak ister. Her şey o kadar iyidir ki bunun bozulmaması için çaba gösterirler ama kimse şu anın değerini bilenler kadar mutlu değildir. Geçmiş de gelecekde, onlardadır. Bazılarıysa zamanın ta kendisi gibidir ve her insan zamanın dünya üzerinde bıraktığı birer yara izidir.  
 
----
+> Leyla ile Mecnun (2020-08-05 11:22:07)  
+> #leylailemecnun
 
-Zaman, hiç bir şeyi düzeltmez sadece üzerini örter. Sakladığın acılar bir gün mutlaka ortaya çıkar. Herkes zamanı geri alabilmek ister.Kimi eski güzel günleri tekrar yaşıyabilmek için, kimi, yaptığı yanlışları düzeltebilmek için. Kimi ise sadece yaşadığını hissedebilmek için ister bunu. Gelecekten korkanlarsa zamanı durdurmak ister. Her şey o kadar iyidir ki bunun bozulmaması için çaba gösterirler ama kimse şu anın değerini bilenler kadar mutlu değildir. Geçmiş de gelecekde, onlardadır. Bazılarıysa zamanın ta kendisi gibidir ve her insan zamanın dünya üzerinde bıraktığı birer yara izidir.
+--
 
-*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
+İç çekişlerim bile senle ilgili olmak zorunda mı?  
 
-tags: general, leylailemecnun
+> 2 Broke Girls (2020-08-05 11:22:07)  
+  
+--
 
----
+Başka bir yerde zombi gibi yürüyebilir misin?  
 
-İç çekişlerim bile senle ilgili olmak zorunda mı?
+> The Last Man on Earth (2020-08-05 11:22:07)  
+  
+--
 
-*>_ 2 Broke Girls* (2020-08-05 11:22:07)
+uzerinde durdugu ayaklari ne kadar guclu olursa olsun…  
 
-tags: general
+> Leyla ile Mecnun - S03E19 (2020-08-05 11:22:05)  
+> #brutalwill #leylailemecnun
 
----
+--
 
-Başka bir yerde zombi gibi yürüyebilir misin?
+Kalkmama yardim et ki, seni terk edebileyim.  
 
-*>_ The Last Man on Earth* (2020-08-05 11:22:07)
+> F is for Family (2020-08-05 11:22:07)  
+> #fisforfamily #series
 
-tags: general
+--
 
----
+Ben ne tur bir hayalkirikligiyim?  
 
-uzerinde durdugu ayaklari ne kadar guclu olursa olsun…
+> F is for Family (2020-08-05 11:22:07)  
+> #fisforfamily #series
 
-*>_ Leyla ile Mecnun - S03E19* (2020-08-05 11:22:05)
+--
 
-tags: brutalwill, leylailemecnun
+Bu nasil bir komunist iskencesi boyle?  
 
----
+> F is for Family (2020-08-05 11:22:07)  
+> #fisforfamily #series
 
-Kalkmama yardim et ki, seni terk edebileyim.
+--
 
-*>_ F is for Family* (2020-08-05 11:22:07)
+Beklemek en korkunc halidir yasamanin.  
 
-tags: fisforfamily, general, series
+> Leyla ile Mecnun (2020-08-05 11:22:07)  
+> #leylailemecnun #series
 
----
+--
 
-Ben ne tur bir hayalkirikligiyim?
+Istedigin neyse bulacagin da odur.  
 
-*>_ F is for Family* (2020-08-05 11:22:07)
+> Leyla ile Mecnun (2020-08-05 11:22:07)  
+> #leylailemecnun #series
 
-tags: fisforfamily, general, series
+--
 
----
+Devrim de burada basladi zaten.  
 
-Bu nasil bir komunist iskencesi boyle?
+> Leyla ile Mecnun (2020-08-05 11:22:07)  
+> #leylailemecnun #series
 
-*>_ F is for Family* (2020-08-05 11:22:07)
+--
 
-tags: fisforfamily, general, series
+Maybe everybody wants to make somebody feel worse than they do  
 
----
+> The Punisher (2020-08-05 11:22:06)  
+> #series #thepunisher
 
-Beklemek en korkunc halidir yasamanin.
+--
 
-*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
+Keci sutu edebiyati. Sonra kecileri kacirdim, bitti benim kariyer.  
 
-tags: general, leylailemecnun, series
-
----
-
-Istedigin neyse bulacagin da odur.
-
-*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
-
-tags: general, leylailemecnun, series
-
----
-
-Devrim de burada basladi zaten.
-
-*>_ Leyla ile Mecnun* (2020-08-05 11:22:07)
-
-tags: general, leylailemecnun, series
-
----
-
-Maybe everybody wants to make somebody feel worse than they do
-
-*>_ The Punisher* (2020-08-05 11:22:06)
-
-tags: general, series, thepunisher
-
----
-
-Keci sutu edebiyati. Sonra kecileri kacirdim, bitti benim kariyer.
-
-*>_ Mutlu Ol Yeter - S01E06* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> Mutlu Ol Yeter - S01E06 (2020-08-05 11:22:06)  
+  
+--
 
 therapist- well if you change your mind, my door is always open  
-lucifer- well, feel free to shut it.
+lucifer- well, feel free to shut it.  
 
-*>_ Lucifer* (2020-08-05 11:22:06)
+> Lucifer (2020-08-05 11:22:06)  
+> #lucifer #netflix #series
 
-tags: general, lucifer, netflix, series
+--
 
----
+Pismanlik cok gereksiz bir duygudur.  
 
-Pismanlik cok gereksiz bir duygudur.
+> Lucifer (2020-08-05 11:22:06)  
+> #lucifer #netflix #series
 
-*>_ Lucifer* (2020-08-05 11:22:06)
+--
 
-tags: general, lucifer, netflix, series
+Baby steps. It took eons to perfect this.  
 
----
+> Lucifer (2020-08-05 11:22:06)  
+> #lucifer #netflix #series
 
-Baby steps. It took eons to perfect this.
+--
 
-*>_ Lucifer* (2020-08-05 11:22:06)
+What is it you truly desired?  
 
-tags: general, lucifer, netflix, series
+> Lucifer (2020-08-05 11:22:06)  
+> #lucifer #netflix #series
 
----
+--
 
-What is it you truly desired?
+it's the perfect level bloodiness  
 
-*>_ Lucifer* (2020-08-05 11:22:06)
+> Love (2020-08-05 11:22:06)  
+> #love #netflix #series
 
-tags: general, lucifer, netflix, series
+--
 
----
+Aklim yok benim, hicbirimizin yok. ~Erdal Bakkal  
 
-it's the perfect level bloodiness
+> Leyla ile Mecnun (2020-08-05 11:22:06)  
+  
+--
 
-*>_ Love* (2020-08-05 11:22:06)
+gerceklik sadece bir kurgu.  
 
-tags: general, love, netflix, series
+> BigMouth (2020-08-05 11:22:06)  
+> #bigmouth #series
 
----
+--
 
-Aklim yok benim, hicbirimizin yok. ~Erdal Bakkal
+O zaman bile ki onlar en kötü zamanlardı, tek yapabildiğim tanrıya şükretmekti. Var olan, var olmuş ya da var olacak her tanrıya … ve tüm evrene ve teşekkür edebileceğim herkese…  
 
-*>_ Leyla ile Mecnun* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Bazen uzun ve zor bir yoldu. Ama iyi ki uzun ve zordu. Çünkü buraya ulaşmak için acı çekmeseydim, öğrendiğim şey bu kadar net olmayabilirdi.  
 
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-gerceklik sadece bir kurgu.
+Bu adamda, tanıdığım herkesten daha fazla duygusal direnç var… Uzun, zor bir yoldu… Sonunda buraya vardık.  
 
-*>_ BigMouth* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: bigmouth, general, series
+Hayatim, hayatim. Burada baska bir evrenden geldigini iddia eden biri var  
 
----
+> Leyla ile Mecnun - S02E32 (2020-08-05 11:22:06)  
+> #leylailemecnun
 
-O zaman bile ki onlar en kötü zamanlardı, tek yapabildiğim tanrıya şükretmekti. Var olan, var olmuş ya da var olacak her tanrıya … ve tüm evrene ve teşekkür edebileceğim herkese…
+--
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+Sonucu biliyor olmaniz yolculugun keyifli olmayacagi anlamina gelmiyor  
 
-tags: general
+> How I Met Your Mother - S2E14 (2020-08-05 11:22:06)  
+  
+--
 
----
+Az once nefret ettigim birine, sevdigim bir seyin referasiyla hakaret ettin. Ted  
 
-Bazen uzun ve zor bir yoldu. Ama iyi ki uzun ve zordu. Çünkü buraya ulaşmak için acı çekmeseydim, öğrendiğim şey bu kadar net olmayabilirdi.
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+Ebedi mutluluk yoktu. Sadece cok fazla aci vardi.  
 
-tags: general
+> How I Met Your Mother - S01E04 (2020-08-05 11:22:06)  
+  
+--
 
----
+Ted up: tedlesmek. Fazla dusunup feci sonuclara varmak.  
 
-Bu adamda, tanıdığım herkesten daha fazla duygusal direnç var… Uzun, zor bir yoldu… Sonunda buraya vardık.
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+neden bunu gormem gerekiyor? neden bunu gormek isteyeyim? gozlerimi ve beynimi bu kadar igrenc bir seye maruz birakmak hayatimi ne sekilde zenginlestirebilir? ~marshall  
 
-tags: general
-
----
-
-Hayatim, hayatim. Burada baska bir evrenden geldigini iddia eden biri var
-
-*>_ Leyla ile Mecnun - S02E32* (2020-08-05 11:22:06)
-
-tags: general, leylailemecnun
-
----
-
-Sonucu biliyor olmaniz yolculugun keyifli olmayacagi anlamina gelmiyor
-
-*>_ How I Met Your Mother - S2E14* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Az once nefret ettigim birine, sevdigim bir seyin referasiyla hakaret ettin. Ted
-
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Ebedi mutluluk yoktu. Sadece cok fazla aci vardi.
-
-*>_ How I Met Your Mother - S01E04* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Ted up: tedlesmek. Fazla dusunup feci sonuclara varmak.
-
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-neden bunu gormem gerekiyor? neden bunu gormek isteyeyim? gozlerimi ve beynimi bu kadar igrenc bir seye maruz birakmak hayatimi ne sekilde zenginlestirebilir? ~marshall
-
-*>_ How I Met Your Mother - S03E08* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother - S03E08 (2020-08-05 11:22:06)  
+  
+--
 
 Ted: Yani sen hic fotograf saklamaz misin?  
-Robin: Hayir, ask mektubu, yillik veya birinin kulleri gibiler. Sadece yer kapliyorlar.
+Robin: Hayir, ask mektubu, yillik veya birinin kulleri gibiler. Sadece yer kapliyorlar.  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+"Kanada'da insanlar nazik oldugunuz surece nereli oldugunuzu onemsemezler"  
 
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-"Kanada'da insanlar nazik oldugunuz surece nereli oldugunuzu onemsemezler"
+Cok hizli ilerleyip her seyi mahvedecegim bakisi  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Belirsiz, kendine guveniyormussun gibi gelen moda sozleri soylemen lazim. Sinerji ve dinamizm gibi. Bir kelime uydurabilirsin.  
 
----
-
-Cok hizli ilerleyip her seyi mahvedecegim bakisi
-
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Belirsiz, kendine guveniyormussun gibi gelen moda sozleri soylemen lazim. Sinerji ve dinamizm gibi. Bir kelime uydurabilirsin.
-
-*>_ How I Met Your Mother - S4E14* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother - S4E14 (2020-08-05 11:22:06)  
+  
+--
 
 robin- please shut up  
 barney- what?  
-robin- i thought you said something, sorry
+robin- i thought you said something, sorry  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
 O mac ... Kahretsin!  
 1999 NFC maci mi?  
 Evet  
 Kahretsin  
-Hayatim boyunca agladigini gormedigim babam bir goz yasi sildi. Bana "Icimde bir sey oldu oglum" dedi.
+Hayatim boyunca agladigini gormedigim babam bir goz yasi sildi. Bana "Icimde bir sey oldu oglum" dedi.  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
 Barney anlamiyorum. Bu goruntulerde hicbir sey yapmiyorsun.  
-Aynen oyle. Sirketler bunu istiyor. Cesur, risk aliyor gibi gorunen ama bir sey yapmayan insanlari. Gercekten bir sey yapmak insani kovdurur.
+Aynen oyle. Sirketler bunu istiyor. Cesur, risk aliyor gibi gorunen ama bir sey yapmayan insanlari. Gercekten bir sey yapmak insani kovdurur.  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Hayaletler yoluna devam edene dek huzura ulasamaz.  
 
----
-
-Hayaletler yoluna devam edene dek huzura ulasamaz.
-
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
 M- Yardimi dokunacaksa ben de sana inaniyorum  
-L- Var olmama ihtimalim epey yuksek.
+L- Var olmama ihtimalim epey yuksek.  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Ted- Lily Robin'in seks hayatina penceredeki turtaya bakan cizgi film berdusu gibi salya akitiyor  
 
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-Ted- Lily Robin'in seks hayatina penceredeki turtaya bakan cizgi film berdusu gibi salya akitiyor
+Nothing, i worship chaos.  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Nothing, i worship chaos.
-
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
 robin- eski odamda ne yapiyorsun?  
 ted- odanin bos durmasi canimi sikiyordu aklima gelmemen icin saglikli bir seyler yapiyorum.  
-robin- havasiz bir odada eski sevgilinle konusurken.
+robin- havasiz bir odada eski sevgilinle konusurken.  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
 Quinn- Idari strateji koordinatoru nedir?  
-Barney- Uc kurumsal kelime. Birlesince sahte bir is oluyorlar.
+Barney- Uc kurumsal kelime. Birlesince sahte bir is oluyorlar.  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Oh come on let me smell his head  
 
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-Oh come on let me smell his head
+Kendi gozumle gorene dek hicbir gizemli olayin gizemine inanmam. Cunku babam bana kendimden baska kimseye inanmamam gerektigini ogretti. ~Lily  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+> How I Met Your Mother - S07E13 (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+ne zaman gece ne yapacagima karar verecek olsam kendime "20 yil sonraya en iyi hatirayi hangisi birakir?” diye sorarim. O yuzden karari 20 yil sonraki Barney’e birakirim.  
 
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-Kendi gozumle gorene dek hicbir gizemli olayin gizemine inanmam. Cunku babam bana kendimden baska kimseye inanmamam gerektigini ogretti. ~Lily
+Ve lutfen bir daha annemle strip poker oynama.  
 
-*>_ How I Met Your Mother - S07E13* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Alti yil boyunca pasif agresif bir sekilde karsinizda kahve icmemeliydim.  
 
----
-
-ne zaman gece ne yapacagima karar verecek olsam kendime "20 yil sonraya en iyi hatirayi hangisi birakir?” diye sorarim. O yuzden karari 20 yil sonraki Barney’e birakirim.
-
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Ve lutfen bir daha annemle strip poker oynama.
-
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Alti yil boyunca pasif agresif bir sekilde karsinizda kahve icmemeliydim.
-
-*>_ How I Met Your Mother - S09E05* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother - S09E05 (2020-08-05 11:22:06)  
+  
+--
 
 Ted: Bir adamin kazara konmus kivircigini alamazsin.  
-Marshall: Kazara konmus kivircigini almadan once karisini alirsin.
+Marshall: Kazara konmus kivircigini almadan once karisini alirsin.  
 
-*>_ How I Met Your Mother - S09E21* (2020-08-05 11:22:06)
-
-tags: general
-
----
+> How I Met Your Mother - S09E21 (2020-08-05 11:22:06)  
+  
+--
 
 Selam. Ne yaziyorsun?  
 Bugun evleniyorum. Sence ne yaziyorum?  
-Intihar notu mu?
+Intihar notu mu?  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Tuvalet kagidi bitince seyi kullanin. Evlilik yeminlerinizi. ~Barney  
 
----
+> How I Met Your Mother (2020-08-05 11:22:06)  
+  
+--
 
-Tuvalet kagidi bitince seyi kullanin. Evlilik yeminlerinizi. ~Barney
+Everyone fucks everyone eventually  
 
-*>_ How I Met Your Mother* (2020-08-05 11:22:06)
+> Crashing - S01E02 (2020-08-05 11:22:06)  
+  
+--
 
-tags: general
+Gelecegi belirleyen senin bugun yaptiklarindir  
 
----
+> Leyla ile Mecnun - E102 (2020-08-05 11:22:06)  
+  
+--
 
-Everyone fucks everyone eventually
+Mutluluk ne kadar uzun surebilir ki  
 
-*>_ Crashing - S01E02* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Gelecegi belirleyen senin bugun yaptiklarindir
-
-*>_ Leyla ile Mecnun - E102* (2020-08-05 11:22:06)
-
-tags: general
-
----
-
-Mutluluk ne kadar uzun surebilir ki
-
-*>_ Black Mirror - Episode: Black Museum* (2020-08-05 11:22:06)
-
-tags: general
-
+> Black Mirror - Episode: Black Museum (2020-08-05 11:22:06)  
+  

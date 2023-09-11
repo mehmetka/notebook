@@ -1,5 +1,5 @@
 ---
-tags: [aws, technical]
+tags: [aws]
 ---
 
 # Accessing RDS from Lambda
@@ -64,7 +64,7 @@ def lambda_handler(event, context):
 
 ```shell  
 aws lambda create-function --function-name func-name --runtime python3.8 \  
-   --zip-file fileb://app.zip --role arn:aws:iam::123456789012:role/lambda-vpc-role \  
+   --zip-file fileb://app.zip --role ${RoleARN} \  
    --vpc-config SubnetIds=${SubnetIDs},SecurityGroupIds=${SecurityGroupIDs}  
 ```
 
@@ -76,11 +76,8 @@ aws lambda create-function --function-name func-name --runtime python3.8 \
 aws lambda invoke --function-name func-name output.txt  
 ```
 
-### Source:
+Source: https://docs.aws.amazon.com/lambda/latest/dg/services-rds-tutorial.html  
 
-https://docs.aws.amazon.com/lambda/latest/dg/services-rds-tutorial.html
-
-*>_ Unknown* (2022-08-13 20:54:36)
-
-tags: aws, technical
+> Unknown (2022-08-13 20:54:36)  
+> #aws
 

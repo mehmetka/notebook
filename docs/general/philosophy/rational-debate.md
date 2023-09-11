@@ -1,5 +1,5 @@
 ---
-tags: [chatgpt, general, philosophy, rationaldebate]
+tags: [chatgpt, philosophy, rationaldebate]
 ---
 
 The Ten Commandments of Rational Debate / Rasyonel Tartismanin On Emri
@@ -49,9 +49,8 @@ ChatGPT Comments:
 7- Lack of evidence does not prove or disprove a claim. Acknowledge when you don't have enough information to reach a conclusion.  
 8- The burden of proof lies with the person making a positive claim. The burden should not be shifted to the opponent.  
 9- Make sure there is a valid and logical connection between premises and conclusions.  
-10- The popularity of an idea or belief does not determine its truth value. Evaluate arguments based on their merits, not popularity.
+10- The popularity of an idea or belief does not determine its truth value. Evaluate arguments based on their merits, not popularity.  
 
-*>_ Kaan H. Ökten - Twitter* (2020-08-05 11:22:07)
-
-tags: chatgpt, general, philosophy, rationaldebate
+> Kaan H. Ökten - Twitter (2020-08-05 11:22:07)  
+> #chatgpt #philosophy #rationaldebate
 

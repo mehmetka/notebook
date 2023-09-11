@@ -1,5 +1,5 @@
 ---
-tags: [general, ringelmann-effect]
+tags: [ringelmann-effect]
 ---
 
 - 1913'te Fransız bir mühendis olan Maximilian Ringelmann, atların performansını inceler ve arabayı çeken iki atın gücünün, tek bir atın gücünün iki katına eşit olmadığı sonucuna varır. Bu sonuca şaşırarak araştırmasını insanları da kapsayacak şekilde genişletir.
@@ -7,13 +7,12 @@ tags: [general, ringelmann-effect]
 - Bilim bu duruma “Sosyal Kaytarma Etkisi” der. Bireysel performans doğrudan görünür olmadığında ortaya çıkar; bireysel çaba, grup çabasına karışır. Spordan örnekleyecek olursak; kürekçiler arasında olur, ancak bayrak yarışlarında olmaz çünkü burada bireysel fayda söz konusudur.	
 - Amazon kurucusu Jeff Bezos, ideal ekibin akşam yemeği için 5 ila 9 kişiyi doyurabilen 2 pizzadan oluştuğunu belirten prensibi ile bu duruma dikkat çeker: 2 pizza ile beslenemeyen bir takım, fikir tartışmak için büyüktür.
 - İnsanlar gruplar halindeyken yalnız olduklarından farklı davranırlar. Kalabalık çalışmalarda, bireysel performansı vurgulayan ve ödüllendiren bir süreç tanımlamak fark yaratacaktır.
-- Grupların dezavantajı, bireysel performansları mümkün olduğunca görünür hale getirerek hafifletilebilir.
+- Grupların dezavantajı, bireysel performansları mümkün olduğunca görünür hale getirerek hafifletilebilir.  
 
-*>_ Unknown* (2022-10-17 09:31:45)
+> Unknown (2022-10-17 09:31:45)  
+> #ringelmann-effect
 
-tags: general, ringelmann-effect
-
----
+--
 
 Ringelmann Etkisi
 
@@ -25,9 +24,8 @@ Ortalamada, birlikte halat çeken iki kişi, tek başlarına çekerken harcadık
 üç kişi çekerken %85’ini, sekiz kişi birlikte halat çekerken de ancak %49’unu harcıyordu.  
 "Ringelmann Etkisi" denilen bu fenomen, bireylerin performansları doğrudan görülemez olduğunda,   
 bir gruptaki birey sayısı arttıkça gruptaki her bireyin verimliliğinin düşeceğini gösterir.  
-Deneyin dolaylı sonuçlarından biri de şudur: İnsanlar bir grup içerisinde, tek başlarına olduklarından farklı davranırlar.
+Deneyin dolaylı sonuçlarından biri de şudur: İnsanlar bir grup içerisinde, tek başlarına olduklarından farklı davranırlar.  
 
-*>_ Unknown* (2020-08-05 11:22:05)
-
-tags: general, ringelmann-effect
+> Unknown (2020-08-05 11:22:05)  
+> #ringelmann-effect
 
