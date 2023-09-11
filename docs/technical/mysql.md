@@ -2,7 +2,7 @@
 tags: [docker, mysql]
 ---
 
-Using custom my.cnf in MySQL Container
+## Using custom my.cnf in MySQL Container
 
 my.cnf:
 
@@ -18,7 +18,7 @@ Bind this path (```/etc/mysql/conf.d```) to your host directory that includes cu
 
 --
 
-### Fulltext Search with "WHERE MATCH ... AGAINST ..."
+## Fulltext Search with "WHERE MATCH ... AGAINST ..."
 
 Add fulltext search index that you want to search columns:  
 ```sql  
@@ -37,7 +37,7 @@ WHERE MATCH(cc.product) AGAINST(:libraryName)
 
 --
 
-### Copy with indexes and triggers
+## Copy with indexes and triggers
 
 ```sql  
 CREATE TABLE newtable LIKE oldtable;  
