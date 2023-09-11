@@ -1,5 +1,5 @@
 ---
-tags: [aws]
+tags: [aws, docker, ecr]
 ---
 
 # Send Docker Images to AWS ECR
@@ -30,18 +30,16 @@ aws ecr create-repository \
 ```
 
 ```shell  
-docker tag hello-world:latest account_id.dkr.ecr.location.amazonaws.com/hello-world:latest  
+docker build -t account_id.dkr.ecr.location.amazonaws.com/hello-world:latest .  
 docker push aws_id.dkr.ecr.location.amazonaws.com/hello-world:latest  
 docker pull account_id.dkr.ecr.eu-central-1.amazonaws.com/hello-world:latest  
 ```
 
-* You can detect your image's vulnerabilities by setting "--image-scanning-configuration scanOnPush=true"
-* Create repository for each image.
+- You can detect your image's vulnerabilities by setting "--image-scanning-configuration scanOnPush=true"
+- Create repository for each image.
 
-### Sources:
-
-- https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html  
+Source: https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html  
 
 > Unknown (2022-08-13 20:53:53)  
-> #aws
+> #aws #docker #ecr
 
