@@ -10,7 +10,7 @@ tags: [aws, elasticbeanstalk, graviton, httpd, performance]
 
 --
 
-Add new SSH public key to AWS EC2 Instance:
+## Add new SSH public key to AWS EC2 Instance
 
 - Create new Key-Pair on AWS Console (private key will be downloaded automatically.)
 - Change permissions of private key: ```chmod 600 private-key.pem```
@@ -28,7 +28,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/replacing-key-pair.html
 
 --
 
-Get EC2 Instance Type inside of instance
+## Get EC2 Instance Type inside of instance
 
 ```  
 curl http://169.254.169.254/latest/meta-data/instance-type  
@@ -41,7 +41,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.
 
 --
 
-AWS ElasticBeanstalk PHP 7.4 Environment httpd.conf:
+## AWS ElasticBeanstalk PHP 7.4 Environment httpd.conf
 
 ```  
 ...  
@@ -63,7 +63,7 @@ Same for t4g.micro and t4g.xlarge.
 
 --
 
-# Extending EC2 Volume Size
+## Extending EC2 Volume Size
 
 ```  
 lsblk # find root volume name

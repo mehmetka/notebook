@@ -2,6 +2,55 @@
 tags: [brutalwill, daddy_issues, leylailemecnun, marasdeprem2023, supernatural]
 ---
 
+this what you boys do? sit around watching porns with angels?  
+
+> Unknown (2023-09-13 22:50:24)  
+> #supernatural
+
+--
+
+you dont watch porn in a room full of dudes and you dont talk about it.  
+
+> Unknown (2023-09-13 22:50:15)  
+> #supernatural
+
+--
+
+it's very complex. if the pizza man truly loves this babysitter why does he keep slapping her rear? perhaps she's done something wrong. Castiel  
+
+> Unknown (2023-09-13 22:50:05)  
+> #supernatural
+
+--
+
+doing this, this is how the bad guy gets us every time. it's our Achilles heel. Apparently it runs in family.  
+
+> Unknown (2023-09-13 22:49:50)  
+> #supernatural
+
+--
+
+you know the one difference between us? you know how to live without her.  
+
+> Unknown (2023-09-13 22:49:39)  
+> #supernatural
+
+--
+
+Cream hits them like tequila  
+
+> Unknown (2023-09-12 21:39:58)  
+> #supernatural
+
+--
+
+So you're saying having a soul equals suffering.  
+
+> Unknown (2023-09-12 21:39:45)  
+> #supernatural
+
+--
+
 So is he even still Sam?  
 You pose an interesting philosophical question.  
 
