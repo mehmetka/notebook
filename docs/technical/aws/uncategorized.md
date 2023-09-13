@@ -124,11 +124,3 @@ environment from the Beanstalk console.
 > Unknown (2022-08-13 20:56:36)  
 > #aws
 
---
-
-- aws api gateway uses token bucket algorithm for rate limiting
-- s3 bucket name best practices: images.domain.com  
-
-> Unknown (2022-08-13 20:56:20)  
-> #aws
-
