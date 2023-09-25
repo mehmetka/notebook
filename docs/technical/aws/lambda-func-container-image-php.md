@@ -2,7 +2,7 @@
 tags: [aws, docker, lambda, php]
 ---
 
-# PHP Lambda Functions with Docker Images
+# Lambda Function Container Image: PHP
 
 Complete guide is here: https://github.com/aws-samples/php-examples-for-aws-lambda/tree/master/0.7-PHP-Lambda-functions-with-Docker-container-images
 

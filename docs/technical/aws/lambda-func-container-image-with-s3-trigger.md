@@ -2,9 +2,11 @@
 tags: [aws, docker, ecr, gitlabci, lambda, python, s3]
 ---
 
-# Customizing Lambda with Docker Image (+Trigger)
+# Lambda Function Container Image with S3 Trigger
 
-Manipulating Images with Pillow & Imagemagick, Python 3.8 - Lambda Docker Image (S3 File Upload Trigger)
+Probably won't work directly. Just to give an idea.
+
+When an image uploaded to your S3 bucket, trig a lambda function and manipulate image as you want. Use Python 3.8, Pillow and Imagemagick libraries to do your image operations. Function is deployed as container image using below Dockerfile.
 
 ## Dockerfile
 
@@ -34,25 +36,13 @@ curl -XPOST "http://localhost:9001/2015-03-31/functions/function/invocations" -d
 
 ### S3 Payload
 
+Use `['s3']['bucket']['name']` and `record['s3']['object']['key']` to do your operations
+
 ```  
 {  
   "Records": [  
     {  
-      "eventVersion": "2.1",  
-      "eventSource": "aws:s3",  
-      "awsRegion": "location",  
-      "eventTime": "2022-07-26T09:28:13.160Z",  
-      "eventName": "ObjectCreated:Put",  
-      "userIdentity": {  
-        "principalId": "AWS:..."  
-      },  
-      "requestParameters": {  
-        "sourceIPAddress": "127.0.0.1"  
-      },  
-      "responseElements": {  
-        "x-amz-request-id": "...",  
-        "x-amz-id-2": "..."  
-      },  
+			...  
       "s3": {  
         "s3SchemaVersion": "1.0",  
         "configurationId": "...",  
@@ -75,11 +65,9 @@ curl -XPOST "http://localhost:9001/2015-03-31/functions/function/invocations" -d
 }  
 ```
 
-## Source Bucket and Destination Bucket Permissions
+## S3 Bucket Permissions
 
-Create permissions like below and give it to the lambda role to be able to work with Buckets.
-
-### Source bucket
+Create permission like below and give it to the lambda role to be able to work with Buckets.
 
 ```  
 {  
@@ -92,26 +80,9 @@ Create permissions like below and give it to the lambda role to be able to work 
         "s3:*",  
         "s3-object-lambda:*"  
       ],  
-      "Resource": "arn:aws:s3:::source-bucket-name/*"  
-    }  
-  ]  
-}  
-```
-
-### Destination bucket
-
-```  
-{  
-  "Version": "2012-10-17",  
-  "Statement": [  
-    {  
-      "Sid": "VisualEditor0",  
-      "Effect": "Allow",  
-      "Action": [  
-        "s3:*",  
-        "s3-object-lambda:*"  
-      ],  
-      "Resource": "arn:aws:s3:::destination-bucket-name/*"  
+			"Resource": [  
+				"arn:aws:s3:::bucket-name/*"  
+			]  
     }  
   ]  
 }  
@@ -154,7 +125,7 @@ should be delete old one and then add new one)
 
 ## Auto build and push with Gitlab CI
 
-- Should be define AWS credentials into ~/.aws or CI/CD variables.
+Should be define AWS credentials into ~/.aws or CI/CD variables.
 
 ```  
 stages:  
