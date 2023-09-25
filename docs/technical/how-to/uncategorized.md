@@ -1,5 +1,5 @@
 ---
-tags: [basicauth, curl, elasticsearch, exif, foxyproxy, how-to, socksproxy, sonarqube, sysctl]
+tags: [aws, basicauth, cron, curl, elasticsearch, exif, foxyproxy, how-to, linux, socksproxy, sonarqube, sysctl]
 ---
 
 ## Remove EXIF Metadata with exiftool
@@ -55,4 +55,17 @@ curl -u user:pass ...
 
 > Unknown (2023-07-31 22:00:14)  
 > #basicauth #curl #how-to
+
+--
+
+## Install cron Amazon Linux 2023
+
+```  
+sudo yum install cronie -y  
+sudo systemctl enable crond.service  
+sudo systemctl start crond.service  
+```  
+
+> Unknown (2023-08-31 17:45:56)  
+> #aws #cron #linux
 

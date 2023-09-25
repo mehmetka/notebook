@@ -1,6 +1,20 @@
 ---
-tags: [curl, php]
+tags: [curl, php, phpfpm]
 ---
+
+## Enable slowlog
+
+Add to your custom "www.conf"
+
+```  
+slowlog = /var/log/php-fpm/www.log  
+request_slowlog_timeout = 30s  
+```  
+
+> Unknown (2023-09-25 15:47:47)  
+> #phpfpm
+
+--
 
 ## Log Fatal Errors to Different Log File
 

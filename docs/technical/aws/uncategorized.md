@@ -2,6 +2,13 @@
 tags: [aws, elasticbeanstalk, graviton, httpd, performance]
 ---
 
+The size of a volume can only be increased, not decreased.  
+
+> Unknown (2023-09-18 19:35:52)  
+> #aws
+
+--
+
 - Using T4g instances you can enjoy a **performance benefit of up to 40% at a 20% lower cost in comparison to T3 instances**, providing the best price/performance for a broader spectrum of workloads.
 - T4g instances are designed for applications that don’t use CPU at full power most of the time  
 

@@ -1,8 +1,76 @@
 ---
-tags: [aws, cron, funny, golang, htaccess, http, linux, mkdocs, nextjs]
+tags: [ajax, autocomplete, browser, funny, golang, googlechrome, htaccess, http, icloud, mkdocs, nextjs, phpmyadmin, systemdesign, throughput]
 ---
 
-- When you get "sh: Operation not permitted" error while trying to run shell script on cron https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/  
+## Delete Google Chrome's Auto Redirection
+
+- Go to this URL: chrome://net-internals/#hsts
+- Enter your domain: "Delete domain security policies"
+- Click the Delete button  
+
+> Unknown (2023-09-25 14:32:17)  
+> #googlechrome
+
+--
+
+## phpMyAdmin Custom Config
+
+config.user.inc.php file -> /etc/phpmyadmin/config.user.inc.php
+
+```  
+$cfg['Servers'] = [  
+    1 => [  
+        'auth_type' => 'config',  
+        'host' => 'REMOTE_HOST_IP/CONTAINER_HOST',  
+        'user' => 'USER',  
+        'password' => 'PASSWORD'  
+    ]  
+];  
+```  
+
+> Unknown (2023-09-22 09:43:09)  
+> #phpmyadmin
+
+--
+
+Always consider the complexity you are bringing with introduction of a Distributed System. Sometimes it is better to just use traditional frameworks.  
+
+> Linkedin (2023-09-21 23:58:13)  
+> #systemdesign
+
+--
+
+"Exit Code" > 0 means something's wrong.  
+
+> Unknown (2023-09-14 21:44:49)  
+  
+--
+
+## Autocomplete on AJAX Requests
+
+Browser does not allow to use autocomplete on values which access by AJAX request
+
+## iCloud Path
+
+iCloud path: /Users/username/Library/Mobile Documents/com~apple~CloudDocs
+
+## Block Javascript
+
+```<noscript>``` is for browsers which block javascript  
+
+> Unknown (2022-08-13 21:08:23)  
+> #ajax #autocomplete #browser #icloud
+
+--
+
+What is throughput? Throughput is a way to measure the amount of work this service is handling. It measures how many requests are being processed per minute.  
+
+> New Relic (2023-09-14 20:56:53)  
+> #throughput
+
+--
+
+When you get "sh: Operation not permitted" error while trying to run shell script on cron https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/  
 
 > Unknown (2022-08-13 21:10:58)  
   
@@ -34,19 +102,6 @@ Order Deny,Allow
 
 > Unknown (2022-08-13 21:08:42)  
 > #htaccess
-
---
-
-## Install cron Amazon Linux 2023
-
-```  
-sudo yum install cronie -y  
-sudo systemctl enable crond.service  
-sudo systemctl start crond.service  
-```  
-
-> Unknown (2023-08-31 17:45:56)  
-> #aws #cron #linux
 
 --
 
@@ -123,14 +178,6 @@ stress --cpu 2 --timeout 60
 ```  
 
 > Unknown (2023-08-10 22:45:50)  
-  
---
-
-- iCloud path: /Users/username/Library/Mobile Documents/com~apple~CloudDocs
-- Browser does not allow to use autocomplete on values which access by AJAX request
-- ```<noscript>``` is for browsers which block javascript  
-
-> Unknown (2022-08-13 21:08:23)  
   
 --
 

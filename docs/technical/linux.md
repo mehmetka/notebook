@@ -2,6 +2,32 @@
 tags: [linux]
 ---
 
+## File System
+
+Essential command binaries: /bin  
+System boot loader files: /boot  
+Device files: /dev  
+Host-specific system-wide configuration files: /etc  
+User home directory: /home  
+Shared library modules: /lib  
+Media file such as CD-ROM: /media  
+Temporary mounted filesystems: /mnt  
+Add-on application software packages  
+Automatically generated file system: /proc  
+Home directory for root user: /root  
+Run-time program data: /run  
+System binaries: /sbin  
+Site-specific data served by this system: /srv  
+Virtual directory providing information about the system: /sys  
+Temporary files: /tmp  
+Read-only user files: /usr  
+File that is expected to continuously change: /var  
+
+> Cloudairy (2023-09-16 13:06:08)  
+> #linux
+
+--
+
 ## Reverse order by time
 
 a -> all  

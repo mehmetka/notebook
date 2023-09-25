@@ -2,6 +2,292 @@
 tags: [brutalwill, daddy_issues, leylailemecnun, marasdeprem2023, supernatural]
 ---
 
+what's the plan exactly?  
+don't die.
+
+do i have to use my mom voice?
+
+i lead the worst existence you can imagine and then i found you.  
+
+> Supernatural 7.12 (2023-09-25 22:20:52)  
+> #supernatural
+
+--
+
+or something bad's happened already
+
+Found the right door obviously  
+How did you find it?  
+Simple, i went deep  
+Deep. like old?  
+No, deep like, crap you do not want to think about so you bury it, you shove other crap over it and you dont go there, ever.
+
+Way out was through your worst memory
+
+You did what you had to do. This is where you learn that they pretty much never say thanks when you save them.
+
+You got the only genetic case of bullt-in-the-brain i've ever seen.
+
+everything else melted by that bullet, gone.
+
+last memory huh? glad i saved the best for last.  
+
+> Supernatural 7.10 (2023-09-25 14:11:25)  
+> #supernatural
+
+--
+
+You die before me, and i'll kill you.  
+
+> Supernatural 7.9 (2023-09-24 23:57:59)  
+> #supernatural
+
+--
+
+if you want somebody to love you for you, maybe you dont drug them
+
+Blueberry vodka. the answer to all life's problems.
+
+And you're? Well i'm sure you have a wonderful personality, dear.
+
+I only have one rule. make a deal, keep it. There's a reason we dont call our chits in early. Consumer confidence. This isn't wall street, this is hell. we have a little something called integrity. If this gets out, who will deal with us?  
+
+> Supernatural 7.8 (2023-09-24 22:36:41)  
+> #supernatural
+
+--
+
+how are my two favorite meatsicles?  
+is he still sucking air?
+
+very frequent non-schedule schedule  
+
+> Supernatural 7.6 (2023-09-24 00:21:47)  
+> #supernatural
+
+--
+
+Do you know what this means? ... It means you two gotta get the hell out of Dodge. This guy hones in on people that feel guilty. Who does that sound like to you?
+
+So why would you feel guilty about not predicting the future?  
+
+> Supernatural 7.4 (2023-09-23 15:03:58)  
+> #supernatural
+
+--
+
+I've had the same job for the last six years. I have a house, two cats, a mortgage. I have a normal life.
+
+Letting the wind be our guide.   
+Like a hippie?  
+Minus the peace and love.
+
+All the coolest people are freaks.
+
+So how is spilling more blood gonna help anyone?
+
+We dont have to be alone. We can be freaks together.
+
+I'm a grade-A freak. But i'm managing it. So is Amy
+
+Plain old people taste fine but everything is better with cheese  
+
+> Supernatural 7.3 (2023-09-23 00:19:45)  
+> #supernatural
+
+--
+
+You cant torture someone who has nothing left for you to take away.
+
+This is where they bring their bodies to be fixed. they consider it a safe place. but the truth is often they actually die here instead and they never question it.
+
+Your world is whatever i want it to be.
+
+Now we are getting there. Pinocchio is seeing his strings. It's the big crescendo
+
+Hey, so maybe I'm not real. Noboy's perfect.  
+
+> Supernatural 7.2 (2023-09-22 21:34:08)  
+> #supernatural
+
+--
+
+drinking your feelings?
+
+Whatever you're looking for you might not like what you find.
+
+I'm so sorry  
+Not as sorry as you're gonna be.
+
+I'm your new god, better one.
+
+We need you to kill god  
+Pardon?  
+Kill god. You heard right, your honor
+
+God? You look awfully like a mutated angel to me
+
+The Leviathans. Long before god created angel or man, he made the first beasts.   
+Why do you think he created purgatory? To keep those clever, poisonous things out.
+
+It's just my brain leaking memories from the cage.
+
+6.21, 6.22, 7.1  
+
+> Unknown (2023-09-22 00:00:05)  
+> #supernatural
+
+--
+
+of course there isnt one heaven. each soul generates its own paradise.
+
+It's simple. Freedom is a length of rope. god wants you to hang yourself with it.
+
+Explaining freedom to angels is a bit like teaching poetry to fish.
+
+They're soldiers. They werent built for freedom. They were built to follow.
+
+Lucifer was petulant child with daddy issues
+
+No you had a choice, you just made the wrong one.  
+
+> Supernatural 6.20 (2023-09-21 09:13:57)  
+> #supernatural
+
+--
+
+been here longer than god.
+
+i'm either too drunk or not drunk enough.
+
+dont worry, most creatures i meet cant get it up for iron. it's a common monster problem.
+
+so this is how you wanna die  
+
+> Supernatural 6.18 (2023-09-19 21:18:33)  
+> #supernatural
+
+--
+
+i'm either too drunk or not drunk enough.  
+
+> Unknown (2023-09-19 21:18:45)  
+> #supernatural
+
+--
+
+You smell like a bar.
+
+What is wrong with you?  
+Get a pen. It's a long list.
+
+Accidents dont just happen accidentally
+
+What boat  
+The titanic  
+Yes well, it was meant to sink and i saved it.  
+Why did you unsink the ship?  
+Because i hated the movie  
+What movie?  
+Exactly.  
+...  
+So you saved a cruise liner because...  
+Because that god-awful Celine Dion song made me wanna smite myself  
+Who's Celine Dion?  
+She's a destitute lounge singer in quebec. Let's keep it that way, please.
+
+How do we stop Fate? Good question
+
+So we've pissed of Fate personally.  
+
+> Supernatural 6.17 (2023-09-18 22:49:29)  
+> #supernatural
+
+--
+
+It was my fault and he never let it go.  
+He should have.  
+
+> Unknown (2023-09-18 20:50:16)  
+> #supernatural
+
+--
+
+mishamigos  
+i bought part of a dead person.  
+gun. mouth. now.  
+mojo-free zone  
+
+> 6.15 (2023-09-18 14:11:10)  
+> #supernatural
+
+--
+
+i wanna dig my finger into my brain and scratch it till we're back in kansas.  
+
+> Unknown (2023-09-18 14:10:40)  
+> #supernatural
+
+--
+
+why?  
+i dont know.  
+no seriously why would anybody wanna watch our lives  
+
+> Unknown (2023-09-18 14:09:59)  
+> #supernatural
+
+--
+
+there is a reason that hunters dont hit the same town over again. Because we have a habit of leaving messes behind.  
+
+> Unknown (2023-09-17 23:00:52)  
+> #supernatural
+
+--
+
+You need one to kill one, but gotta kill one to make one. How does that work?  
+
+> Unknown (2023-09-14 23:32:46)  
+> #supernatural
+
+--
+
+Wow. That sounded creepy coming out of your mouth.  
+
+> Unknown (2023-09-14 23:32:35)  
+> #supernatural
+
+--
+
+Let me tell you what his soul felt like when i touched it. Like it had been skinned alive. If you wanted to kill your brother, you should have done it outright  
+
+> Unknown (2023-09-14 23:32:25)  
+> #supernatural
+
+--
+
+You an your brother keep coming back. You're an affront to the balance of the universe and you cause disruption on a global scale.  
+
+> Unknown (2023-09-14 20:52:27)  
+> #supernatural
+
+--
+
+Wreking the natural order is not quite such fun when you have to mop up the mess. Is it?  
+
+> Unknown (2023-09-14 20:52:17)  
+> #supernatural
+
+--
+
+The human soul is not a rubber ball. It's vulnerable, impermanent but stronger than you know and more valuable than you can imagine  
+
+> Unknown (2023-09-14 20:52:08)  
+> #supernatural
+
+--
+
 this what you boys do? sit around watching porns with angels?  
 
 > Unknown (2023-09-13 22:50:24)  

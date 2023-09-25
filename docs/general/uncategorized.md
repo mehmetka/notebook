@@ -2,6 +2,36 @@
 tags: [amywinehouse, artificial-intelligence, behzatc, brutalwill, deepworking, desire, education, hope, kaancaydamli, kaybedenlerkulubu, love, marriage, monologue, music, orucaruoba, science]
 ---
 
+her zaman “sınırlar”la ilgilenmiş olan korku edebiyatının  
+
+> William Hope Hodgson - Sınırdaki Ev (2023-09-23 12:09:25)  
+  
+--
+
+What doesnt kill you makes you stranger.  
+
+> Unknown (2022-01-21 20:46:18)  
+  
+--
+
+what doesnt kill you mutates and tries again  
+
+> Unknown (2023-03-29 09:16:31)  
+  
+--
+
+... Turk insani kendisinden daha zekisini ekranda gormeye tahammul edemedigi icin...  
+
+> Murat Soner (2023-09-17 21:06:35)  
+  
+--
+
+Yeni maceralara cikabilmek icin eskileri anlatmayi birakip, yola koyulmak gerek.  
+
+> Unknown (2023-09-14 21:40:47)  
+  
+--
+
 Kapitalizmin metaforu: insansız yataklar ve yataksız insanlar.  
 
 > dusunbildergisi - Twitter (2023-08-31 14:15:18)  
